@@ -1,6 +1,6 @@
 ---
 layout: post
-type: socratic
+type: standard_post
 title: "Socratic Seminar 26"
 meetup: "https://www.meetup.com/san-juan-bitdevs/events/315260937/"
 ---
