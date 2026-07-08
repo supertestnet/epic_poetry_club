@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 title: Epic Poetry Club
 description:  Appreciating english language epic poetry 
 header_pages:
-  - about.md
+  - posts.md
