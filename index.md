@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-
+<link rel="stylesheet" href="{{ '/assets/css/test.css' | relative_url }}">
 <div class="Home">
   <p class="Home-about">
     BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.
