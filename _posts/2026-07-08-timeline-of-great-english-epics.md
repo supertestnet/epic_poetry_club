@@ -24,6 +24,7 @@ meetup: "https://www.meetup.com/san-juan-bitdevs/events/315260937/"
 ## 1700s
 - The Iliad by Alexander Pope
 - The Odyssey by Alexander Pope
+- The History of Joseph by Elizabeth Singer Rowe
 
 ## 1800s
 - The Earthly Paradise by William Morris
