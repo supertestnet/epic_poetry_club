@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<section class="main-content">
+  <h1>{{ page.title }}</h1>
+  <p class="post-meta">{{ page.date | date: "%B %d, %Y" }}</p>
+
+  {{ content }}
+
+  <footer class="site-footer">
+    <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.title }}</a> is maintained by <a href="{{ site.github.owner_name }}">{{ site.github.owner_name }}</a>.</span>
+  </footer>
+</section>
