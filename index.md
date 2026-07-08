@@ -24,8 +24,7 @@ title: Epic Poetry Club
         {% endif %}
       {% endif %}
     {% endfor %}
-    <p><a href="/posts.html">See all posts</a></p>
-    <p><a href="/feed.xml">See rss feed</a></p>
+    <p style="display: flex; justify-content: space-between;"><a href="/posts.html">See all posts</a> <a href="/feed.xml">See rss feed</a></p>
   </div>
 </div>
 
