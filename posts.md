@@ -5,7 +5,7 @@ title: Posts
 
 <div class="Home">
   <div class="Home-posts">
-    <h2 class="Home-posts-title">Seminarios Socráticos</h2>
+    <h2 class="Home-posts-title">All posts</h2>
     {% for post in site.posts %}
       {% if post.type == "standard_post" %}
         <div class="Home-posts-post">
