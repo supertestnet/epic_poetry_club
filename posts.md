@@ -1,1 +1,19 @@
-# Hello world
+---
+layout: default
+title: Posts
+---
+
+<div class="Home">
+  <div class="Home-posts">
+    <h2 class="Home-posts-title">Seminarios Socráticos</h2>
+    {% for post in site.posts %}
+      {% if post.type == "standard_post" %}
+        <div class="Home-posts-post">
+          <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
+          <span class="Home-posts-post-arrow">&raquo;</span>
+          <a class="Home-posts-post-title" href="{{ post.url }}">{{ post.title }}</a>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
