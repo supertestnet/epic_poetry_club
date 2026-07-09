@@ -12,7 +12,7 @@ title: Epic Poetry Club
         <img
             src="https://nostr-wot.com/widgets/feed/npub1yxp7j36cfqws7yj0hkfu2mx25308u4zua6ud22zglxp98ayhh96s8c399s"
             alt="Super Testnet on Nostr"
-            style="width: 100%; max-width: 300px;" 
+            style="width: 100%; max-width: 450px;" 
         />
     </a>
     <h2 class="Home-posts-title">Recent posts on this website</h2>
