@@ -1,8 +1,7 @@
 ---
 layout: post
 type: standard_post
-title: "Recital from yesterday"
-meetup: "https://www.meetup.com/san-juan-bitdevs/events/315260937/"
+title: "Chapter 2 of the Life of Robin Hood"
 ---
 
 Yesterday I released a recording of my recital of chapter 2 of my ongoing work, "The Life of Robin Hood." Listen to it here:
