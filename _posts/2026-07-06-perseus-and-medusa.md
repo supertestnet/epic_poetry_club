@@ -174,7 +174,7 @@ Last week I finished reciting the first drafts of my book, "Perseus and Medusa."
 
   function changeMainVideo(videoId, shouldAutoplay) {
     // Appends internal system flag modifiers for seamless page operations
-    let embedUrl = `https://youtube.com{videoId}?rel=0&showinfo=0`;
+    let embedUrl = `https://www.youtube.com/embed/${videoId}`;
     if (shouldAutoplay) {
       embedUrl += "&autoplay=1";
     }
