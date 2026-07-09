@@ -125,10 +125,21 @@ Last week I finished reciting the first drafts of my book, "Perseus and Medusa."
 <script>
   // UPDATE THIS ARRAY WITH YOUR OWN YOUTUBE VIDEO DATA
   const videoPlaylist = [
-    { id: "dQw4w9WgXcQ", title: "Rick Astley - Never Gonna Give You Up", length: "3:32" },
-    { id: "9bZkp7q19f0", title: "PSY - GANGNAM STYLE", length: "4:12" },
-    { id: "kJQP7kiw5Fk", title: "Luis Fonsi - Despacito ft. Daddy Yankee", length: "4:41" },
-    { id: "V-_O7nl0Ii0", title: "Mark Ronson - Uptown Funk ft. Bruno Mars", length: "4:31" }
+    { id: "D9upj9AGqUU", title: "Perseus and Medusa Chapter 01", length: "8:04" },
+    { id: "Yl0y_WuMRKA", title: "Perseus and Medusa Chapter 02", length: "7:25" },
+    { id: "uXpM_r64pAk", title: "Perseus and Medusa Chapter 03", length: "8:34" },
+    { id: "D9upj9AGqUU", title: "Perseus and Medusa Chapter 04", length: "8:31" },
+    { id: "D9upj9AGqUU", title: "Perseus and Medusa Chapter 05", length: "9:25" },
+    { id: "D9upj9AGqUU", title: "Perseus and Medusa Chapter 06", length: "8:46" },
+    { id: "D9upj9AGqUU", title: "Perseus and Medusa Chapter 07", length: "10:25" },
+    { id: "D9upj9AGqUU", title: "Perseus and Medusa Chapter 08", length: "7:47" },
+    { id: "D9upj9AGqUU", title: "Perseus and Medusa Chapter 09", length: "8:39" },
+    { id: "D9upj9AGqUU", title: "Perseus and Medusa Chapter 10", length: "10:09" },
+    { id: "D9upj9AGqUU", title: "Perseus and Medusa Chapter 11", length: "10:01" },
+    { id: "D9upj9AGqUU", title: "Perseus and Medusa Chapter 12", length: "8:25" },
+    { id: "D9upj9AGqUU", title: "Perseus and Medusa Chapter 13", length: "8:50" },
+    { id: "D9upj9AGqUU", title: "Perseus and Medusa Chapter 14", length: "9:45" },
+    { id: "D9upj9AGqUU", title: "Perseus and Medusa Chapter 15", length: "9:37" },
   ];
 
   const iframeEl = document.getElementById('video-frame');
