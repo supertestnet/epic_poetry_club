@@ -14,6 +14,7 @@ meetup: "https://www.meetup.com/san-juan-bitdevs/events/315260937/"
 ## 1500s
 - The Iliad by George Chapman
 - The Odyssey by George Chapman
+- The Metamorphoses by Arthur Golding
 - Albion's England by William Warner
 
 ## 1600s
@@ -29,6 +30,7 @@ meetup: "https://www.meetup.com/san-juan-bitdevs/events/315260937/"
 ## 1800s
 - The Earthly Paradise by William Morris
 - The Life of Jason by William Morris
+- The Lay of the Last Minstrel by Sir Walter Scott
 - The Wanderings of Oisin by William Butler Yeats
 
 ## 1900s
