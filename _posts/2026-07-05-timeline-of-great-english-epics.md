@@ -34,5 +34,13 @@ title: "Timeline of great english epics"
 - The Wanderings of Oisin by William Butler Yeats
 
 ## 1900s
+- The Dauber by John Masefield
+- Reynald the Fox by John Masefield
 - The Ballad of the White Horse by G.K. Chesterton
+- Tristram by Edwin Arlington Robinson
 - Sir Gawain and the Green Knight by J.R.R. Tolkien
+- The Legend of Sigurd and Gudrún by J.R.R. Tolkien
+- The Fall of Arthur by J.R.R. Tolkien
+- The Lay of Aotrou and Itroun by J.R.R. Tolkien
+- The Lay of Leithian by J.R.R. Tolkien
+- The Lay of the Children of Húrin by J.R.R. Tolkien
