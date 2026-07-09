@@ -4,7 +4,7 @@ type: standard_post
 title: "Perseus and Medusa"
 ---
 
-Last week I finished reciting the first drafts of my book, "Perseus and Medusa." Listen to the recitals at this playlist:
+Last week I finished reciting the first drafts of my book, "Perseus and Medusa." Listen to my recitals at this playlist:
 
 <!-- Custom Video Player Layout -->
 <div class="custom-player-wrapper">
@@ -150,7 +150,7 @@ Last week I finished reciting the first drafts of my book, "Perseus and Medusa."
       // Pulling clean static thumbnails straight from YouTube standard content delivery servers
       itemRow.innerHTML = `
         <div class="playlist-thumb-box">
-          <img src="https://youtube.com{video.id}/mqdefault.jpg" alt="${video.title}">
+          <img src="https://img.youtube.com/vi/${video.id}/mqdefault.jpg" alt="${video.title}">
         </div>
         <div class="playlist-metadata">
           <p class="playlist-video-title">${video.title}</p>
@@ -165,7 +165,7 @@ Last week I finished reciting the first drafts of my book, "Perseus and Medusa."
         itemRow.classList.add('active-playing');
         
         // Command iframe content target conversion
-        changeMainVideo(video.id, true);
+        changeMainVideo(video.id, false);
       });
 
       menuEl.appendChild(itemRow);
