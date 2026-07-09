@@ -4,7 +4,7 @@ type: standard_post
 title: "Perseus and Medusa"
 ---
 
-Last week I finished reciting the first drafts of my book, "Perseus and Medusa." Listen to the recitals at this here playlist:
+Last week I finished reciting the first drafts of my book, "Perseus and Medusa." Listen to the recitals at this playlist:
 
 <!-- Custom Video Player Layout -->
 <div class="custom-player-wrapper">
