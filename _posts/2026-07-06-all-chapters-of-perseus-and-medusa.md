@@ -1,7 +1,7 @@
 ---
 layout: post
 type: standard_post
-title: "Perseus and Medusa"
+title: "All chapters of Perseus and Medusa"
 ---
 
 Last week I finished reciting the first drafts of my book, "Perseus and Medusa." Listen to my recitals at this playlist:
