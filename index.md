@@ -8,8 +8,14 @@ title: Epic Poetry Club
   </p>
 
   <div class="Home-posts">
-    <a class="twitter-timeline" data-height="600" href="https://x.com/VenatoVerba?ref_src=twsrc%5Etfw">Posts by VenatoVerba</a> 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a href="https://nostr-wot.com/feed/npub1yxp7j36cfqws7yj0hkfu2mx25308u4zua6ud22zglxp98ayhh96s8c399s" target="_blank" rel="noopener">
+        <img
+            src="https://nostr-wot.com/widgets/feed/npub1yxp7j36cfqws7yj0hkfu2mx25308u4zua6ud22zglxp98ayhh96s8c399s"
+            alt="Super Testnet on Nostr"
+            width="320"
+            height="220"
+        />
+    </a>
     <h2 class="Home-posts-title">Recent posts on this website</h2>
     {% assign event_posts = 7 %}
     {% assign counter = 0 %}
