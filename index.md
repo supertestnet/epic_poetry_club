@@ -8,7 +8,7 @@ title: Epic Poetry Club
   </p>
 
   <div class="Home-posts">
-    <a class="twitter-timeline" href="https://x.com/VenatoVerba?ref_src=twsrc%5Etfw">Twitter posts by Venato Verba</a> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+    <a class="twitter-timeline" href="https://x.com/VenatoVerba?ref_src=twsrc%5Etfw">Twitter posts by Venato Verba</a>
     <h2 class="Home-posts-title">Recent posts on this website</h2>
     {% assign event_posts = 7 %}
     {% assign counter = 0 %}
@@ -29,3 +29,4 @@ title: Epic Poetry Club
   </div>
 </div>
 
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
