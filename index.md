@@ -8,12 +8,11 @@ title: Epic Poetry Club
   </p>
 
   <div class="Home-posts">
-    <a href="https://nostr-wot.com/feed/npub1yxp7j36cfqws7yj0hkfu2mx25308u4zua6ud22zglxp98ayhh96s8c399s" target="_blank" rel="noopener">
+    <a href="jumble.social/nprofile1qqszrqlfgavys8g0zf8mmy79dn92ghn723wwawx49py0nqjn7jtmjagpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqs6amnwvaz7tmwdaejumr0ds55yg6w" target="_blank" rel="noopener">
         <img
             src="https://nostr-wot.com/widgets/feed/npub1yxp7j36cfqws7yj0hkfu2mx25308u4zua6ud22zglxp98ayhh96s8c399s"
             alt="Super Testnet on Nostr"
-            width="320"
-            height="220"
+            style="width: 100%; max-width: 600px;" 
         />
     </a>
     <h2 class="Home-posts-title">Recent posts on this website</h2>
