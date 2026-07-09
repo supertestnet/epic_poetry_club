@@ -2,7 +2,6 @@
 layout: post
 type: standard_post
 title: "Timeline of great english epics"
-meetup: "https://www.meetup.com/san-juan-bitdevs/events/315260937/"
 ---
 
 ## 1300s
