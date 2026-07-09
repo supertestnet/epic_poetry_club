@@ -8,9 +8,9 @@ title: Epic Poetry Club
   </p>
 
   <div class="Home-posts">
-    <a href="jumble.social/nprofile1qqszrqlfgavys8g0zf8mmy79dn92ghn723wwawx49py0nqjn7jtmjagpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqs6amnwvaz7tmwdaejumr0ds55yg6w" target="_blank" rel="noopener">
+    <a href="https://jumble.social/npub1ul2ng8gpwrn98saww7qx6qjmezp0w3s9aazuuumluyhvw0sxjzcsndx4tt" target="_blank" rel="noopener">
         <img
-            src="https://nostr-wot.com/widgets/feed/npub1yxp7j36cfqws7yj0hkfu2mx25308u4zua6ud22zglxp98ayhh96s8c399s"
+            src="https://nostr-wot.com/widgets/feed/npub1ul2ng8gpwrn98saww7qx6qjmezp0w3s9aazuuumluyhvw0sxjzcsndx4tt"
             alt="Super Testnet on Nostr"
             style="width: 100%; max-width: 450px;" 
         />
