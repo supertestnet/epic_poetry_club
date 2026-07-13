@@ -1,6 +1,21 @@
 ---
 layout: default
-title: Posts
+title: File maker
 ---
 
 <h1>Welcome to the file maker</h1>
+
+<form>
+    <p style="font-weight: bold;">File</p>
+    <p><input type="file" onchange="if ( this.files[ 0 ].size < 25000 ) {encodeBase64( this );} else {alert( 'File too large, make sure it is less than 5 kilobytes' ); this.value = null;}" /></p>
+</form>
+
+<script>
+    var encodeBase64 = file => {
+        //the next three lines handle the case where an image is passed in from an external site
+        if ( "files" in file ) file = file.files[ 0 ];
+        var imgReader = new FileReader();
+        imgReader.onloadend = () => console.log( imgReader.result.toString() );
+        imgReader.readAsDataURL( file );
+    }
+</script>
