@@ -6,5 +6,6 @@ author: Venato Verba
 header_pages:
   - posts.md
   - file_maker.html
+  - download_page.html
 plugins:
   - jekyll-feed
