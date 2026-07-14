@@ -65,8 +65,8 @@ title: Download page
         var msg = ( new TextDecoder() ).decode( decrypted );
         return msg;
     }
-    if ( $_HASH[ "decryption_key" ] ) {
-        var decryption_key = $_HASH[ "decryption_key" ];
+    if ( $_HASH[ "plink" ] ) {
+        var decryption_key = $_HASH[ "plink" ];
         (async()=>{
             var hash_of_key = await sha256( hexToBytes( decryption_key ) );
             if ( !( hash_of_key in hashes_and_names ) ) return;
