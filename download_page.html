@@ -14,9 +14,6 @@ title: Download page
         var vals = item.split( "=" );
         $_HASH[ vals[ 0 ] ] = vals[ 1 ];
     });
-    var hashes_and_names = {
-        "0bb928bad08320fb88ab331f9f036112b9a21bf9f3587319211c3bf4d9809fd4": {filename: "perseus_and_medusa", extension: "epub"},
-    }
     var hexToBytes = hex => Uint8Array.from( hex.match( /.{1,2}/g ).map( byte => parseInt( byte, 16 ) ) );
     var bytesToHex = bytes => bytes.reduce( ( str, byte ) => str + byte.toString( 16 ).padStart( 2, "0" ), "" );
     var hexToBlob = ( hex, mimeType = 'application/octet-stream' ) => {
@@ -39,11 +36,11 @@ title: Download page
         a.click();
         window.URL.revokeObjectURL( url );
     }
-    var decryptEpub = async ( decryption_key, hex_encoded_epub, epub_name ) => {
+    var decryptFile = async ( decryption_key, hex_encoded_epub, filename_plus_extension ) => {
         var decrypted = await decrypt( decryption_key, hex_encoded_epub );
         var plaintext = decrypted.substring( 64 );
         var blob = hexToBlob( plaintext );
-        saveData( blob, `${epub_name}.epub` );
+        saveData( blob, `${filename_plus_extension}` );
     }
     var decrypt = async ( decryption_key, ciphertext ) => {
         var [ emsg, iv ] = ciphertext.split( "?iv=" );
@@ -68,6 +65,9 @@ title: Download page
     }
     if ( $_HASH[ "plink" ] ) {
         var decryption_key = $_HASH[ "plink" ];
+        var hashes_and_names = {
+            "0bb928bad08320fb88ab331f9f036112b9a21bf9f3587319211c3bf4d9809fd4": {filename: "perseus_and_medusa", extension: "epub"},
+        }
         (async()=>{
             var hash_of_key = await sha256( hexToBytes( decryption_key ) );
             if ( !( hash_of_key in hashes_and_names ) ) return;
@@ -75,7 +75,7 @@ title: Download page
             var filename_plus_extension = filename + "." + extension;
             var data = await fetch( `https://epicpoetryclub.supertestnet.org/assets/encrypted_epubs/${filename}.txt` );
             var hex_encoded_epub = await data.text();
-            decryptEpub( decryption_key, hex_encoded_epub, filename_plus_extension );
+            decryptFile( decryption_key, hex_encoded_epub, filename_plus_extension );
         })();
     }
     var decrypt = async ( decryption_key, ciphertext ) => {
