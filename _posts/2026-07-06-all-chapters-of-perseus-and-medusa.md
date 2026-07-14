@@ -4,6 +4,20 @@ type: standard_post
 title: "All chapters of Perseus and Medusa"
 ---
 
+<p><button class="buy_with_fiat">Buy this book</button></p>
+<p><button class="buy_with_bitcoin">Buy this book with bitcoin</button></p>
+
+<script>
+    var $ = document.querySelector.bind( document );
+    var $$ = document.querySelectorAll.bind( document );
+    $( '.buy_with_fiat' ).onclick = () => {
+        window.location.href = `https://buy.stripe.com/fZu4gy5gBeer88ha3AcZa00`;
+    }
+    $( '.buy_with_bitcoin' ).onclick = () => {
+        window.location.href = `/buy_with_bitcoin.html#filename=perseus_and_medusa#filetype=epub`;
+    }
+</script>
+
 Last week I finished reciting the first drafts of my book, "Perseus and Medusa." Listen to my recitals at this playlist:
 
 <!-- Custom Video Player Layout -->
