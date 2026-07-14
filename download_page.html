@@ -7,6 +7,13 @@ title: Download page
 <p>Your download should begin shortly.</p>
 
 <script>
+    var hash_arr = window.location.href.substring( window.location.href.indexOf( "#" ) ).split( "#" );
+    hash_arr.splice( 0, 1 );
+    var $_HASH = {}
+    hash_arr.forEach( item => {
+        var vals = item.split( "=" );
+        $_HASH[ vals[ 0 ] ] = vals[ 1 ];
+    });
     var hexToBytes = hex => Uint8Array.from( hex.match( /.{1,2}/g ).map( byte => parseInt( byte, 16 ) ) );
     var hexToBlob = ( hex, mimeType = 'application/octet-stream' ) => {
         var byteArray = new Uint8Array( hex.length / 2 );
