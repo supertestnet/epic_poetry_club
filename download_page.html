@@ -40,7 +40,7 @@ title: Download page
         var decrypted = await decrypt( decryption_key, hex_encoded_epub );
         var plaintext = decrypted.substring( 64 );
         var blob = hexToBlob( plaintext );
-        saveData( blob, `${filename_plus_extension}` );
+        saveData( blob, filename_plus_extension );
     }
     var decrypt = async ( decryption_key, ciphertext ) => {
         var [ emsg, iv ] = ciphertext.split( "?iv=" );
