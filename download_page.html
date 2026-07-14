@@ -18,6 +18,7 @@ title: Download page
         "0bb928bad08320fb88ab331f9f036112b9a21bf9f3587319211c3bf4d9809fd4": {filename: "perseus_and_medusa", extension: "epub"},
     }
     var hexToBytes = hex => Uint8Array.from( hex.match( /.{1,2}/g ).map( byte => parseInt( byte, 16 ) ) );
+    var bytesToHex = bytes => bytes.reduce( ( str, byte ) => str + byte.toString( 16 ).padStart( 2, "0" ), "" );
     var hexToBlob = ( hex, mimeType = 'application/octet-stream' ) => {
         var byteArray = new Uint8Array( hex.length / 2 );
         for ( var i = 0; i < hex.length; i += 2 ) byteArray[ i / 2 ] = parseInt( hex.substr( i, 2 ), 16 );
