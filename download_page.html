@@ -63,11 +63,11 @@ title: Download page
         var msg = ( new TextDecoder() ).decode( decrypted );
         return msg;
     }
+    var hashes_and_names = {
+        "0bb928bad08320fb88ab331f9f036112b9a21bf9f3587319211c3bf4d9809fd4": {filename: "perseus_and_medusa", extension: "epub"},
+    }
     if ( $_HASH[ "plink" ] ) {
         var decryption_key = $_HASH[ "plink" ];
-        var hashes_and_names = {
-            "0bb928bad08320fb88ab331f9f036112b9a21bf9f3587319211c3bf4d9809fd4": {filename: "perseus_and_medusa", extension: "epub"},
-        }
         (async()=>{
             var hash_of_key = await sha256( hexToBytes( decryption_key ) );
             if ( !( hash_of_key in hashes_and_names ) ) return;
