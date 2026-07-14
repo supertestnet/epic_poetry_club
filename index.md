@@ -4,10 +4,13 @@ title: Venato Verba
 ---
 <div class="Home">
   <p class="Home-about">
-    Venato Verba is a poet who loves to write english language epic poetry.
+      Venato Verba is a poet who loves to write english language epic poetry.
   </p>
 
   <div class="Home-posts">
+    <p class="Home-about">
+        Venato Verba's latest social media posts:
+    </p>
     <!-- Place this container where you want the feed to appear -->
     <div 
       id="nostr-feed-widget" 
