@@ -81,7 +81,7 @@ title: Venato Verba
                     }
     
                     html += `
-                        <div class="nostr-post" style="border-bottom: 1px solid #eee; padding: 10px 0;">
+                        <div class="nostr-post">
                             <small style="color: #666;">${date}</small>
                             <p style="margin: 5px 0;">${safeContent}</p>
                         </div>
@@ -93,7 +93,7 @@ title: Venato Verba
                 // Append the Jumble profile link
                 html += `
                     <div style="margin-top: 15px;">
-                        <a href="https://jumble.social/users/${npub}" target="_blank" rel="noopener noreferrer" style="color: #0080ff; text-decoration: none; font-weight: bold;">
+                        <a href="https://jumble.social/users/${npub}" target="_blank" rel="noopener noreferrer" class="nostr-profile-link">
                             View full profile on jumble.social →
                         </a>
                     </div>
