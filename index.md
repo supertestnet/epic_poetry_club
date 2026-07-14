@@ -34,7 +34,6 @@ title: Venato Verba
             var defaultRelays = ["wss://relay.damus.io", "wss://nos.lol"];
             var relayAttr = container.getAttribute('data-relays');
             var relays = relayAttr ? relayAttr.split(',').map(r => r.trim()) : defaultRelays;
-            console.log( relays );
     
             if (!npub) {
                 container.innerHTML = '<p>Error: No data-npub provided.</p>';
@@ -80,6 +79,7 @@ title: Venato Verba
                         var i; for ( i=0; i<charlength; i++ ) {
                             if ( safeContent.substring( charlength - 1 ) === " " ) safeContent = safeContent.substring( 0, safeContent.length - 1 );
                         }
+                        if ( safeContent.substring( charlength - 1 ) === "." ) safeContent = safeContent.substring( 0, safeContent.length - 1 );
                         safeContent = safeContent + "...";
                     }
     
