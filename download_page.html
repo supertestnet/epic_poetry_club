@@ -73,7 +73,7 @@ title: Download page
             if ( !( hash_of_key in hashes_and_names ) ) return;
             var { filename, extension } = hashes_and_names[ hash_of_key ];
             var filename_plus_extension = filename + "." + extension;
-            var data = await fetch( `https://epicpoetryclub.supertestnet.org/assets/encrypted_epubs/${filename}.txt` );
+            var data = await fetch( `/assets/encrypted_epubs/${filename}.txt` );
             var hex_encoded_epub = await data.text();
             decryptFile( decryption_key, hex_encoded_epub, filename_plus_extension );
         })();
