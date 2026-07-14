@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Epic Poetry Club
+title: Venato Verba
 ---
 <div class="Home">
   <p class="Home-about">
-    The Epic Poetry Club is a community dedicated to the appreciation of english language epic poetry.
+    Venato Verba is a poet who loves to write english language epic poetry.
   </p>
 
   <div class="Home-posts">
