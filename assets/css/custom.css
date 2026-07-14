@@ -1,0 +1,13 @@
+#nostr-feed-widget {
+    border: 1px solid black;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+.nostr-post {
+    border-bottom: 1px solid #999;
+    padding: 10px 0;
+}
+.nostr-profile-link {
+    color: #0000ff;
+    text-decoration: none;
+}
