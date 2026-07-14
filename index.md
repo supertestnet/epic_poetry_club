@@ -8,7 +8,7 @@ title: Venato Verba
   </p>
 
   <div class="Home-posts">
-    Venato Verba's latest social media posts:
+    Venato Verba's latest social media posts:<br><br>
     <!-- Place this container where you want the feed to appear -->
     <div 
         id="nostr-feed-widget" 
