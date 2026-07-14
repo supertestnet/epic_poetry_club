@@ -208,7 +208,7 @@ title: Buy with bitcoin
         var prep_div = document.createElement( "div" );
         prep_div.append( a );
         var div_html = prep_div.innerHTML;
-        showModal( `<div style="max-width: 15rem; margin: auto;">${div_html}<div class="copy_box"><input class="copy_addy" value="${bolt11}" disabled=""> <span>&nbsp;</span><div class="copy_btn">⎘</div></div></div>` );
+        showModal( `<p>Use a bitcoin wallet that supports the lightning network</p><div style="max-width: 15rem; margin: auto;">${div_html}<div class="copy_box"><input class="copy_addy" value="${bolt11}" disabled=""> <span>&nbsp;</span><div class="copy_btn">⎘</div></div></div>` );
         $( '.copy_btn' ).onclick = () => {
             var copytext = $( '.copy_addy' );
             copytext.select();
