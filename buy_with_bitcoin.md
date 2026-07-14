@@ -194,6 +194,7 @@ title: Buy with bitcoin
 
     //prepare other functions
     var buyItem = async () => {
+        showModal( `<p>Loading...</p>` );
         var username = getUsername( $_HASH[ "filename" ], $_HASH[ "filetype" ] );
         var invoice_data = await getInvoiceData( username );
         var bolt11_id = invoice_data[ "id" ];
