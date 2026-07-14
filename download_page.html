@@ -14,11 +14,19 @@ title: Download page
         var vals = item.split( "=" );
         $_HASH[ vals[ 0 ] ] = vals[ 1 ];
     });
+    var hashes_and_names = {
+        "0bb928bad08320fb88ab331f9f036112b9a21bf9f3587319211c3bf4d9809fd4": {filename: "perseus_and_medusa", extension: "epub"},
+    }
     var hexToBytes = hex => Uint8Array.from( hex.match( /.{1,2}/g ).map( byte => parseInt( byte, 16 ) ) );
     var hexToBlob = ( hex, mimeType = 'application/octet-stream' ) => {
         var byteArray = new Uint8Array( hex.length / 2 );
         for ( var i = 0; i < hex.length; i += 2 ) byteArray[ i / 2 ] = parseInt( hex.substr( i, 2 ), 16 );
         return new Blob( [ byteArray ], { type: mimeType });
+    }
+    var sha256 = async s => {
+        if ( typeof s == "string" ) s = new TextEncoder().encode( s );
+        var arr = await crypto.subtle.digest( 'SHA-256', s );
+        return bytesToHex( new Uint8Array( arr ) );
     }
     var saveData = ( blob, fileName ) => {
         var a = document.createElement( "a" );
@@ -59,9 +67,12 @@ title: Download page
     }
     if ( $_HASH[ "decryption_key" ] ) {
         var decryption_key = $_HASH[ "decryption_key" ];
-        var filename_plus_extension = $_HASH[ "filename" ] + "." + $_HASH[ "filetype" ];
         (async()=>{
-            var data = await fetch( `https://epicpoetryclub.supertestnet.org/assets/encrypted_epubs/perseus_and_medusa.txt` );
+            var hash_of_key = await sha256( hexToBytes( decryption_key ) );
+            if ( !( hash_of_key in hashes_and_names ) ) return;
+            var { filename, extension } = hashes_and_names[ hash_of_key ];
+            var filename_plus_extension = filename + "." + extension;
+            var data = await fetch( `https://epicpoetryclub.supertestnet.org/assets/encrypted_epubs/${filename}.txt` );
             var hex_encoded_epub = await data.text();
             decryptEpub( decryption_key, hex_encoded_epub, filename_plus_extension );
         })();
