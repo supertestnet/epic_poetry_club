@@ -5,9 +5,12 @@ title: Buy with bitcoin
 
 <script src="https://supertestnet.github.io/bitcoin-chess/js/qrcode.js"></script>
 
-<p>Let's buy this <span class="filetype">loading...</span>:</p>
-<p><span class="filename">loading...</span> by Venato Verba</p>
-<p><button class="buy_item">Buy this item</button></p>
+<div class="buy_msg">
+    <p>Let's buy this <span class="filetype">loading...</span>:</p>
+    <p><span class="filename">loading...</span> by Venato Verba</p>
+    <p><button class="buy_item">Buy this item</button></p>
+</div>
+<p class="error_msg hidden">Error, you did not select an item for purchase</p>
 
 <style>
     .black-bg {
@@ -154,6 +157,10 @@ title: Buy with bitcoin
     $( '.filetype' ).innerText = $_HASH[ "filetype" ];
     $( '.filename' ).innerText = $_HASH[ "filename" ];
     $( '.buy_item' ).onclick = () => {buyItem()};
+    if ( !$_HASH[ "filename" ] || !$_HASH[ "filetype" ] ) {
+        $( '.buy_msg' ).remove();
+        $( '.error_msg' ).classList.remove( "hidden" );
+    }
 
     //prepare dependencies
     var hexToBytes = hex => Uint8Array.from( hex.match( /.{1,2}/g ).map( byte => parseInt( byte, 16 ) ) );
