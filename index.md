@@ -8,13 +8,111 @@ title: Venato Verba
   </p>
 
   <div class="Home-posts">
-    <a href="https://jumble.social/npub1ul2ng8gpwrn98saww7qx6qjmezp0w3s9aazuuumluyhvw0sxjzcsndx4tt" target="_blank" rel="noopener">
-        <img
-            src="https://nostr-wot.com/widgets/feed/npub1ul2ng8gpwrn98saww7qx6qjmezp0w3s9aazuuumluyhvw0sxjzcsndx4tt"
-            alt="Super Testnet on Nostr"
-            style="width: 100%; max-width: 450px;" 
-        />
-    </a>
+    <!-- Place this container where you want the feed to appear -->
+    <div 
+      id="nostr-feed-widget" 
+      data-npub="npub1ul2ng8gpwrn98saww7qx6qjmezp0w3s9aazuuumluyhvw0sxjzcsndx4tt"
+      data-relays="wss://relay.damus.io,wss://nostr.mom"
+    >
+      <p>Loading latest Nostr posts...</p>
+    </div>
+    
+    <!-- Nostr Widget Script -->
+    <script type="module">
+        // Uses nostr-tools via CDN for easy integration
+        import { nip19, SimplePool } from 'https://cdn.jsdelivr.net/npm/nostr-tools@2.23.12/+esm';
+    
+        async function initNostrFeed() {
+            var container = document.getElementById('nostr-feed-widget');
+            if (!container) return;
+    
+            // Extract parameters
+            var npub = container.getAttribute('data-npub');
+            var defaultRelays = ["wss://relay.damus.io", "wss://nos.lol"];
+            var relayAttr = container.getAttribute('data-relays');
+            var relays = relayAttr ? relayAttr.split(',').map(r => r.trim()) : defaultRelays;
+            console.log( relays );
+    
+            if (!npub) {
+                container.innerHTML = '<p>Error: No data-npub provided.</p>';
+                return;
+            }
+    
+            try {
+                // Decode npub to hex public key
+                var { data: pubkey } = nip19.decode(npub);
+    
+                // Initialize the Nostr connection pool
+                var pool = new SimplePool();
+    
+                // Fetch the latest 3 text notes (Kind 1) from the user
+                var posts = await pool.querySync(relays, {
+                    authors: [pubkey],
+                    kinds: [ 1 ],
+                    limit: 3
+                });
+    
+                // Sort posts by newest first
+                posts.sort((a, b) => b.created_at - a.created_at);
+    
+                if (posts.length === 0) {
+                    container.innerHTML = '<p>No recent posts found.</p>';
+                    return;
+                }
+    
+                // Build the HTML structure
+                var html = '<div class="nostr-posts-list">';
+          
+                posts.forEach(post => {
+                    var date = new Date(post.created_at * 1000).toLocaleDateString();
+                    // Clean up content slightly (escapes basic HTML characters)
+                    var safeContent = post.content
+                    .replace(/&/g, "&amp;")
+                    .replace(/</g, "&lt;")
+                    .replace(/>/g, "&gt;")
+                    .replace(/\n/g, "<br>");
+                    var charlength = 100;
+                    if ( safeContent.length > charlength ) {
+                        safeContent = safeContent.substring( 0, charlength );
+                        var i; for ( i=0; i<charlength; i++ ) {
+                            if ( safeContent.substring( charlength - 1 ) === " " ) safeContent = safeContent.substring( 0, safeContent.length - 1 );
+                        }
+                        safeContent = safeContent + "...";
+                    }
+    
+                    html += `
+                        <div class="nostr-post" style="border-bottom: 1px solid #eee; padding: 10px 0;">
+                            <small style="color: #666;">${date}</small>
+                            <p style="margin: 5px 0;">${safeContent}</p>
+                        </div>
+                    `;
+                });
+    
+                html += '</div>';
+    
+                // Append the Jumble profile link
+                html += `
+                    <div style="margin-top: 15px;">
+                        <a href="https://jumble.social/users/${npub}" target="_blank" rel="noopener noreferrer" style="color: #0080ff; text-decoration: none; font-weight: bold;">
+                            View full profile on jumble.social →
+                        </a>
+                    </div>
+                `;
+    
+                container.innerHTML = html;
+    
+                // Clean up connections
+                pool.close(relays);
+    
+            } catch (error) {
+                console.error(error);
+                container.innerHTML = '<p>Failed to load Nostr feed.</p>';
+            }
+        }
+    
+        // Run on page load
+        document.addEventListener('DOMContentLoaded', initNostrFeed);
+    </script>
     <h2 class="Home-posts-title">Recent posts on this website</h2>
     {% assign event_posts = 7 %}
     {% assign counter = 0 %}
