@@ -4,8 +4,8 @@ type: standard_post
 title: "All chapters of Perseus and Medusa"
 ---
 
-<p><button class="buy_with_fiat">Buy this book</button></p>
-<p><button class="buy_with_bitcoin">Buy this book with bitcoin</button></p>
+<p><button class="buy_with_fiat">Buy this ebook</button></p>
+<p><button class="buy_with_bitcoin">Buy this ebook with bitcoin</button></p>
 
 <script>
     var $ = document.querySelector.bind( document );
