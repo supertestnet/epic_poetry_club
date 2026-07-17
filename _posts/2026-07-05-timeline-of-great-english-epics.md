@@ -15,6 +15,7 @@ title: "Timeline of great english epics"
 - The Odyssey by George Chapman
 - The Metamorphoses by Arthur Golding
 - Albion's England by William Warner
+- The Aeneid by Thomas Twyne
 
 ## 1600s
 - Paradise Lost by John Milton
