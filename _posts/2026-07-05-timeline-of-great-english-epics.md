@@ -28,6 +28,7 @@ title: "Timeline of great english epics"
 - The Rape of the Lock by Alexander Pope
 - The Dunciad by Alexander Pope
 - The History of Joseph by Elizabeth Singer Rowe
+- The Thebaid by Lillington Lewis
 
 ## 1800s
 - The Lay of the Last Minstrel by Sir Walter Scott
