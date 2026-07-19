@@ -21,10 +21,12 @@ title: "Timeline of great english epics"
 - Paradise Lost by John Milton
 - Paradise Regained by John Milton
 - The Davideis by Thomas Ellwood
+- Lucan's Civil War by Thomas May
+- Supplement to Lucan by Thomas May
 
 ## 1700s
-- The Iliad by Alexander Pope
-- The Odyssey by Alexander Pope
+- The Rape of the Lock by Alexander Pope
+- The Dunciad by Alexander Pope
 - The History of Joseph by Elizabeth Singer Rowe
 
 ## 1800s
