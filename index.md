@@ -113,6 +113,7 @@ title: Venato Verba
                         <a href="https://jumble.social/users/${npub}" target="_blank" rel="noopener noreferrer" class="nostr-profile-link">
                             View on jumble.social →
                         </a>
+                        <span> | </span>
                         <a href="https://x.com/venatoverba" target="_blank" rel="noopener noreferrer" class="twitter-profile-link">
                             View on twitter →
                         </a>
