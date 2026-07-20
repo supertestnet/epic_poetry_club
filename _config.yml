@@ -8,5 +8,6 @@ header_pages:
   - file_maker.html
   - download_page.html
   - buy_with_bitcoin.html
+  - store.html
 plugins:
   - jekyll-feed
