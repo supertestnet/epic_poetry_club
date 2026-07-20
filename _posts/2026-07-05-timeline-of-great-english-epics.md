@@ -34,6 +34,7 @@ title: "Timeline of great english epics"
 - The Lay of the Last Minstrel by Sir Walter Scott
 - The Earthly Paradise by William Morris
 - The Life of Jason by William Morris
+- Idylls of the King by Lord Alfred Tennyson
 - The Song of Hiawatha by Henry Wadsworth Longfellow
 - The Wanderings of Oisin by William Butler Yeats
 
