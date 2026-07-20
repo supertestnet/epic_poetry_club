@@ -24,7 +24,7 @@ title: Venato Verba
         {% endif %}
       {% endif %}
     {% endfor %}
-    Venato Verba's latest social media posts:<br><br>
+    <h2 class="Home-posts-title">Recent posts on social media</h2>
     <!-- Place this container where you want the feed to appear -->
     <div 
         id="nostr-feed-widget" 
