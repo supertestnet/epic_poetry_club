@@ -2,6 +2,48 @@
 layout: default
 title: Store
 ---
+
+<style>
+    .hidden {
+        display: none !important;
+    }
+    .store_product {
+        display: inline-block;
+        text-align: center;
+        margin: .5rem;
+        border: 1px solid black;
+        border-radius: 1rem;
+        padding: 1rem;
+    }
+    .product_image {
+        height: 10rem;
+        width: 7rem;
+        border: 1px solid black;
+        background-position: 50% 50%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin: auto;
+    }
+</style>
+
 <p class="Home-about">
     Welcome to the store
 </p>
+
+<div class="store_product">
+    <p class="product_title">Perseus and Medusa</p>
+    <p class="product_image" style="background-image: url(https://i.ibb.co/7xySpdmG/perseus-and-medusa-cover-2.png);"></p>
+    <p><button class="buy_with_fiat">Buy this ebook</button></p>
+    <p><button class="buy_with_bitcoin">Buy this ebook with bitcoin</button></p>
+</div>
+
+<script>
+    var $ = document.querySelector.bind( document );
+    var $$ = document.querySelectorAll.bind( document );
+    $( '.buy_with_fiat' ).onclick = () => {
+        window.location.href = `https://buy.stripe.com/fZu4gy5gBeer88ha3AcZa00`;
+    }
+    $( '.buy_with_bitcoin' ).onclick = () => {
+        window.location.href = `/buy_with_bitcoin.html#filename=perseus_and_medusa#filetype=epub`;
+    }
+</script>
