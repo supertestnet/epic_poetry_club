@@ -13,5 +13,4 @@ Last week I released a recording of my recital of chapter 1 of my ongoing work, 
   .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; }
   .embed-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 </style>
-
-<p><a href="https://venatoverba.com/2026/07/14/chapter-three-of-the-life-of-robin-hood.html">Next chapter →</a></p>
+<p><a href="https://venatoverba.com/2026/07/08/chapter-two-of-the-life-of-robin-hood.html">Next chapter →</a></p>
