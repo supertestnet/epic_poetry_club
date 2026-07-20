@@ -8,6 +8,22 @@ title: Venato Verba
   </p>
 
   <div class="Home-posts">
+    <h2 class="Home-posts-title">Recent posts on this website</h2>
+    {% assign event_posts = 7 %}
+    {% assign counter = 0 %}
+    {% for post in site.posts %}
+      {% if post.type == "standard_post"%}
+        <div class="Home-posts-post">
+          <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
+          <span class="Home-posts-post-arrow">&raquo;</span>
+          <a class="Home-posts-post-title" href="{{ post.url }}">{{ post.title }}</a>
+        </div>
+        {% assign counter = counter | plus: 1 %}
+        {% if counter == event_posts %}
+          {% break %} {% comment %}exit the for loop{% endcomment %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
     Venato Verba's latest social media posts:<br><br>
     <!-- Place this container where you want the feed to appear -->
     <div 
@@ -95,7 +111,10 @@ title: Venato Verba
                 html += `
                     <div style="margin-top: 15px;">
                         <a href="https://jumble.social/users/${npub}" target="_blank" rel="noopener noreferrer" class="nostr-profile-link">
-                            View full profile on jumble.social →
+                            View on jumble.social →
+                        </a>
+                        <a href="https://x.com/venatoverba" target="_blank" rel="noopener noreferrer" class="twitter-profile-link">
+                            View on twitter →
                         </a>
                     </div>
                 `;
@@ -114,22 +133,6 @@ title: Venato Verba
         // Run on page load
         document.addEventListener('DOMContentLoaded', initNostrFeed);
     </script>
-    <h2 class="Home-posts-title">Recent posts on this website</h2>
-    {% assign event_posts = 7 %}
-    {% assign counter = 0 %}
-    {% for post in site.posts %}
-      {% if post.type == "standard_post"%}
-        <div class="Home-posts-post">
-          <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
-          <span class="Home-posts-post-arrow">&raquo;</span>
-          <a class="Home-posts-post-title" href="{{ post.url }}">{{ post.title }}</a>
-        </div>
-        {% assign counter = counter | plus: 1 %}
-        {% if counter == event_posts %}
-          {% break %} {% comment %}exit the for loop{% endcomment %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
     <p style="display: flex; justify-content: space-between;"><a href="/posts.html">See all posts</a> <a href="/feed.xml">See rss feed</a></p>
   </div>
 </div>
