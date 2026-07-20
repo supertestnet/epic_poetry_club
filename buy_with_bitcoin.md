@@ -6,7 +6,7 @@ title: Buy with bitcoin
 <script src="https://supertestnet.github.io/bitcoin-chess/js/qrcode.js"></script>
 
 <div class="buy_msg">
-    <p>Loading your <span class="filetype">loading...</span>:</p>
+    <p>Click the button below to purchase your <span class="filetype">loading...</span>:</p>
     <p><span class="filename">loading...</span> by venato_verba</p>
     <p><button class="buy_item">Buy this item</button></p>
 </div>
