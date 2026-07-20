@@ -6,6 +6,7 @@ title: "All chapters of Perseus and Medusa"
 
 <p><button class="buy_with_fiat">Buy this ebook</button></p>
 <p><button class="buy_with_bitcoin">Buy this ebook with bitcoin</button></p>
+<p><button class="view_on_youtube">View on youtube</button></p>
 
 <script>
     var $ = document.querySelector.bind( document );
@@ -15,6 +16,9 @@ title: "All chapters of Perseus and Medusa"
     }
     $( '.buy_with_bitcoin' ).onclick = () => {
         window.location.href = `/buy_with_bitcoin.html#filename=perseus_and_medusa#filetype=epub`;
+    }
+    $( '.view_on_youtube' ).onclick = () => {
+        window.location.href = `https://www.youtube.com/playlist?list=PLt2IALOOHNgl_A1lLZNzp5CEKDd8_t-Pj`;
     }
 </script>
 
