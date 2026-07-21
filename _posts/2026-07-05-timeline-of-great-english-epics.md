@@ -24,6 +24,7 @@ title: "Timeline of great english epics"
 - The Davideis by Thomas Ellwood
 - Lucan's Civil War by Thomas May
 - Supplement to Lucan by Thomas May
+- The Life of Christ by Samuel Wesley
 
 ## 1700s
 - The Rape of the Lock by Alexander Pope
