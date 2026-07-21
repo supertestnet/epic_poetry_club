@@ -13,6 +13,7 @@ title: "Timeline of great english epics"
 ## 1500s
 - The Iliad by George Chapman
 - The Odyssey by George Chapman
+- The Actes of the Apostles by Christopher Tye
 - The Metamorphoses by Arthur Golding
 - Albion's England by William Warner
 - The Aeneid by Thomas Twyne
