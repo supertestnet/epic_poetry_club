@@ -27,9 +27,12 @@ title: "Timeline of great english epics"
 - The Life of Christ by Samuel Wesley
 
 ## 1700s
+- Leonidas by Richard Glover
 - The Rape of the Lock by Alexander Pope
 - The Dunciad by Alexander Pope
 - The History of Joseph by Elizabeth Singer Rowe
+- The Epigoniad by William Wilkie
+- The Messiah by Mary Collyer
 - The Thebaid by Lillington Lewis
 - The Lusiad by William Mickle
 - Jerusalem Delivered by John Hoole
