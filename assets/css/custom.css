@@ -12,3 +12,11 @@
     color: #0000ff;
     text-decoration: none;
 }
+
+.site-footer {
+    text-align: right !important;
+}
+.footer_social_logo {
+  max-width: 2rem !important;
+  margin: 0 .25rem;
+}
