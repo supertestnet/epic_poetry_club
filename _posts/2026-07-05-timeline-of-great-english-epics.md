@@ -30,6 +30,9 @@ title: "Timeline of great english epics"
 - The Dunciad by Alexander Pope
 - The History of Joseph by Elizabeth Singer Rowe
 - The Thebaid by Lillington Lewis
+- The Lusiad by William Mickle
+- Jerusalem Delivered by John Hoole
+- Orlando the Furious by John Hoole
 
 ## 1800s
 - The Lay of the Last Minstrel by Sir Walter Scott
