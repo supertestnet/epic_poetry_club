@@ -39,6 +39,7 @@ title: "Timeline of great english epics"
 - Orlando the Furious by John Hoole
 
 ## 1800s
+- The World Before the Flood by James Montgomery
 - The Lay of the Last Minstrel by Sir Walter Scott
 - The Earthly Paradise by William Morris
 - The Life and Death of Jason by William Morris
