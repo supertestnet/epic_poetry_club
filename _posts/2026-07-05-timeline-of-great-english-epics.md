@@ -45,6 +45,7 @@ title: "Timeline of great english epics"
 - Idylls of the King by Lord Alfred Tennyson
 - The Song of Hiawatha by Henry Wadsworth Longfellow
 - The Wanderings of Oisin by William Butler Yeats
+- Israel in Egypt by Edwin Atherstone
 
 ## 1900s
 - The Dauber by John Masefield
