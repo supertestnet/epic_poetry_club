@@ -47,7 +47,7 @@ title: "Timeline of great english epics"
 - The Song of Hiawatha by Henry Wadsworth Longfellow
 - The Wanderings of Oisin by William Butler Yeats
 - Israel in Egypt by Edwin Atherstone
-- Reynard the Fox by Alexander Rogers
+- Reineke Fox by Alexander Rogers
 
 ## 1900s
 - The Dauber by John Masefield
