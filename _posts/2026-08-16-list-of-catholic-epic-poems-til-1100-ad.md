@@ -42,8 +42,8 @@ title: "List of medieval Catholic epic poems til 1,100 a.d."
 
 # 700s
 - The Metrical Life of St. Cuthbert | St. Bede the Venerable | ~1,000 lines
-- Guthlac A | Anonymous | ~800 lines
-- Guthlac B | Anonymous | ~500 lines
+- St. Guthlac A | Anonymous | ~800 lines
+- St. Guthlac B | Anonymous | ~500 lines
 - The Fathers of York | Bl. Alcuin of York | ~1,700 lines
 - The Metrical Life of St. Willibrord | Bl. Alcuin of York | ~500 lines
 - The Old English Genesis A | Anonymous | ~2,300 lines survive (the original was probably ~6,000 lines)
