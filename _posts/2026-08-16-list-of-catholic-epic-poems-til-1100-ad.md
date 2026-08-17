@@ -29,13 +29,14 @@ title: "List of medieval Catholic epic poems til 1,100 a.d."
 
 # 500s
 - The Paraphrased Acts | Arator | ~2,300 lines
-- Spiritual History | Avitus of Vienne | ~2,600 lines
+- Spiritual History | St. Avitus of Vienne | ~2,600 lines
 - The Metrical Life of St. Martin \[separate from the one by Paulinus, and more popular\] | Venantius Fortunatus | ~2,200 lines
 - The Hymns of the Resurrection | Romanos the Melodist | ~1,900 lines
 
 # 600s
 - The Heraclian Trilogy | George of Pisidia | ~2,200 lines
 - The Hexaemeron | George of Pisidia | ~1,800 lines
+- The Hexaemeron (this was mostly an adaptation of book 1 of Dracontius's poem The Praise of God, with revisions and expansions) | Eugenius II of Toledo | ~600 lines
 - Beowulf | Anonymous | ~3,200 lines
 - In Praise of the Virgins | St. Aldhelm | ~2,900 lines
 
@@ -43,6 +44,7 @@ title: "List of medieval Catholic epic poems til 1,100 a.d."
 - The Metrical Life of St. Cuthbert | St. Bede the Venerable | ~1,000 lines
 - Guthlac A | Anonymous | ~800 lines
 - Guthlac B | Anonymous | ~500 lines
+- The Fathers of York | Bl. Alcuin of York | ~1,700 lines
 - The Metrical Life of St. Willibrord | Bl. Alcuin of York | ~500 lines
 - The Old English Genesis A | Anonymous | ~2,300 lines survive (the original was probably ~6,000 lines)
 - The Old English Exodus | Anonymous | ~600 lines survive (the original was probably ~800 lines)
@@ -50,6 +52,9 @@ title: "List of medieval Catholic epic poems til 1,100 a.d."
 # 800s
 - The Old English Daniel | Anonymous | ~800 lines
 - The Old Saxon Genesis | Anonymous | ~300 lines survive (the original was probably ~5,500 lines)
+- St. Elene | Cynewulf | ~1,300 lines
+- St. Juliana | Cynewulf | ~700 lines
+- The Exeter Christ Book | Cynewulf and others | ~1,700 lines
 - The Heliand | Anonymous | ~6,000 lines
 - The Gospel Book | St. Otfrid | ~7,100 lines
 - Walter of Acquitaine | Anonymous | ~1,500 lines
