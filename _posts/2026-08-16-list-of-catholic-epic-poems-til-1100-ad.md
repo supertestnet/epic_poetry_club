@@ -50,7 +50,7 @@ title: "List of medieval Catholic epic poems til 1,100 a.d."
 # 800s
 - The Old English Daniel | Anonymous | ~800 lines
 - The Old Saxon Genesis | Anonymous | ~300 lines survive (the original was probably ~5,500 lines)
-- The Heliand | Anonymous | ~6,000 lines of poetry
+- The Heliand | Anonymous | ~6,000 lines
 - The Gospel Book | St. Otfrid | ~7,100 lines
 - Walter of Acquitaine | Anonymous | ~1,500 lines
 - The Life of St. Germain | Heiric of Auxerre | ~3,500 lines
