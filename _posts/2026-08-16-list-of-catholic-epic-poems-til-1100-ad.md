@@ -76,14 +76,15 @@ title: "List of medieval Catholic epic poems til 1,100 a.d."
 - The Capture of Crete | Theodosios the Deacon | ~1,000 lines
 
 # 1,000s
-- The Ruodlieb | Anonymous | ~2,300 lines survive (the original was probably ~4,000 lines)
-- The Ecbasis Captivi \[The Escape of a Captive\] | Anonymous | ~1,200 lines
-- The Passion of the Theban Saints | Sigebert of Gembloux | ~2,900 lines
-- The Metrical Life of St. Lucy | Sigebert of Gembloux | ~1,400 lines
-- Both | Fulcoius of Beauvais | ~4,700 lines
-- Neither | Fulcoius of Beauvais | ~3,500 lines
-- The Song of Roland | Turoldus | ~4,000 lines
-- Synopsis of the Holy Scriptures | Michael Psellos | ~1,400 lines
-- Gormond and Isembart | Anonymous | ~700 lines survive (the original was probably ~2,000 lines)
-- The Life of St. Alexi | Anonymous | ~1,000 lines
-- The Vienna Genesis | Anonymous (Old High German) | ~1,200 lines
+
+The Ruodlieb | Anonymous | ~2,300 lines survive (the original was probably ~4,000 lines)
+The Ecbasis Captivi \[The Escape of a Captive\] | Anonymous | ~1,200 lines
+The Passion of the Theban Saints | Sigebert of Gembloux | ~2,900 lines
+The Metrical Life of St. Lucy | Sigebert of Gembloux | ~1,400 lines
+Both | Fulcoius of Beauvais | ~4,700 lines
+Neither | Fulcoius of Beauvais | ~3,500 lines
+The Song of Roland | Turoldus | ~4,000 lines
+Synopsis of the Holy Scriptures | Michael Psellos | ~1,400 lines
+Gormond and Isembart | Anonymous | ~700 lines survive (the original was probably ~2,000 lines)
+The Life of St. Alexi | Anonymous | ~1,000 lines
+The Vienna Genesis | Anonymous (Old High German) | ~1,200 lines
