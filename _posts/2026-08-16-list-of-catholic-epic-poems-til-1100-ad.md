@@ -35,6 +35,7 @@ The Paraphrased Acts | Arator | ~2,300 lines
 Spiritual History | St. Avitus of Vienne | ~2,600 lines
 The Metrical Life of St. Martin \[separate from the one by Paulinus, and more popular\] | Venantius Fortunatus | ~2,200 lines
 The Hymns of the Resurrection | Romanos the Melodist | ~1,900 lines
+The Johannis | Flavous Corippus | ~4,700 lines
 
 # 600s
 
