@@ -56,6 +56,7 @@ St. Guthlac A | Anonymous | ~800 lines
 St. Guthlac B | Anonymous | ~500 lines
 The Fathers of York | Bl. Alcuin of York | ~1,700 lines
 The Metrical Life of St. Willibrord | Bl. Alcuin of York | ~500 lines
+Verses on Jacob and Joseph | Paulinus II of Aquileia | ~400 lines
 The Old English Genesis A | Anonymous | ~2,300 lines survive (the original was probably ~6,000 lines)
 The Old English Exodus | Anonymous | ~600 lines survive (the original was probably ~800 lines)
 
