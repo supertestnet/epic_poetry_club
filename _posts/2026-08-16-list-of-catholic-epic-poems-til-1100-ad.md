@@ -63,6 +63,7 @@ The Old English Exodus | Anonymous | ~600 lines survive (the original was probab
 
 # 800s
 
+The Martyrology of Oengus | St. Oengus of Tallaght | ~2,400 lines
 The Old English Daniel | Anonymous | ~800 lines
 The Old Saxon Genesis | Anonymous | ~300 lines survive (the original was probably ~5,500 lines)
 St. Elene | Cynewulf | ~1,300 lines
