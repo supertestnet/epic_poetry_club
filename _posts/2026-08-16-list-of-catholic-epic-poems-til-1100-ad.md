@@ -46,6 +46,7 @@ The Johannis | Flavius Corippus | ~4,700 lines
 The Heraclian Trilogy | George of Pisidia | ~2,200 lines
 The Hexaemeron | George of Pisidia | ~1,800 lines
 The Hexaemeron (this was mostly an adaptation of book 1 of Dracontius's poem The Praise of God, with revisions and expansions) | Eugenius II of Toledo | ~600 lines
+The Great Canon | St. Andrew of Crete | ~1,300 lines
 Beowulf | Anonymous | ~3,200 lines
 In Praise of the Virgins | St. Aldhelm | ~2,900 lines
 
