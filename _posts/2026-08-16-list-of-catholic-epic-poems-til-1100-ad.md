@@ -70,7 +70,7 @@ St. Juliana | Cynewulf | ~700 lines
 The Exeter Christ Book | Cynewulf and others | ~1,700 lines
 The Heliand | Anonymous | ~6,000 lines
 The Gospel Book | St. Otfrid | ~7,100 lines
-Walter of Acquitaine | Anonymous | ~1,500 lines
+Walter of Acquitaine | Gerald of Bavaria | ~1,500 lines
 The Life of St. Germain | Heiric of Auxerre | ~3,500 lines
 Metrical Passion of St. Denis | Hilduin of St. Denis | ~2,000 lines
 Life of St. Amandus | Milo of Saint-Amand | ~1,800 lines
