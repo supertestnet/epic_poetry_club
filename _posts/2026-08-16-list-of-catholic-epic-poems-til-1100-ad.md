@@ -20,8 +20,11 @@ The Paraphrased Heptateuch | Cyprianus Gallus | ~5,500 lines
 The Metrical Jonah | Anonymous | ~100 lines survive (the original probably covered the entire book)
 The Homeric Centos | Empress Eudocia | ~2,400 lines
 The Martyrdom of St. Cyprian of Antioch | Empress Eudocia | ~800 lines survive (the original was probably ~1,800 lines)
+Joseph the Beautiful | Pseudo Ephrem | ~800 lines
 The Song of Easter | Sedulius | ~1,700 lines
 The Tragedy of Orestes | Dracontius | ~1,000 lines
+The Abduction of Helen | Dracontius | ~700 lines
+Medea | Dracontius | ~600 lines
 The Praise of God | Dracontius | ~2,300 lines
 The Metabole | Nonnus of Panopolis | ~3,600 lines
 The Dionysiaca | Nonnus of Panopolis | ~21,000 lines
@@ -34,6 +37,7 @@ The Metrical Life of St. Martin | Paulinus of Perigueux | ~3,600 lines
 The Paraphrased Acts | Arator | ~2,300 lines
 Spiritual History | St. Avitus of Vienne | ~2,600 lines
 The Metrical Life of St. Martin \[separate from the one by Paulinus, and more popular\] | Venantius Fortunatus | ~2,200 lines
+Joseph the Beautiful (latin version) | Anonymous | ~800 lines
 The Hymns of the Resurrection | Romanos the Melodist | ~1,900 lines
 The Johannis | Flavius Corippus | ~4,700 lines
 
