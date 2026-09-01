@@ -34,6 +34,7 @@ The Metrical Life of St. Martin | Paulinus of Perigueux | ~3,600 lines
 
 # 500s
 
+The Abduction of Helen \[separate from the one by Dracontius\] | Collothus of Lycopolis | ~400 lines
 The Paraphrased Acts | Arator | ~2,300 lines
 Spiritual History | St. Avitus of Vienne | ~2,600 lines
 The Metrical Life of St. Martin \[separate from the one by Paulinus, and more popular\] | Venantius Fortunatus | ~2,200 lines
