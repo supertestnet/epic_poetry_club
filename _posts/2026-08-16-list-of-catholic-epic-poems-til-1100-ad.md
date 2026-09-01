@@ -38,6 +38,7 @@ The Abduction of Helen \[separate from the one by Dracontius\] | Collothus of Ly
 The Paraphrased Acts | Arator | ~2,300 lines
 Spiritual History | St. Avitus of Vienne | ~2,600 lines
 The Metrical Life of St. Martin \[separate from the one by Paulinus, and more popular\] | Venantius Fortunatus | ~2,200 lines
+Hero and Leander | Musaeus Grammaticus | ~300 lines
 Joseph the Beautiful (latin version) | Anonymous | ~800 lines
 The Hymns of the Resurrection | Romanos the Melodist | ~1,900 lines
 The Johannis | Flavius Corippus | ~4,700 lines
