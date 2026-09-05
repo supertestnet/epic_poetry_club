@@ -82,6 +82,9 @@ Life of St. Amandus | Milo of Saint-Amand | ~1,800 lines
 The Paderborn Epic | St. Angilbert (probably) | ~500 lines survive (the original was probably ~2,500 lines)
 Wars of the City of Paris | Abbo Cernuus | ~1,300 lines
 The Deeds of Charlemagne | Poeta Saxo | ~2,700 lines
+The Praise of Louis the Pious | Ermold the Black | ~2,600 lines
+The Metrical Life of Abbot Eigil of Fulda | Candidus of Fulda | ~1,800 lines
+
 
 # 900s
 
