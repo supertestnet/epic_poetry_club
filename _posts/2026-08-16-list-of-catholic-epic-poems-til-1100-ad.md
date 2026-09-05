@@ -48,7 +48,6 @@ The Johannis | Flavius Corippus | ~4,700 lines
 The Heraclian Trilogy | George of Pisidia | ~2,200 lines
 The Hexaemeron | George of Pisidia | ~1,800 lines
 The Hexaemeron (this was mostly an adaptation of book 1 of Dracontius's poem The Praise of God, with revisions and expansions) | Eugenius II of Toledo | ~600 lines
-The Great Canon of Repentance | St. Andrew of Crete | ~1,400 lines
 Beowulf | Anonymous | ~3,200 lines
 In Praise of the Virgins | St. Aldhelm | ~2,900 lines
 
@@ -59,6 +58,7 @@ St. Guthlac A | Anonymous | ~800 lines
 St. Guthlac B | Anonymous | ~500 lines
 The Fathers of York | Bl. Alcuin of York | ~1,700 lines
 The Metrical Life of St. Willibrord | Bl. Alcuin of York | ~500 lines
+The Great Canon of Repentance | St. Andrew of Crete | ~1,400 lines
 Verses on Jacob and Joseph | Paulinus II of Aquileia | ~400 lines
 The Old English Genesis A | Anonymous | ~2,300 lines survive (the original was probably ~6,000 lines)
 The Old English Exodus | Anonymous | ~600 lines survive (the original was probably ~800 lines)
