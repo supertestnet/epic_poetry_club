@@ -10,6 +10,8 @@ title: "Timeline of great english epics"
 
 ## 1400s
 - A Little Jest of Robin Hood by Anonymous
+- Troy Book by John Lydgate
+- The Siege of Thebes by John Lydgate
 
 ## 1500s
 - The Iliad by George Chapman
