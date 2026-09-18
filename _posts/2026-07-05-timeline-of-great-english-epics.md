@@ -6,6 +6,7 @@ title: "Timeline of great english epics"
 
 ## 1300s
 - Canterbury Tales by Geoffrey Chaucer
+- Trollius and Cressida by Geoffrey Chaucer
 
 ## 1400s
 - A Little Jest of Robin Hood by Anonymous
