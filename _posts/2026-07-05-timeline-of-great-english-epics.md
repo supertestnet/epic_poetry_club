@@ -56,7 +56,7 @@ title: "Timeline of great english epics"
 
 ## 1900s
 - The Dauber by John Masefield
-- Reynald the Fox by John Masefield
+- The Ghost Heath Run by John Masefield
 - The Ballad of the White Horse by G.K. Chesterton
 - Tristram by Edwin Arlington Robinson
 - Sir Gawain and the Green Knight by J.R.R. Tolkien
