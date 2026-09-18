@@ -53,6 +53,7 @@ title: "Timeline of great english epics"
 - The Wanderings of Oisin by William Butler Yeats
 - Israel in Egypt by Edwin Atherstone
 - Reineke Fox by Alexander Rogers
+- Parzival by Jessie Weston
 
 ## 1900s
 - The Dauber by John Masefield
