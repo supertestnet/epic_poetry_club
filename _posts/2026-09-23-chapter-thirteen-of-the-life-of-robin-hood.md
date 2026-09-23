@@ -4,7 +4,7 @@ type: standard_post
 title: "Chapter 13 of the Life of Robin Hood"
 ---
 
-Today I released a recording of my recital of chapter 13 of my ongoing work, "The Life of Robin Hood." This chapter is "Robin versus Hubert." Listen to it here:
+Yesterday I released a recording of my recital of chapter 13 of my ongoing work, "The Life of Robin Hood." This chapter is "Robin versus Hubert." Listen to it here:
 
 <div class="embed-container">
   <iframe src="https://www.youtube.com/embed/YEjop-mKdAA" frameborder="0" allowfullscreen></iframe>
