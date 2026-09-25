@@ -111,3 +111,4 @@ Synopsis of the Holy Scriptures | Michael Psellos | ~1,400 lines
 Gormond and Isembart | Anonymous | ~700 lines survive (the original was probably ~2,000 lines)
 The Life of St. Alexi | Anonymous | ~1,000 lines
 The Vienna Genesis | Anonymous (Old High German) | ~1,200 lines
+The Deeds of Robert Guiscard | William of Apulia | ~2,200 lines
