@@ -92,8 +92,8 @@ The Old English Genesis B | Anonymous | ~600 lines survive (the original was pro
 The Triumphs of Christ | Flodoard of Rheims | ~20,000 lines
 The Old English Judith | Anonymous | ~350 lines survive (the original was probably ~1,200 lines)
 The Life of St. Pantaleon | John Geometres | ~1,000 lines
-The Deeds of Otto | Roswitha of Gandersheim | ~2,400 lines
 Maria | Roswitha of Gandersheim | ~1,000 lines
+The Deeds of Otto | Roswitha of Gandersheim | ~800 lines (the original was ~1,500 lines)
 The Martyrdom of St. Pelagius | Roswitha of Gandersheim | ~400 lines
 The Capture of Crete | Theodosios the Deacon | ~1,000 lines
 The Psalter of Quatrains | Airbertach mac Cosse | ~8,400 lines
