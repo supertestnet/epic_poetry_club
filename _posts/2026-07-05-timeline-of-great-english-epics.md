@@ -21,8 +21,11 @@ title: "Timeline of great english epics"
 - The Metamorphoses by Arthur Golding
 - Albion's England by William Warner
 - The Aeneid by Thomas Twyne
+- Venus and Adonis by William Shakespeare
+- Endimion and Phoebe by Michael Drayton
 
 ## 1600s
+- The Abduction of Proserpina by Leonard Digges
 - Paradise Lost by John Milton
 - Paradise Regained by John Milton
 - The Davideis by Thomas Ellwood
