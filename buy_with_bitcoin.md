@@ -254,12 +254,12 @@ title: Buy with bitcoin
     }
     var getPlink = async preimage => {
         // var data = await fetch( `/assets/public_values/public_values_for_perseus_and_medusa_ebook.txt` );
-        var data = await fetch( `https://venatoverba.com/assets/public_values/public_values_for_perseus_and_medusa_ebook.txt` );
+        var data = await fetch( `https://venatoverba.xyz/assets/public_values/public_values_for_perseus_and_medusa_ebook.txt` );
         var json = await data.json();
         var hash = await sha256( hexToBytes( preimage ) );
         var public_value = json[ hash ];
         var decryption_key = ( BigInt( `0x${preimage}` ) + BigInt( `0x${public_value}` ) ).toString( 16 ).padStart( "0", 64 );
-        window.location.href = `https://venatoverba.com/download_page.html#plink=${decryption_key}`;
+        window.location.href = `https://venatoverba.xyz/download_page.html#plink=${decryption_key}`;
     }
 </script>
 
