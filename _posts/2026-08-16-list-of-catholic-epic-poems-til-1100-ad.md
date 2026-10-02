@@ -46,6 +46,7 @@ Hero and Leander | Musaeus Grammaticus | ~300 lines
 Joseph the Beautiful (latin version) | Anonymous | ~800 lines
 The Hymns of the Resurrection | Romanos the Melodist | ~1,900 lines
 The Johannis | Flavius Corippus | ~4,700 lines
+The Praise of Justin the Younger | Flavius Corippus | ~1,600 lines
 
 # 600s
 
