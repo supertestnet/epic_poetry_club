@@ -96,6 +96,7 @@ Digenes Akritas | Anonymous | ~1,900 lines
 The Old English Genesis B | Anonymous | ~600 lines survive (the original was probably ~5,500 lines – it was a translation of the Old Saxon Genesis)
 The Triumphs of Christ | Flodoard of Rheims | ~20,000 lines
 The Old English Judith | Anonymous | ~350 lines survive (the original was probably ~1,200 lines)
+The Old English Metrical Psalter | Anonymous | ~5,000 lines survive (the original was probably ~8,200 lines)
 The Life of St. Pantaleon | John Geometres | ~1,000 lines
 Maria | Roswitha of Gandersheim | ~1,000 lines
 The Deeds of Otto | Roswitha of Gandersheim | ~800 lines (the original was ~1,500 lines)
