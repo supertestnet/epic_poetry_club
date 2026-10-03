@@ -90,6 +90,7 @@ Wars of the City of Paris | Abbo Cernuus | ~1,300 lines
 The Deeds of Charlemagne | Poeta Saxo | ~2,700 lines
 The Praise of Louis the Pious | Ermold the Black | ~2,600 lines
 The Metrical Life of Abbot Eigil of Fulda | Candidus of Fulda | ~1,800 lines
+The Metrical Life of St. Erasmus of Formia | Anonymous (but a student of Engilmar) | ~500 lines
 
 # 900s
 
