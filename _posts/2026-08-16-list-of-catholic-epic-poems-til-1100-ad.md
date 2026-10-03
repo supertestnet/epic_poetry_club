@@ -26,7 +26,7 @@ The Tragedy of Orestes | Dracontius | ~1,000 lines
 The Abduction of Helen | Dracontius | ~700 lines
 Medea | Dracontius | ~600 lines
 The Praise of God | Dracontius | ~2,300 lines
-The Praise or Emperor Avitus | Sidonius | ~600 lines
+The Praise of Emperor Avitus | Sidonius | ~600 lines
 The Praise of Emperor Majorian | Sidonius | ~600 lines
 The Praise of Emperor Anthemius | Sidonius | ~500 lines
 The Praise of Emperor Consentius | Sidonius | ~500 lines
