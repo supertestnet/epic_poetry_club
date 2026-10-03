@@ -103,8 +103,9 @@ Maria | Roswitha of Gandersheim | ~1,000 lines
 The Deeds of Otto | Roswitha of Gandersheim | ~800 lines (the original was ~1,500 lines)
 The Martyrdom of St. Pelagius | Roswitha of Gandersheim | ~400 lines
 The Capture of Crete | Theodosios the Deacon | ~1,000 lines
-The Metrical Life of St. Swithun | Wulfstan Cantor | ~3,300 lines
 The Psalter of Quatrains | Airbertach mac Cosse | ~8,400 lines
+The Metrical Life of St. Swithun | Wulfstan Cantor | ~3,300 lines
+Brief Discourse on All Saints Day | Wulfstan Cantor | ~700 lines
 
 # 1,000s
 
