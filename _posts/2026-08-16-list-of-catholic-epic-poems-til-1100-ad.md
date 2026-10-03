@@ -90,6 +90,7 @@ Wars of the City of Paris | Abbo Cernuus | ~1,300 lines
 The Deeds of Charlemagne | Poeta Saxo | ~2,700 lines
 The Praise of Louis the Pious | Ermold the Black | ~2,600 lines
 The Metrical Life of Abbot Eigil of Fulda | Candidus of Fulda | ~1,800 lines
+Song of St. Lucy | Anonymous | ~600 lines
 The Metrical Life of St. Erasmus of Formia | Anonymous (but a student of Engilmar) | ~500 lines
 The Metrical Life of St. Cassian of Autun | Anonymous | ~500 lines
 The Metrical Life of St. Agnes | Anonymous | ~400 lines
@@ -115,7 +116,7 @@ Brief Discourse on All Saints Day | Wulfstan Cantor | ~700 lines
 The Ruodlieb | Anonymous | ~2,300 lines survive (the original was probably ~4,000 lines)
 The Ecbasis Captivi \[The Escape of a Captive\] | Anonymous | ~1,200 lines
 The Passion of the Theban Saints | Sigebert of Gembloux | ~2,900 lines
-The Metrical Life of St. Lucy | Sigebert of Gembloux | ~1,400 lines
+The Metrical Life of St. Lucy (separate from the anonymous one from the 800s, and with a different meter) | Sigebert of Gembloux | ~1,400 lines
 Both | Fulcoius of Beauvais | ~4,700 lines
 Neither | Fulcoius of Beauvais | ~3,500 lines
 The Song of Roland | Turoldus | ~4,000 lines
@@ -123,5 +124,6 @@ Synopsis of the Holy Scriptures | Michael Psellos | ~1,400 lines
 Gormond and Isembart | Anonymous | ~700 lines survive (the original was probably ~2,000 lines)
 The Life of St. Alexi | Anonymous | ~1,000 lines
 The Life of St. Arnulf | Letselin of Crépy-en-Valois | ~1,100 lines
+The Life of St. Ghislain | W. Monachus | ~800 lines
 The Vienna Genesis | Anonymous (Old High German) | ~1,200 lines
 The Deeds of Robert Guiscard | William of Apulia | ~2,200 lines
