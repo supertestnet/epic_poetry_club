@@ -130,4 +130,5 @@ The Life of St. Alexi | Anonymous | ~1,000 lines
 The Life of St. Arnulf | Letselin of Crépy-en-Valois | ~1,100 lines
 The Life of St. Ghislain | W. Monachus | ~800 lines
 The Vienna Genesis | Anonymous (Old High German) | ~1,200 lines
+The Life of St. Malchus | Reginald of Canterbury | ~4,000 lines
 The Deeds of Robert Guiscard | William of Apulia | ~2,200 lines
