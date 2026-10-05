@@ -120,6 +120,7 @@ The Metrical Life of St. Lucy (separate from the anonymous one from the 800s, an
 The Moriuht | Warner of Rouen | ~500 lines
 The Tetralogy of Henry III | Wipo of Burgundy | ~400 lines
 Song of the Saxon War | Anonymous | ~800 lines
+Song of the Battle of Hastings | Guy of Amiens | ~800 lines
 Both | Fulcoius of Beauvais | ~4,700 lines
 Neither | Fulcoius of Beauvais | ~3,500 lines
 The Song of Roland | Turoldus | ~4,000 lines
