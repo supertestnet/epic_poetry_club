@@ -117,6 +117,7 @@ The Ruodlieb | Anonymous | ~2,300 lines survive (the original was probably ~4,00
 The Ecbasis Captivi \[The Escape of a Captive\] | Anonymous | ~1,200 lines
 The Passion of the Theban Saints | Sigebert of Gembloux | ~2,900 lines
 The Metrical Life of St. Lucy (separate from the anonymous one from the 800s, and with a different meter) | Sigebert of Gembloux | ~1,400 lines
+The Moriuht | Warner of Rouen | ~500 lines
 The Tetralogy of Henry III | Wipo of Burgundy | ~400 lines
 Song of the Saxon War | Anonymous | ~800 lines
 Both | Fulcoius of Beauvais | ~4,700 lines
