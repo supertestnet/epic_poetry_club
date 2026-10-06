@@ -1,6 +1,6 @@
 ---
 layout: post
-type: standard_post
+type: recital_post
 title: "Chapter 1 of the Life of Robin Hood"
 ---
 
