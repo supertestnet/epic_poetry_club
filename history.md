@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Medieval epic history
+title: History
 ---
 
 <h2 class="Home-posts-title">Medieval epic history</h2>
