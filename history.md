@@ -3,7 +3,7 @@ layout: default
 title: History
 ---
 
-<h2 class="Home-posts-title">Medieval epic history</h2>
+<h2 class="Home-posts-title">History of medieval renaissances</h2>
 484-550 ad » [The Vandal Renaissance](https://venatoverba.xyz/2026/10/06/the-vandal-renaissance.html)  
 529-669 ad » [The Benedictine Renaissance](https://venatoverba.xyz/2026/10/06/the-benedictine-renaissance.html)  
 589-711 ad » [The Visigothic Renaissance](https://venatoverba.xyz/2026/10/06/the-visigothic-renaissance.html)  
