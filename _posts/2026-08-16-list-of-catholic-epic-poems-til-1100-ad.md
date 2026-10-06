@@ -115,6 +115,7 @@ Brief Discourse on All Saints Day | Wulfstan Cantor | ~700 lines
 
 The Ruodlieb | Anonymous | ~2,300 lines survive (the original was probably ~4,000 lines)
 The Ecbasis Captivi \[The Escape of a Captive\] | Anonymous | ~1,200 lines
+Song to King Robert | Bishop Adalberon of Laon | ~400 lines
 The Passion of the Theban Saints | Sigebert of Gembloux | ~2,900 lines
 The Metrical Life of St. Lucy (separate from the anonymous one from the 800s, and with a different meter) | Sigebert of Gembloux | ~1,400 lines
 The Moriuht | Warner of Rouen | ~500 lines
