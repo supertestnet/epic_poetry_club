@@ -62,6 +62,7 @@ title: "Timeline of great english epics"
 - The Dauber by John Masefield
 - The Ghost Heath Run by John Masefield
 - The Ballad of the White Horse by G.K. Chesterton
+- The Song of Roland by Charles Scott-Moncrieff
 - Tristram by Edwin Arlington Robinson
 - Sir Gawain and the Green Knight by J.R.R. Tolkien
 - The Legend of Sigurd and Gudrún by J.R.R. Tolkien
