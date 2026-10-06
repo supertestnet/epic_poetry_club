@@ -1,6 +1,6 @@
 ---
 layout: post
-type: recital_post
+type: history_post
 title: "The Vandal Renaissance | 484-550 ad"
 ---
 
