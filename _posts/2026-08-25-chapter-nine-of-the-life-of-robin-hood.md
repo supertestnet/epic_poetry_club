@@ -1,6 +1,6 @@
 ---
 layout: post
-type: standard_post
+type: recital_post
 title: "Chapter 9 of the Life of Robin Hood"
 ---
 
