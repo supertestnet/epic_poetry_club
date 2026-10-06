@@ -12,7 +12,7 @@ title: Venato Verba
     {% assign event_posts = 7 %}
     {% assign counter = 0 %}
     {% for post in site.posts %}
-      {% if post.type == "standard_post"%}
+      {% if post.type == "recital_post"%}
         <div class="Home-posts-post">
           <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
           <span class="Home-posts-post-arrow">&raquo;</span>
