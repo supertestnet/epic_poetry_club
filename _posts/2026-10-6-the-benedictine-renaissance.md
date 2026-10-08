@@ -30,12 +30,12 @@ Overall, the Benedictine Renaissance spread ancient knowledge throughout most of
 
 ## Literature from this era inspired by Greco-Roman classics
 
-The Abduction of Helen \[separate from the one by Dracontius\] | Collothus of Lycopolis | ~400 lines
-The Paraphrased Acts | Arator | ~2,300 lines
-Spiritual History | St. Avitus of Vienne | ~2,600 lines
-The Metrical Life of St. Martin \[separate from the one by Paulinus, and more popular\] | Venantius Fortunatus | ~2,200 lines
-Hero and Leander | Musaeus Grammaticus | ~300 lines
-Joseph the Beautiful (latin version) | Anonymous | ~800 lines
-The Hymns of the Resurrection | Romanos the Melodist | ~1,900 lines
-Beowulf | Anonymous | ~3,200 lines
-In Praise of the Virgins | St. Aldhelm | ~2,900 lines
+The Abduction of Helen \[separate from the one by Dracontius\] | Collothus of Lycopolis | ~400 lines | 
+The Paraphrased Acts | Arator | ~2,300 lines | [Latin](https://la.wikisource.org/wiki/De_actibus_apostolorum_(Migne))
+Spiritual History | St. Avitus of Vienne | ~2,600 lines | [Translation](https://archive.org/details/poemsofalcimusec00avituoft/page/71/mode/1up)
+The Metrical Life of St. Martin \[separate from the one by Paulinus, and more popular\] | Venantius Fortunatus | ~2,200 lines | 
+Hero and Leander | Musaeus Grammaticus | ~300 lines | 
+Joseph the Beautiful (latin version) | Anonymous | ~800 lines | 
+The Hymns of the Resurrection | Romanos the Melodist | ~1,900 lines | 
+Beowulf | Anonymous | ~3,200 lines | [Translation](https://books.google.com/books?id=Rndhg5W4RcwC)
+In Praise of the Virgins | St. Aldhelm | ~2,900 lines | 
