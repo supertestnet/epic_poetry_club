@@ -32,24 +32,24 @@ The Vandals and their interest in the pagan classics thus strengthened interest 
 
 ## Literature from this era inspired by Greco-Roman classics
 
-The Crowns of Martyrdom | Prudentius | ~3,700 lines
-Psychomachia | Prudentius | ~1,000 lines
-The Paraphrased Heptateuch | Cyprianus Gallus | ~5,500 lines
-The Metrical Jonah | Anonymous | ~100 lines survive (the original probably covered the entire book)
-The Homeric Centos | Empress Eudocia | ~2,400 lines
-The Martyrdom of St. Cyprian of Antioch | Empress Eudocia | ~800 lines survive (the original was probably ~1,800 lines)
-Joseph the Beautiful | Pseudo Ephrem | ~800 lines
-The Song of Easter | Sedulius | ~1,700 lines
-The Tragedy of Orestes | Dracontius | ~1,000 lines
-The Abduction of Helen | Dracontius | ~700 lines
-Medea | Dracontius | ~600 lines
-The Praise of God | Dracontius | ~2,300 lines
-The Praise of Emperor Avitus | Sidonius | ~600 lines
-The Praise of Emperor Majorian | Sidonius | ~600 lines
-The Praise of Emperor Anthemius | Sidonius | ~500 lines
-The Praise of Emperor Consentius | Sidonius | ~500 lines
-The Metabole | Nonnus of Panopolis | ~3,600 lines
-The Dionysiaca | Nonnus of Panopolis | ~21,000 lines
-The Alethia | Claudius Victor | ~2,000 lines
-The Natalicia | St. Paulinus of Nola | ~5,100 lines
-The Metrical Life of St. Martin | Paulinus of Perigueux | ~3,600 lines
+The Crowns of Martyrdom | Prudentius | ~3,700 lines | 
+Psychomachia | Prudentius | ~1,000 lines | [Translation](http://web.archive.org/web/20020429135514/http://www.richmond.edu/~wstevens/grvaltexts/psychomachia.html)
+The Paraphrased Heptateuch | Cyprianus Gallus | ~5,500 lines | [Latin](https://archive.org/details/cyprianigallipoe23cypr/page/1/mode/1up)
+The Metrical Jonah | Anonymous | ~100 lines survive (the original probably covered the entire book) | 
+The Homeric Centos | Empress Eudocia | ~2,400 lines | [Greek](https://archive.org/details/eudociae-augustae-homerocentones-u-procli-lycii-claudiani-carminum-graecorum-by-a.-ludwich-1897/page/80/mode/1up)
+The Martyrdom of St. Cyprian of Antioch | Empress Eudocia | ~800 lines survive (the original was probably ~1,800 lines) | 
+Joseph the Beautiful | Pseudo Ephrem | ~800 lines | 
+The Song of Easter | Sedulius | ~1,700 lines | [Partial translation](https://archive.org/details/eastersong00seduuoft/page/82/mode/1up)
+The Tragedy of Orestes | Dracontius | ~1,000 lines | 
+The Abduction of Helen | Dracontius | ~700 lines | 
+Medea | Dracontius | ~600 lines | 
+The Praise of God | Dracontius | ~2,300 lines | 
+The Praise of Emperor Avitus | Sidonius | ~600 lines | 
+The Praise of Emperor Majorian | Sidonius | ~600 lines | 
+The Praise of Emperor Anthemius | Sidonius | ~500 lines | 
+The Praise of Emperor Consentius | Sidonius | ~500 lines | 
+The Metabole | Nonnus of Panopolis | ~3,600 lines | 
+The Dionysiaca | Nonnus of Panopolis | ~21,000 lines | 
+The Alethia | Claudius Victor | ~2,000 lines | 
+The Natalicia | St. Paulinus of Nola | ~5,100 lines | 
+The Metrical Life of St. Martin | Paulinus of Perigueux | ~3,600 lines | 
