@@ -52,11 +52,12 @@ The Alexander Romance | Leo the Archpriest | ~20,000 words \[this one was not a 
 Digenes Akritas | Anonymous | ~1,900 lines | 
 The Triumphs of Christ | Flodoard of Rheims | ~20,000 lines
 The Life of St. Pantaleon | John Geometres | ~1,000 lines
-Maria | Roswitha of Gandersheim | ~1,000 lines
-The Deeds of Otto | Roswitha of Gandersheim | ~800 lines (the original was ~1,500 lines)
-The Martyrdom of Blessed Gongolf | Roswitha of Gandersheim | ~600 lines
-The Passion of St. Agnes | Roswitha of Gandersheim | ~500 lines
-The Fall and Conversion of Theophilus | Roswitha of Gandersheim | ~400 lines
-The Martyrdom of St. Pelagius | Roswitha of Gandersheim | ~400 lines
-The Capture of Crete | Theodosios the Deacon | ~1,000 lines
-The Psalter of Quatrains | Airbertach mac Cosse | ~8,400 lines
+Six Plays | Roswitha of Gandersheim | ~35,000 words \[this one was not a poem so there is no line count\] | [Translation](https://www.gutenberg.org/ebooks/59770)
+Maria | Roswitha of Gandersheim | ~1,000 lines | [Translation](https://archive.org/details/nondramaticworks00hrot/page/15/mode/1up)
+The Deeds of Otto | Roswitha of Gandersheim | ~800 lines (the original was ~1,500 lines) | [Translation](https://archive.org/details/hrosvithaelibert00hrot/page/39/mode/1up)
+The Martyrdom of Blessed Gongolf | Roswitha of Gandersheim | ~600 lines | [Translation](https://archive.org/details/nondramaticworks00hrot/page/89/mode/1up)
+The Passion of St. Agnes | Roswitha of Gandersheim | ~500 lines | [Translation](https://archive.org/details/nondramaticworks00hrot/page/237/mode/1up)
+The Fall and Conversion of Theophilus | Roswitha of Gandersheim | ~400 lines | [Translation](https://archive.org/details/nondramaticworks00hrot/page/159/mode/1up)
+The Martyrdom of St. Pelagius | Roswitha of Gandersheim | ~400 lines | [Translation](https://archive.org/details/nondramaticworks00hrot/page/129/mode/1up)
+The Capture of Crete | Theodosios the Deacon | ~1,000 lines | [Translation](https://catholiclibrary.org/library/view?docId=Fathers-Synchronized-EN/Theodosius_the_Deacon__De_Creta_capta.en.html;chunk.id=00000003)
+The Psalter of Quatrains | Airbertach mac Cosse | ~8,400 lines | 
