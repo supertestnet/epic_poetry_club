@@ -31,6 +31,7 @@ As a result, Cassiodorus included quotations from the Aeneid and other pagan boo
 The Vandals and their interest in the pagan classics thus strengthened interest in them throughout Europe, and led to additional efforts to preserve and study them. Thus, fifth century Christians wrote similar narratives about the heroes of their own faith, and also – as exemplified by Dracontius – wrote sequels and prequels about the same old pagan characters, and – as exemplified by Corippus – wrote new “war epics” with new characters every bit as gripping as Aeneas.
 
 ## Literature from this era inspired by Greco-Roman classics
+
 The Crowns of Martyrdom | Prudentius | ~3,700 lines
 Psychomachia | Prudentius | ~1,000 lines
 The Paraphrased Heptateuch | Cyprianus Gallus | ~5,500 lines
