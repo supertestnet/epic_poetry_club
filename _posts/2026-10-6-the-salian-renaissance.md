@@ -31,3 +31,25 @@ One thing that gets historians really excited about this era is that the earlies
 In future centuries, these heroic tales would be widely associated with the taverns in the towns of medieval universities. Among students, slipping away from class to drink and listen to (or even participate in) performances of such works was common, and many students even composed adaptations or “remixes” of these poems. The Song of Roland, in particular, is the only surviving “complete” Chanson de Geste from this century, and tells a tragic story about a defeat Charlemagne experienced while fighting the Muslims in Spain, and the heroic knight, Roland, who sadly died on that day.
 
 Overall, the Salian Renaissance was characterized by the growth of secular schools, a recovery of ancient legal and medical knowledge, and left a legacy of epic poetry that continues to inspire people to this very day. Europe began to be a powerhouse of science, and its existing spiritual institutions of learning (as well as new, secular ones) had a lasting impact on the future direction of the continent.
+
+## Literature from this era inspired by Greco-Roman classics
+The Ruodlieb | Anonymous | ~2,300 lines survive (the original was probably ~4,000 lines)
+The Ecbasis Captivi \[The Escape of a Captive\] | Anonymous | ~1,200 lines
+Song to King Robert | Bishop Adalberon of Laon | ~400 lines
+The Passion of the Theban Saints | Sigebert of Gembloux | ~2,900 lines
+The Metrical Life of St. Lucy (separate from the anonymous one from the 800s, and with a different meter) | Sigebert of Gembloux | ~1,400 lines
+The Moriuht | Warner of Rouen | ~500 lines
+The Tetralogy of Henry III | Wipo of Burgundy | ~400 lines
+Song of the Saxon War | Anonymous | ~800 lines
+Song of the Battle of Hastings | Guy of Amiens | ~800 lines
+Both | Fulcoius of Beauvais | ~4,700 lines
+Neither | Fulcoius of Beauvais | ~3,500 lines
+The Song of Roland | Turoldus | ~4,000 lines
+Synopsis of the Holy Scriptures | Michael Psellos | ~1,400 lines
+Gormond and Isembart | Anonymous | ~700 lines survive (the original was probably ~2,000 lines)
+The Life of St. Alexi | Anonymous | ~1,000 lines
+The Life of St. Arnulf | Letselin of Crépy-en-Valois | ~1,100 lines
+The Life of St. Ghislain | W. Monachus | ~800 lines
+The Vienna Genesis | Anonymous (Old High German) | ~1,200 lines
+The Life of St. Malchus | Reginald of Canterbury | ~4,000 lines
+The Deeds of Robert Guiscard | William of Apulia | ~2,800 lines
