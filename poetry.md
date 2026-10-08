@@ -3,6 +3,6 @@ layout: default
 title: Poetry
 ---
 
-<h1>Venato's poetry</h1>
+# Venato's poetry
 - [Perseus and Medusa](https://google.com)
 - [The Life of Robin Hood](https://google.com)
