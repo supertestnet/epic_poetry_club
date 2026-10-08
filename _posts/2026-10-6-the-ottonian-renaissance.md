@@ -48,12 +48,15 @@ Overall, the Ottonian Renaissance saw a renewed focus on science and bilingualis
 
 ## Literature from this era inspired by Greco-Roman classics
 
-The Alexander Romance | Leo the Archpriest | ~20,000 words \[this one was not a poem so there is no line count\]
-Digenes Akritas | Anonymous | ~1,900 lines
+The Alexander Romance | Leo the Archpriest | ~20,000 words \[this one was not a poem so there is no line count\] | 
+Digenes Akritas | Anonymous | ~1,900 lines | 
 The Triumphs of Christ | Flodoard of Rheims | ~20,000 lines
 The Life of St. Pantaleon | John Geometres | ~1,000 lines
 Maria | Roswitha of Gandersheim | ~1,000 lines
 The Deeds of Otto | Roswitha of Gandersheim | ~800 lines (the original was ~1,500 lines)
+The Martyrdom of Blessed Gongolf | Roswitha of Gandersheim | ~600 lines
+The Passion of St. Agnes | Roswitha of Gandersheim | ~500 lines
+The Fall and Conversion of Theophilus | Roswitha of Gandersheim | ~400 lines
 The Martyrdom of St. Pelagius | Roswitha of Gandersheim | ~400 lines
 The Capture of Crete | Theodosios the Deacon | ~1,000 lines
 The Psalter of Quatrains | Airbertach mac Cosse | ~8,400 lines
