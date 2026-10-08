@@ -26,6 +26,6 @@ Overall, the schools and libraries established in the 600s, like the School of C
 
 The Metrical Life of St. Cuthbert | St. Bede the Venerable | ~1,000 lines | 
 St. Guthlac A | Anonymous | ~800 lines | [Translation](https://oldenglishpoetry.camden.rutgers.edu/guthlac-a/)
-St. Guthlac B | Anonymous | ~500 lines [Translation](https://oldenglishpoetry.camden.rutgers.edu/guthlac-b/)
+St. Guthlac B | Anonymous | ~500 lines | [Translation](https://oldenglishpoetry.camden.rutgers.edu/guthlac-b/)
 The Old English Genesis A | Anonymous | ~2,300 lines survive (the original was probably ~6,000 lines) | [Translation](https://oldenglishpoetry.camden.rutgers.edu/genesis-ab/)
 The Old English Exodus | Anonymous | ~600 lines survive (the original was probably ~800 lines) | [Translation](https://oldenglishpoetry.camden.rutgers.edu/exodus/)
