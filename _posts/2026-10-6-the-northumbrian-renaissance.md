@@ -21,3 +21,10 @@ King Aldfrith of Northumbria was another leading figure of the Northumbrian rena
 England frequently produced narrative poetry in this period, but usually in an early form of English rather than Latin. From the 700s we have two poems that narrate different parts of The Life of St. Guthlac, and we also have 2,300 lines from a verse adaptation of the Book of Genesis (the original was probably about 6,000 lines, making it comparable to the length of old pagan epics like Jason and the Argonauts), and 600 lines from a verse adaptation of the Book of Exodus (the original was probably about 800 lines). All of these works are in Old English.
 
 Overall, the schools and libraries established in the 600s, like the School of Canterbury and the Abbey of Monkwearmouth-Jarrow, established England as part of the network of knowledge that spread from Byzantium to Ireland. But they didn’t stop there. They produced new scholars and poets who became the intellectual giants of their age, and some of whose genius could go toe-to-toe with the brightest minds that would appear nearly a thousand years later.
+
+## Literature from this era inspired by Greco-Roman classics
+The Metrical Life of St. Cuthbert | St. Bede the Venerable | ~1,000 lines
+St. Guthlac A | Anonymous | ~800 lines
+St. Guthlac B | Anonymous | ~500 lines
+The Old English Genesis A | Anonymous | ~2,300 lines survive (the original was probably ~6,000 lines)
+The Old English Exodus | Anonymous | ~600 lines survive (the original was probably ~800 lines)
