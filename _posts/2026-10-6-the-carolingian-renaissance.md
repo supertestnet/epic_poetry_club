@@ -43,6 +43,7 @@ Saints Lives were, I think, the most popular genre of literature produced during
 In summary, the Carolingian Renaissance included a massive literary renewal in Germany and France, mirrored in England and Italy, that not only looked back to the classical past for inspiration (such as the influential translations of Greek Church Fathers and historians, and Angilbert naming himself after Homer), but also established influential literary schools that would go on to shape Europe’s future.
 
 ## Literature from this era inspired by Greco-Roman classics
+
 The Fathers of York | Bl. Alcuin of York | ~1,700 lines
 The Metrical Life of St. Willibrord | Bl. Alcuin of York | ~500 lines
 The Great Canon of Repentance | St. Andrew of Crete | ~1,400 lines
