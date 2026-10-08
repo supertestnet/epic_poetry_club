@@ -87,3 +87,10 @@ Depending on which messy, handwritten “font” was used, a typical “book” 
 The total length of a masterpiece like Pope Gregory’s Commentary on Job, summing all thirty five “volumes” together (here using the smaller “libri” meaning), is a bit over 500,000 words, around the length of the complete Lord of the Rings trilogy of modern times – and it fit into around six codices. The entirety of Isidore’s encyclopedia (summing all twenty “volumes” or libri) is shorter than the single novel The Brothers Karamazov, and often appeared in only two or three codices of the time. So these works were “multi volume,” but though scholars often list the number of volumes as “twenty” or “thirty five,” the physical reality for even the longest works was more like three to six codices.
 
 Poems tended to be shorter, and almost always could fit in a single codex. The longest of the “epic poems” I've referred to (excluding the old pagan ones) is Aldhelm’s In Praise of the Virgins, which is about 25,000 words, and is comparable to what we would now call a “novella,” or perhaps an unusually long “short story.” It's difficult for me to think of a work of comparable length today that “everyone knows,” but the average length of a Sherlock Holmes short story is about 8,000 words, so think of reading about three of those – that’s a common length for many of these medieval epic poems. Most of them are individually easy to breeze through in less than three hours if you know Latin or are lucky enough to have a modern translation.
+
+## Literature from this era inspired by Greco-Roman classics
+The Heraclian Trilogy | George of Pisidia | ~2,200 lines
+The Hexaemeron | George of Pisidia | ~1,800 lines
+The Hexaemeron (this was mostly an adaptation of book 1 of Dracontius's poem The Praise of God, with revisions and expansions) | Eugenius II of Toledo | ~600 lines
+Synonyma | Isidore of Seville | ~1,700 lines
+History of King Wamba | Julian of Toledo | ~13,500 words \[this one was not a poem so there is no line count\]
