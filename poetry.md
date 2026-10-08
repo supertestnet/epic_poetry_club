@@ -4,5 +4,5 @@ title: Poetry
 ---
 
 # Venato's poetry
-- [Perseus and Medusa](https://google.com)
-- [The Life of Robin Hood](https://google.com)
+- [Perseus and Medusa](https://venatoverba.xyz/2026/07/06/all-chapters-of-perseus-and-medusa.html)
+- [The Life of Robin Hood](https://venatoverba.xyz/2026/07/07/chapter-one-of-the-life-of-robin-hood.html)
