@@ -29,6 +29,7 @@ Italy produced Arator, who wrote a Vergilian adaptation and commentary on the Ac
 Overall, the Benedictine Renaissance spread ancient knowledge throughout most of western europe. It also produced new, brilliant scholars who, despite the recent collapse of the western Roman empire, matched the intellectual output of their imperial predecessors, and in many ways surpassed them. The Germanic kingdoms which helped break up the empire would stay in place for centuries, but the fire of Christian intellectual fervor was growing up within them.
 
 ## Literature from this era inspired by Greco-Roman classics
+
 The Abduction of Helen \[separate from the one by Dracontius\] | Collothus of Lycopolis | ~400 lines
 The Paraphrased Acts | Arator | ~2,300 lines
 Spiritual History | St. Avitus of Vienne | ~2,600 lines
