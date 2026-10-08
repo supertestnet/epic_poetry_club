@@ -27,3 +27,14 @@ Between the 500s and the 700s, four of the regions mentioned above – France, E
 Italy produced Arator, who wrote a Vergilian adaptation and commentary on the Acts of the Apostles. The Ephrem Latinus, also produced in this period, contained a long narrative called Joseph the Beautiful, which adapted the biblical story of the son of Jacob in a popular poetic style featuring no specific meter, but end rhymes, and lines of similar length – the technical term is “isocolon,” but the specific variant used in this case is sometimes called “breath length lines” and was inspired by biblical poetry.
 
 Overall, the Benedictine Renaissance spread ancient knowledge throughout most of western europe. It also produced new, brilliant scholars who, despite the recent collapse of the western Roman empire, matched the intellectual output of their imperial predecessors, and in many ways surpassed them. The Germanic kingdoms which helped break up the empire would stay in place for centuries, but the fire of Christian intellectual fervor was growing up within them.
+
+## Narrative poetry of this era
+The Abduction of Helen \[separate from the one by Dracontius\] | Collothus of Lycopolis | ~400 lines
+The Paraphrased Acts | Arator | ~2,300 lines
+Spiritual History | St. Avitus of Vienne | ~2,600 lines
+The Metrical Life of St. Martin \[separate from the one by Paulinus, and more popular\] | Venantius Fortunatus | ~2,200 lines
+Hero and Leander | Musaeus Grammaticus | ~300 lines
+Joseph the Beautiful (latin version) | Anonymous | ~800 lines
+The Hymns of the Resurrection | Romanos the Melodist | ~1,900 lines
+Beowulf | Anonymous | ~3,200 lines
+In Praise of the Virgins | St. Aldhelm | ~2,900 lines
