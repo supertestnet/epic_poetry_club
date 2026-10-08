@@ -35,3 +35,17 @@ Israel’s expertise in grammar earned him a spot as a teacher at the Palace Aca
 Perhaps as a result of this hectic environment, the Palace Academy did not always have a headmaster. One might die during their travels, and appointing a successor was not necessarily a priority. Thus, when Manno of Laon died (he was the successor of Eriugena in the 800s), we hear of no replacement, and the school itself effectively died with him. Emperor Otto I effectively revived it, and made Israel a teacher there, thus bringing the learning of England to central Europe once again.
 
 Overall, the Alfredian Renaissance produced some of the brightest minds and poets of the tenth century, beginning with the old tradition of Anglo Saxon poetry and ending with Latin and even Greek language scholarship that became the boast of all Europe.
+
+## Narrative poetry of this era
+The Old English Daniel | Anonymous | ~800 lines
+The Old Saxon Genesis | Anonymous | ~300 lines survive (the original was probably ~5,500 lines)
+St. Elene | Cynewulf | ~1,300 lines
+St. Juliana | Cynewulf | ~700 lines
+The Exeter Christ Book | Cynewulf and others | ~1,700 lines
+The Lays of Boethius | St. Alfred | ~1,700 lines
+The Old English Genesis B | Anonymous | ~600 lines survive (the original was probably ~5,500 lines – it was a translation of the Old Saxon Genesis)
+The Old English Judith | Anonymous | ~350 lines survive (the original was probably ~1,200 lines)
+The Old English Metrical Psalter | Anonymous | ~5,000 lines survive (the original was probably ~8,200 lines)
+Compendium of the Life of St. Wilfrid | Frithegoth of Canterbury | ~1,400 lines
+The Metrical Life of St. Swithun | Wulfstan Cantor | ~3,300 lines
+Brief Discourse on All Saints Day | Wulfstan Cantor | ~700 lines
