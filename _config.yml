@@ -9,5 +9,7 @@ header_pages:
   - download_page.html
   - buy_with_bitcoin.html
   - store.html
+  - history.md
+  - poetry.html
 plugins:
   - jekyll-feed
