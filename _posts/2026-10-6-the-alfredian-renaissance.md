@@ -37,6 +37,7 @@ Perhaps as a result of this hectic environment, the Palace Academy did not alway
 Overall, the Alfredian Renaissance produced some of the brightest minds and poets of the tenth century, beginning with the old tradition of Anglo Saxon poetry and ending with Latin and even Greek language scholarship that became the boast of all Europe.
 
 ## Literature from this era inspired by Greco-Roman classics
+
 The Old English Daniel | Anonymous | ~800 lines
 The Old Saxon Genesis | Anonymous | ~300 lines survive (the original was probably ~5,500 lines)
 St. Elene | Cynewulf | ~1,300 lines
