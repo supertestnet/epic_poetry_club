@@ -44,24 +44,24 @@ In summary, the Carolingian Renaissance included a massive literary renewal in G
 
 ## Literature from this era inspired by Greco-Roman classics
 
-The Fathers of York | Bl. Alcuin of York | ~1,700 lines
-The Metrical Life of St. Willibrord | Bl. Alcuin of York | ~500 lines
-The Great Canon of Repentance | St. Andrew of Crete | ~1,400 lines
-Verses on Jacob and Joseph | Paulinus II of Aquileia | ~400 lines
-The Martyrology of Oengus | St. Oengus of Tallaght | ~2,400 lines
-The Heliand | Anonymous | ~6,000 lines
-The Gospel Book | St. Otfrid | ~7,100 lines
-Walter of Acquitaine | Gerald of Bavaria | ~1,500 lines
-The Life of St. Germain | Heiric of Auxerre | ~3,500 lines
-Metrical Passion of St. Denis | Hilduin of St. Denis | ~2,000 lines
-The Vision of Wetti | Walafrid Strabo | ~900 lines
-Life of St. Amandus | Milo of Saint-Amand | ~1,800 lines
-The Paderborn Epic | St. Angilbert (probably) | ~500 lines survive (the original was probably ~2,500 lines)
-Wars of the City of Paris | Abbo Cernuus | ~1,300 lines
-The Deeds of Charlemagne | Poeta Saxo | ~2,700 lines
-The Praise of Louis the Pious | Ermold the Black | ~2,600 lines
-The Metrical Life of Abbot Eigil of Fulda | Candidus of Fulda | ~1,800 lines
-Song of St. Lucy | Anonymous | ~600 lines
-The Metrical Life of St. Erasmus of Formia | Anonymous (but a student of Engilmar) | ~500 lines
-The Metrical Life of St. Cassian of Autun | Anonymous | ~500 lines
-The Metrical Life of St. Agnes | Anonymous | ~400 lines
+The Fathers of York | Bl. Alcuin of York | ~1,700 lines | 
+The Metrical Life of St. Willibrord | Bl. Alcuin of York | ~500 lines | 
+The Great Canon of Repentance | St. Andrew of Crete | ~1,400 lines | [Translation](https://www.holyorthodox.org/greatlentcanonofstandrew)
+Verses on Jacob and Joseph | Paulinus II of Aquileia | ~400 lines | 
+The Martyrology of Oengus | St. Oengus of Tallaght | ~2,400 lines | 
+The Heliand | Anonymous | ~6,000 lines | [Translation](https://joeclark.org/heliand/all/)
+The Gospel Book | St. Otfrid | ~7,100 lines | 
+Walter of Acquitaine | Gerald of Bavaria | ~1,500 lines | [Translation](https://web.archive.org/web/20141204080742/http://www.odinismo.es/paginas/Waltharius%20the%20Goth_old%20.htm)
+The Life of St. Germain | Heiric of Auxerre | ~3,500 lines | 
+Metrical Passion of St. Denis | Hilduin of St. Denis | ~2,000 lines | 
+The Vision of Wetti | Walafrid Strabo | ~900 lines | 
+Life of St. Amandus | Milo of Saint-Amand | ~1,800 lines | 
+The Paderborn Epic | St. Angilbert (probably) | ~500 lines survive (the original was probably ~2,500 lines) | 
+Wars of the City of Paris | Abbo Cernuus | ~1,300 lines | 
+The Deeds of Charlemagne | Poeta Saxo | ~2,700 lines | 
+The Praise of Louis the Pious | Ermold the Black | ~2,600 lines | 
+The Metrical Life of Abbot Eigil of Fulda | Candidus of Fulda | ~1,800 lines | 
+Song of St. Lucy | Anonymous | ~600 lines | 
+The Metrical Life of St. Erasmus of Formia | Anonymous (but a student of Engilmar) | ~500 lines | 
+The Metrical Life of St. Cassian of Autun | Anonymous | ~500 lines | 
+The Metrical Life of St. Agnes | Anonymous | ~400 lines | 
