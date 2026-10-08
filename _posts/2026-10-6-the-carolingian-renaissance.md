@@ -47,6 +47,7 @@ In summary, the Carolingian Renaissance included a massive literary renewal in G
 The Fathers of York | Bl. Alcuin of York | ~1,700 lines | 
 The Metrical Life of St. Willibrord | Bl. Alcuin of York | ~500 lines | 
 The Great Canon of Repentance | St. Andrew of Crete | ~1,400 lines | [Translation](https://www.holyorthodox.org/greatlentcanonofstandrew)
+The Old Saxon Genesis | Anonymous | ~300 lines survive (the original was probably ~5,500 lines) | 
 Verses on Jacob and Joseph | Paulinus II of Aquileia | ~400 lines | 
 The Martyrology of Oengus | St. Oengus of Tallaght | ~2,400 lines | 
 The Heliand | Anonymous | ~6,000 lines | [Translation](https://joeclark.org/heliand/all/)
