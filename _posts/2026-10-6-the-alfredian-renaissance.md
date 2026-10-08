@@ -41,7 +41,7 @@ Overall, the Alfredian Renaissance produced some of the brightest minds and poet
 The Old English Daniel | Anonymous | ~800 lines | [Translation](https://oldenglishpoetry.camden.rutgers.edu/daniel/)
 St. Elene | Cynewulf | ~1,300 lines | [Translation](https://oldenglishpoetry.camden.rutgers.edu/elene/)
 St. Juliana | Cynewulf | ~700 lines | [Translation](https://oldenglishpoetry.camden.rutgers.edu/juliana/)
-The Exeter Christ Book | Cynewulf and others | ~1,700 lines | [Part 1](https://oldenglishpoetry.camden.rutgers.edu/christ-i/) [Part 2](https://oldenglishpoetry.camden.rutgers.edu/christ-ii/) [Part 3](https://oldenglishpoetry.camden.rutgers.edu/christ-iii/)
+The Exeter Christ Book | Cynewulf and others | ~1,700 lines | [Part 1](https://oldenglishpoetry.camden.rutgers.edu/christ-i/) \| [Part 2](https://oldenglishpoetry.camden.rutgers.edu/christ-ii/) \| [Part 3](https://oldenglishpoetry.camden.rutgers.edu/christ-iii/)
 The Lays of Boethius | St. Alfred | ~1,700 lines | [Translation](https://oldenglishpoetry.camden.rutgers.edu/meters-of-boethius/)
 The Old English Genesis B | Anonymous | ~600 lines survive (the original was probably ~5,500 lines – it was a translation of the Old Saxon Genesis) | [Translation](https://oldenglishpoetry.camden.rutgers.edu/genesis-ab/) -- scroll to section 5 which is at about line 215
 The Old English Judith | Anonymous | ~350 lines survive (the original was probably ~1,200 lines) | [Translation](https://oldenglishpoetry.camden.rutgers.edu/judith/)
