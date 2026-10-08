@@ -48,7 +48,7 @@ Overall, the Ottonian Renaissance saw a renewed focus on science and bilingualis
 
 ## Literature from this era inspired by Greco-Roman classics
 
-The Alexander Romance | Leo the Archpriest | ~20,000 words \[this one was not a poem so there is no line count\] | 
+The Birth and Victories of King Alexander the Great | Leo the Archpriest | ~20,000 words \[this one was not a poem so there is no line count\] | 
 Digenes Akritas | Anonymous | ~1,900 lines | 
 The Triumphs of Christ | Flodoard of Rheims | ~20,000 lines
 The Life of St. Pantaleon | John Geometres | ~1,000 lines
