@@ -34,23 +34,23 @@ Overall, the Salian Renaissance was characterized by the growth of secular schoo
 
 ## Literature from this era inspired by Greco-Roman classics
 
-The Ruodlieb | Anonymous | ~2,300 lines survive (the original was probably ~4,000 lines)
-The Ecbasis Captivi \[The Escape of a Captive\] | Anonymous | ~1,200 lines
-Song to King Robert | Bishop Adalberon of Laon | ~400 lines
-The Passion of the Theban Saints | Sigebert of Gembloux | ~2,900 lines
-The Metrical Life of St. Lucy (separate from the anonymous one from the 800s, and with a different meter) | Sigebert of Gembloux | ~1,400 lines
-The Moriuht | Warner of Rouen | ~500 lines
-The Tetralogy of Henry III | Wipo of Burgundy | ~400 lines
-Song of the Saxon War | Anonymous | ~800 lines
-Song of the Battle of Hastings | Guy of Amiens | ~800 lines
-Both | Fulcoius of Beauvais | ~4,700 lines
-Neither | Fulcoius of Beauvais | ~3,500 lines
-The Song of Roland | Turoldus | ~4,000 lines
-Synopsis of the Holy Scriptures | Michael Psellos | ~1,400 lines
-Gormond and Isembart | Anonymous | ~700 lines survive (the original was probably ~2,000 lines)
-The Life of St. Alexi | Anonymous | ~1,000 lines
-The Life of St. Arnulf | Letselin of Crépy-en-Valois | ~1,100 lines
-The Life of St. Ghislain | W. Monachus | ~800 lines
-The Vienna Genesis | Anonymous (Old High German) | ~1,200 lines
-The Life of St. Malchus | Reginald of Canterbury | ~4,000 lines
-The Deeds of Robert Guiscard | William of Apulia | ~2,800 lines
+The Ruodlieb | Anonymous | ~2,300 lines survive (the original was probably ~4,000 lines) | 
+The Ecbasis Captivi \[The Escape of a Captive\] | Anonymous | ~1,200 lines | [Translation](https://muse.jhu.edu/pub/12/oa_monograph/book/75854/pdf)
+Song to King Robert | Bishop Adalberon of Laon | ~400 lines | 
+The Passion of the Theban Saints | Sigebert of Gembloux | ~2,900 lines | 
+The Metrical Life of St. Lucy (separate from the anonymous one from the 800s, and with a different meter) | Sigebert of Gembloux | ~1,400 lines | 
+The Moriuht | Warner of Rouen | ~500 lines | 
+The Tetralogy of Henry III | Wipo of Burgundy | ~400 lines | 
+Song of the Saxon War | Anonymous | ~800 lines | 
+Song of the Battle of Hastings | Guy of Amiens | ~800 lines | 
+Both | Fulcoius of Beauvais | ~4,700 lines | 
+Neither | Fulcoius of Beauvais | ~3,500 lines | 
+The Song of Roland | Turoldus | ~4,000 lines | [Translation](https://www.gutenberg.org/ebooks/391)
+Synopsis of the Holy Scriptures | Michael Psellos | ~1,400 lines | 
+Gormond and Isembart | Anonymous | ~700 lines survive (the original was probably ~2,000 lines) | 
+The Life of St. Alexi | Anonymous | ~1,000 lines | 
+The Life of St. Arnulf | Letselin of Crépy-en-Valois | ~1,100 lines | 
+The Life of St. Ghislain | W. Monachus | ~800 lines | 
+The Vienna Genesis | Anonymous (Old High German) | ~1,200 lines | 
+The Life of St. Malchus | Reginald of Canterbury | ~4,000 lines | 
+The Deeds of Robert Guiscard | William of Apulia | ~2,800 lines | 
