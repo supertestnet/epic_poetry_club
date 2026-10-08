@@ -29,3 +29,26 @@ The language and style of these poems show that the pagan classics were heavily 
 As a result, Cassiodorus included quotations from the Aeneid and other pagan books in his Institutes. For example, in Book 2, Chapter 3, the following words are quoted from the Aeneid book 10: “Supply me with weapons... \[I will fling\] against the Rutuli \[those spears\] which were fixed in Greeks' bodies on the plains of Troy.” Cassiodorus clearly expected his monks to read and preserve such secular works alongside spiritual ones.
 
 The Vandals and their interest in the pagan classics thus strengthened interest in them throughout Europe, and led to additional efforts to preserve and study them. Thus, fifth century Christians wrote similar narratives about the heroes of their own faith, and also – as exemplified by Dracontius – wrote sequels and prequels about the same old pagan characters, and – as exemplified by Corippus – wrote new “war epics” with new characters every bit as gripping as Aeneas.
+
+## Literature from this era inspired by Greco-Roman classics
+The Crowns of Martyrdom | Prudentius | ~3,700 lines
+Psychomachia | Prudentius | ~1,000 lines
+The Paraphrased Heptateuch | Cyprianus Gallus | ~5,500 lines
+The Metrical Jonah | Anonymous | ~100 lines survive (the original probably covered the entire book)
+The Homeric Centos | Empress Eudocia | ~2,400 lines
+The Martyrdom of St. Cyprian of Antioch | Empress Eudocia | ~800 lines survive (the original was probably ~1,800 lines)
+Joseph the Beautiful | Pseudo Ephrem | ~800 lines
+The Song of Easter | Sedulius | ~1,700 lines
+The Tragedy of Orestes | Dracontius | ~1,000 lines
+The Abduction of Helen | Dracontius | ~700 lines
+Medea | Dracontius | ~600 lines
+The Praise of God | Dracontius | ~2,300 lines
+The Praise of Emperor Avitus | Sidonius | ~600 lines
+The Praise of Emperor Majorian | Sidonius | ~600 lines
+The Praise of Emperor Anthemius | Sidonius | ~500 lines
+The Praise of Emperor Consentius | Sidonius | ~500 lines
+The Metabole | Nonnus of Panopolis | ~3,600 lines
+The Dionysiaca | Nonnus of Panopolis | ~21,000 lines
+The Alethia | Claudius Victor | ~2,000 lines
+The Natalicia | St. Paulinus of Nola | ~5,100 lines
+The Metrical Life of St. Martin | Paulinus of Perigueux | ~3,600 lines
