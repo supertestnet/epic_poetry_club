@@ -41,3 +41,26 @@ The translations made in this period included three historical books by Theophan
 Saints Lives were, I think, the most popular genre of literature produced during this period, and if I tried to list every original Saint Life produced, I think I would find it very tedious. So I’m only focusing on authors who made the extra effort of either translating a Life from one language to another, or authors who composed these stories in the style of epic narrative poetry. My list of literature authors from this period, in every region, may therefore seem smaller than it really was, but that is simply because there were so many authors of interesting stories, I choose to skip the majority. (Also, many of the Lives are anonymous, so for those ones I couldn't name their authors if I wanted to.)
 
 In summary, the Carolingian Renaissance included a massive literary renewal in Germany and France, mirrored in England and Italy, that not only looked back to the classical past for inspiration (such as the influential translations of Greek Church Fathers and historians, and Angilbert naming himself after Homer), but also established influential literary schools that would go on to shape Europe’s future.
+
+## Literature from this era inspired by Greco-Roman classics
+The Fathers of York | Bl. Alcuin of York | ~1,700 lines
+The Metrical Life of St. Willibrord | Bl. Alcuin of York | ~500 lines
+The Great Canon of Repentance | St. Andrew of Crete | ~1,400 lines
+Verses on Jacob and Joseph | Paulinus II of Aquileia | ~400 lines
+The Martyrology of Oengus | St. Oengus of Tallaght | ~2,400 lines
+The Heliand | Anonymous | ~6,000 lines
+The Gospel Book | St. Otfrid | ~7,100 lines
+Walter of Acquitaine | Gerald of Bavaria | ~1,500 lines
+The Life of St. Germain | Heiric of Auxerre | ~3,500 lines
+Metrical Passion of St. Denis | Hilduin of St. Denis | ~2,000 lines
+The Vision of Wetti | Walafrid Strabo | ~900 lines
+Life of St. Amandus | Milo of Saint-Amand | ~1,800 lines
+The Paderborn Epic | St. Angilbert (probably) | ~500 lines survive (the original was probably ~2,500 lines)
+Wars of the City of Paris | Abbo Cernuus | ~1,300 lines
+The Deeds of Charlemagne | Poeta Saxo | ~2,700 lines
+The Praise of Louis the Pious | Ermold the Black | ~2,600 lines
+The Metrical Life of Abbot Eigil of Fulda | Candidus of Fulda | ~1,800 lines
+Song of St. Lucy | Anonymous | ~600 lines
+The Metrical Life of St. Erasmus of Formia | Anonymous (but a student of Engilmar) | ~500 lines
+The Metrical Life of St. Cassian of Autun | Anonymous | ~500 lines
+The Metrical Life of St. Agnes | Anonymous | ~400 lines
