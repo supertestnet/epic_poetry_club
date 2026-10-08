@@ -1,6 +1,6 @@
 ---
 layout: post
-type: history_post
+type: recital_post
 title: "Chapter 15 of the Life of Robin Hood"
 ---
 
