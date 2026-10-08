@@ -23,6 +23,7 @@ England frequently produced narrative poetry in this period, but usually in an e
 Overall, the schools and libraries established in the 600s, like the School of Canterbury and the Abbey of Monkwearmouth-Jarrow, established England as part of the network of knowledge that spread from Byzantium to Ireland. But they didn’t stop there. They produced new scholars and poets who became the intellectual giants of their age, and some of whose genius could go toe-to-toe with the brightest minds that would appear nearly a thousand years later.
 
 ## Literature from this era inspired by Greco-Roman classics
+
 The Metrical Life of St. Cuthbert | St. Bede the Venerable | ~1,000 lines
 St. Guthlac A | Anonymous | ~800 lines
 St. Guthlac B | Anonymous | ~500 lines
