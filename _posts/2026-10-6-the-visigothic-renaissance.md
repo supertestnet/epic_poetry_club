@@ -89,6 +89,7 @@ The total length of a masterpiece like Pope Gregory’s Commentary on Job, summi
 Poems tended to be shorter, and almost always could fit in a single codex. The longest of the “epic poems” I've referred to (excluding the old pagan ones) is Aldhelm’s In Praise of the Virgins, which is about 25,000 words, and is comparable to what we would now call a “novella,” or perhaps an unusually long “short story.” It's difficult for me to think of a work of comparable length today that “everyone knows,” but the average length of a Sherlock Holmes short story is about 8,000 words, so think of reading about three of those – that’s a common length for many of these medieval epic poems. Most of them are individually easy to breeze through in less than three hours if you know Latin or are lucky enough to have a modern translation.
 
 ## Literature from this era inspired by Greco-Roman classics
+
 The Heraclian Trilogy | George of Pisidia | ~2,200 lines
 The Hexaemeron | George of Pisidia | ~1,800 lines
 The Hexaemeron (this was mostly an adaptation of book 1 of Dracontius's poem The Praise of God, with revisions and expansions) | Eugenius II of Toledo | ~600 lines
