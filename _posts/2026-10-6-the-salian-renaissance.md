@@ -33,6 +33,7 @@ In future centuries, these heroic tales would be widely associated with the tave
 Overall, the Salian Renaissance was characterized by the growth of secular schools, a recovery of ancient legal and medical knowledge, and left a legacy of epic poetry that continues to inspire people to this very day. Europe began to be a powerhouse of science, and its existing spiritual institutions of learning (as well as new, secular ones) had a lasting impact on the future direction of the continent.
 
 ## Literature from this era inspired by Greco-Roman classics
+
 The Ruodlieb | Anonymous | ~2,300 lines survive (the original was probably ~4,000 lines)
 The Ecbasis Captivi \[The Escape of a Captive\] | Anonymous | ~1,200 lines
 Song to King Robert | Bishop Adalberon of Laon | ~400 lines
