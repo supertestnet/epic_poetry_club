@@ -105,6 +105,9 @@ The Old English Metrical Psalter | Anonymous | ~5,000 lines survive (the origina
 The Life of St. Pantaleon | John Geometres | ~1,000 lines
 Maria | Roswitha of Gandersheim | ~1,000 lines
 The Deeds of Otto | Roswitha of Gandersheim | ~800 lines (the original was ~1,500 lines)
+The Martyrdom of Blessed Gongolf | Roswitha of Gandersheim | ~600 lines
+The Passion of St. Agnes | Roswitha of Gandersheim | ~500 lines
+The Fall and Conversion of Theophilus | Roswitha of Gandersheim | ~400 lines
 The Martyrdom of St. Pelagius | Roswitha of Gandersheim | ~400 lines
 The Capture of Crete | Theodosios the Deacon | ~1,000 lines
 The Psalter of Quatrains | Airbertach mac Cosse | ~8,400 lines
