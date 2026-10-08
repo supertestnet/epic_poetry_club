@@ -45,3 +45,13 @@ I personally find the chronicle format boring, and while the steady beat of a ve
 Another notable poet of this era is Airbertach mac Cosse, an Irish poet who wrote a book called The Psalter of Quatrains, containing 150 poems that narrate the history of the world from Creation to Judgement Day. Among the Byzantines, John Geometres wrote a poem called The Life of St. Pantaleon, which is a rare example of a surviving Eastern verse hagiography. His contemporary Theodosios the Deacon also wrote The Capture of Crete, which is a "war epic" about a successful invasion of the previously Muslim-controlled Mediterranean island of Crete. The earliest versions of the Tale of Digines Akritas also date to this era. That poem is about a Byzantine warrior who battles Muslim raiders and fantastic beasts, and is another example of the growing European taste for secular adventure stories.
 
 Overall, the Ottonian Renaissance saw a renewed focus on science and bilingualism, with deepening connections between Byzantium and Western Europe. It also saw the development of two prestigious secular learning centers (Otto's Palace School and the Medical School of Salerno). The nobility of the era began seeking entertaining literature, including secular adventure stories that added to the more common genres of hagiography and war epics. Some people say the period called the "high middle ages" began in the late 1000s, with the development of the medieval university system. Historians, consider marking the beginning of that era one century prior, with the schools, science, saints, and stories of the Ottonian Renaissance.
+
+## Literature from this era inspired by Greco-Roman classics
+Digenes Akritas | Anonymous | ~1,900 lines
+The Triumphs of Christ | Flodoard of Rheims | ~20,000 lines
+The Life of St. Pantaleon | John Geometres | ~1,000 lines
+Maria | Roswitha of Gandersheim | ~1,000 lines
+The Deeds of Otto | Roswitha of Gandersheim | ~800 lines (the original was ~1,500 lines)
+The Martyrdom of St. Pelagius | Roswitha of Gandersheim | ~400 lines
+The Capture of Crete | Theodosios the Deacon | ~1,000 lines
+The Psalter of Quatrains | Airbertach mac Cosse | ~8,400 lines
