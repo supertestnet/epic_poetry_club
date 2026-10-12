@@ -1664,8 +1664,8 @@ Steering through the waves of the sea and through blind shallows,
 Have by right brought back to the port of York;  
 Inasmuch as she nourished me as her own pupil,  
 And imbued me, however reverently, from my earliest years.  
-For this reason, I have written these rustic songs for her concerning her own Fathers, and  
-Kings, and Saints.  
+For this reason, I have written these rustic songs for her  
+Concerning her own Fathers, and Kings, and Saints.  
 These saints likewise, whom I have touched upon in these verses,  
 I pray, that by their merits and prayers they may steer our bark  
 From the whirlpool of the world to the harbor of life.  
