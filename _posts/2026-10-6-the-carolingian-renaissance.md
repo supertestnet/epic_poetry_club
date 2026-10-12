@@ -44,7 +44,7 @@ In summary, the Carolingian Renaissance included a massive literary renewal in G
 
 ## Literature from this era inspired by Greco-Roman classics
 
-The Fathers of York | Bl. Alcuin of York | ~1,700 lines | [Latin](https://archive.org/details/monumentaalcuin00wattgoog/page/81/mode/1up)
+The Founders of York | Bl. Alcuin of York | ~1,700 lines | [Latin](https://archive.org/details/monumentaalcuin00wattgoog/page/81/mode/1up) \| [Translation](/2026/10/12/the-founders-of-york-prose-translation.html)
 The Metrical Life of St. Willibrord | Bl. Alcuin of York | ~500 lines | 
 The Great Canon of Repentance | St. Andrew of Crete | ~1,400 lines | [Translation](https://www.holyorthodox.org/greatlentcanonofstandrew)
 The Old Saxon Genesis | Anonymous | ~300 lines survive (the original was probably ~5,500 lines) | 
