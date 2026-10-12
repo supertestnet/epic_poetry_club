@@ -11,7 +11,7 @@ The Founders of York is a poem by Blessed Alcuin of York composed in the 700s ad
 3. Bishops of York  
 4. Golden Age of York
 
-This translation was created in several stages. First, I divided the poem up into about 43 sections of roughly equal line counts. Then, I fed each section into Google Search's AI (based on Gemini), and asked it to translate each section literally. Then I combined all the sections, read through the poem, and used asked the AI to identify "principal divisions" of the poem, which are outlined above. Then I inserted those divisions, and this is the result. I hope you enjoy it.
+This translation was created in several stages. First, I divided the poem up into about 43 sections of roughly equal line counts. Then, I fed each section into Google Search's AI (based on Gemini), and asked it to translate each section literally. Then I combined all the sections, read through the poem, and asked the AI to identify the "principal divisions" of the poem, which are outlined above. Then I inserted those divisions to break up the text, and below is the result. I hope you enjoy it.
 
 # Section 1. Prechristian History of York.
 
