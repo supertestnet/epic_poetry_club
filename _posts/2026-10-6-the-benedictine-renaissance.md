@@ -36,10 +36,6 @@ Spiritual History | St. Avitus of Vienne | ~2,600 lines | [Translation](https://
 The Metrical Life of St. Martin \[separate from the one by Paulinus, and more popular\] | Venantius Fortunatus | ~2,200 lines | 
 Hero and Leander | Musaeus Grammaticus | ~300 lines | 
 Joseph the Beautiful (latin version) | Anonymous | ~800 lines | [Translation of the original Greek version into English](https://web.archive.org/web/20031207003931if_/http://www.anastasis.org.uk:80/Joseph.pdf)
-The Repentance of Nineveh | Pseudo Ephrem | ~600 lines | [Translation](https://www.johnsanidopoulos.com/2021/09/homily-on-prophet-jonah-and-on.html)
-Abraham and Isaac | Pseudo Ephrem | ~500 lines | [Translation](https://www.johnsanidopoulos.com/2017/12/a-poem-on-abraham-and-isaac-st-ephraim.html)
-The Coming of the Lord and the End of the World | Pseudo Ephrem | ~500 lines | 
-The Second Coming | Pseudo Ephrem | ~400 lines | 
 The Hymns of the Resurrection | Romanos the Melodist | ~1,900 lines | 
 The Gospel in Twelve Books | Severus of Malaga | ~700 lines survive (the original was probably ~8,500 lines)
 Beowulf | Anonymous | ~3,200 lines | [Translation](https://books.google.com/books?id=Rndhg5W4RcwC)
