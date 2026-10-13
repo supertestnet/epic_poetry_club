@@ -54,6 +54,7 @@ The Praise of Justin the Younger | Flavius Corippus | ~1,600 lines
 The Heraclian Trilogy | George of Pisidia | ~2,200 lines
 The Hexaemeron | George of Pisidia | ~1,800 lines
 The Hexaemeron (this was mostly an adaptation of book 1 of Dracontius's poem The Praise of God, with revisions and expansions) | Eugenius II of Toledo | ~600 lines
+The Praise of Saint Mary | Pseudo Fortunatus| ~400 lines
 Beowulf | Anonymous | ~3,200 lines
 In Praise of the Virgins | St. Aldhelm | ~2,900 lines
 
