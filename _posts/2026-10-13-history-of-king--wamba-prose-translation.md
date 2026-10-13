@@ -14,9 +14,7 @@ This translation was created in several stages. First, I divided the poem up int
 
 # The Text
 
-In the name of the Lord begins the book of the history of Gaul, which was published by Lord Julian, bishop of the see of Toledo, in the time of the prince of divine memory, Wamba.
-
-In the name of the Holy Trinity begins the history of the most excellent King Wamba, concerning the expedition and victory by which he subdued the rebelling province of Gaul in a famous triumph.
+0\. In the name of the Lord begins the book of the history of Gaul, which was published by Lord Julian, bishop of the see of Toledo, in the time of the prince of divine memory, Wamba. In the name of the Holy Trinity begins the history of the most excellent King Wamba, concerning the expedition and victory by which he subdued the rebelling province of Gaul in a famous triumph.
 
 1\. It is customary for the recounted narrative of triumphs to serve as a safeguard for virtue, and for whatever glory from past deeds has been proclaimed to lift the minds of young men toward the standard of virtue. For the very urgency of human conduct possesses a certain sluggishness regarding internal virtue, and for this reason, human nature is found to be less swift toward virtue than it is inclined toward vice. Unless it remains steadfast, instructed by the constant prompting of useful examples, it remains cold and grows numb. For this reason, so that the narrative of past events may heal disdainful minds, we introduce the deeds performed in our own times, through which we may incite future generations to virtue.
 
