@@ -91,7 +91,7 @@ Poems tended to be shorter, and almost always could fit in a single codex. The l
 ## Literature from this era inspired by Greco-Roman classics
 
 The Heraclian Trilogy | George of Pisidia | ~2,200 lines | [Part 1](https://catholiclibrary.org/library/view?docId=Fathers-Synchronized-OR/Georges_Pisides__De_expeditione_Persica.gr.html;query=;brand=default&surl=aHR0cHMlM0ElMkYlMkZjYXRob2xpY2xpYnJhcnkub3JnJTJGbGlicmFyeSUyRmJyb3dzZSUyRmNlbnR1cnklMkY2MDA=) \| [Part 2](https://catholiclibrary.org/library/view?docId=Fathers-Synchronized-OR/Georges_Pisides__Bellum_Avaricum.gr.html;query=;brand=default&surl=aHR0cHMlM0ElMkYlMkZjYXRob2xpY2xpYnJhcnkub3JnJTJGbGlicmFyeSUyRmJyb3dzZSUyRmNlbnR1cnklMkY2MDA=) \| [Part 3](https://catholiclibrary.org/library/view?docId=Fathers-Synchronized-OR/Georges_Pisides__Heraclias.gr.html;query=;brand=default&surl=aHR0cHMlM0ElMkYlMkZjYXRob2xpY2xpYnJhcnkub3JnJTJGbGlicmFyeSUyRmJyb3dzZSUyRmNlbnR1cnklMkY2MDA=)
-The Hexaemeron | George of Pisidia | ~1,800 lines | 
+The Hexaemeron | George of Pisidia | ~1,800 lines | [Greek](https://books.google.com.pr/books?id=0EQOAAAAYAAJ&pg=PA603#v=onepage&q&f=false)
 The Hexaemeron (this was mostly an adaptation of book 1 of Dracontius's poem The Praise of God, with revisions and expansions) | Eugenius II of Toledo | ~600 lines | [Latin](https://www.mqdq.it/texts/EVG_TOLE|hexa|001)
 Synonyma | Isidore of Seville | ~1,700 lines | 
 Song about the Moon | King Sisebut | ~60 lines | [Latin] (https://www.mqdq.it/testo/testo/codice/SISEB%7Ccarm%7C001)
