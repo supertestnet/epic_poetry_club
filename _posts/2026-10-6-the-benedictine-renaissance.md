@@ -35,7 +35,7 @@ The Paraphrased Acts | Arator | ~2,300 lines | [Latin](https://la.wikisource.org
 Spiritual History | St. Avitus of Vienne | ~2,600 lines | [Translation](https://archive.org/details/poemsofalcimusec00avituoft/page/71/mode/1up)
 The Metrical Life of St. Martin \[separate from the one by Paulinus, and more popular\] | Venantius Fortunatus | ~2,200 lines | 
 Hero and Leander | Musaeus Grammaticus | ~300 lines | 
-Joseph the Beautiful (latin version) | Anonymous | ~800 lines | 
+Joseph the Beautiful (latin version) | Anonymous | ~800 lines | [Translation of the original Greek version into English](https://web.archive.org/web/20031207003931if_/http://www.anastasis.org.uk:80/Joseph.pdf)
 The Hymns of the Resurrection | Romanos the Melodist | ~1,900 lines | 
 The Gospel in Twelve Books | Severus of Malaga | ~700 lines survive (the original was probably ~8,500 lines)
 Beowulf | Anonymous | ~3,200 lines | [Translation](https://books.google.com/books?id=Rndhg5W4RcwC)
