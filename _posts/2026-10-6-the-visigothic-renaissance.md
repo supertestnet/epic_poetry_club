@@ -94,4 +94,4 @@ The Heraclian Trilogy | George of Pisidia | ~2,200 lines | [Part 1](https://cath
 The Hexaemeron | George of Pisidia | ~1,800 lines | 
 The Hexaemeron (this was mostly an adaptation of book 1 of Dracontius's poem The Praise of God, with revisions and expansions) | Eugenius II of Toledo | ~600 lines | 
 Synonyma | Isidore of Seville | ~1,700 lines
-History of King Wamba | Julian of Toledo | ~13,500 words \[this one was not a poem so there is no line count\] | 
+History of King Wamba | Julian of Toledo | ~10,000 words \[this one was not a poem so there is no line count\] | 
