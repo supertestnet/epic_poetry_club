@@ -45,6 +45,7 @@ The Metrical Life of St. Martin \[separate from the one by Paulinus, and more po
 Hero and Leander | Musaeus Grammaticus | ~300 lines
 Joseph the Beautiful (latin version) | Anonymous | ~800 lines
 The Hymns of the Resurrection | Romanos the Melodist | ~1,900 lines
+The Gospel in Twelve Books | Severus of Malaga | ~700 lines survive (the original was probably ~8,500 lines)
 The Johannis | Flavius Corippus | ~4,700 lines
 The Praise of Justin the Younger | Flavius Corippus | ~1,600 lines
 
