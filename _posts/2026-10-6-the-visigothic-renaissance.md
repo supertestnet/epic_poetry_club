@@ -94,5 +94,6 @@ The Heraclian Trilogy | George of Pisidia | ~2,200 lines | [Part 1](https://cath
 The Hexaemeron | George of Pisidia | ~1,800 lines | 
 The Hexaemeron (this was mostly an adaptation of book 1 of Dracontius's poem The Praise of God, with revisions and expansions) | Eugenius II of Toledo | ~600 lines | [Latin](https://www.mqdq.it/texts/EVG_TOLE|hexa|001)
 Synonyma | Isidore of Seville | ~1,700 lines | 
+Song about the Moon | King Sisebut | ~60 lines | [Latin] (https://www.mqdq.it/testo/testo/codice/SISEB%7Ccarm%7C001)
 The Praise of Saint Mary | Pseudo Fortunatus | ~400 lines | [Latin](https://www.mqdq.it/testo/testo?codice=VEN_FORT%7Cspur%7C001)
 History of King Wamba | Julian of Toledo | ~10,000 words \[this one was not a poem so there is no line count\] | 
