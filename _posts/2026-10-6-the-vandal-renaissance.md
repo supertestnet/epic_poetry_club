@@ -39,6 +39,10 @@ The Metrical Jonah | Anonymous | ~100 lines survive (the original probably cover
 The Homeric Centos | Empress Eudocia | ~2,400 lines | [Greek](https://archive.org/details/eudociae-augustae-homerocentones-u-procli-lycii-claudiani-carminum-graecorum-by-a.-ludwich-1897/page/80/mode/1up)
 The Martyrdom of St. Cyprian of Antioch | Empress Eudocia | ~800 lines survive (the original was probably ~1,800 lines) | 
 Joseph the Beautiful | Pseudo Ephrem | ~800 lines | [Translation](https://web.archive.org/web/20031207003931if_/http://www.anastasis.org.uk:80/Joseph.pdf)
+The Repentance of Nineveh | Pseudo Ephrem | ~600 lines | [Translation](https://www.johnsanidopoulos.com/2021/09/homily-on-prophet-jonah-and-on.html)
+Abraham and Isaac | Pseudo Ephrem | ~500 lines | [Translation](https://www.johnsanidopoulos.com/2017/12/a-poem-on-abraham-and-isaac-st-ephraim.html)
+The Coming of the Lord and the End of the World | Pseudo Ephrem | ~500 lines | 
+The Second Coming | Pseudo Ephrem | ~400 lines | 
 The Song of Easter | Sedulius | ~1,700 lines | [Partial translation](https://archive.org/details/eastersong00seduuoft/page/82/mode/1up)
 The Tragedy of Orestes | Dracontius | ~1,000 lines | 
 The Abduction of Helen | Dracontius | ~700 lines | 
