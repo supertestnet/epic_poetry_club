@@ -21,6 +21,10 @@ The Metrical Jonah | Anonymous | ~100 lines survive (the original probably cover
 The Homeric Centos | Empress Eudocia | ~2,400 lines
 The Martyrdom of St. Cyprian of Antioch | Empress Eudocia | ~800 lines survive (the original was probably ~1,800 lines)
 Joseph the Beautiful | Pseudo Ephrem | ~800 lines
+The Repentance of Nineveh | Pseudo Ephrem | ~600 lines
+Abraham and Isaac | Pseudo Ephrem | ~500 lines
+The Coming of the Lord and the End of the World | Pseudo Ephrem | ~500 lines
+The Second Coming | Pseudo Ephrem | ~400 lines
 The Song of Easter | Sedulius | ~1,700 lines
 The Tragedy of Orestes | Dracontius | ~1,000 lines
 The Abduction of Helen | Dracontius | ~700 lines
