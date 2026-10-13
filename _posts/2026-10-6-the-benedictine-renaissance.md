@@ -37,5 +37,6 @@ The Metrical Life of St. Martin \[separate from the one by Paulinus, and more po
 Hero and Leander | Musaeus Grammaticus | ~300 lines | 
 Joseph the Beautiful (latin version) | Anonymous | ~800 lines | 
 The Hymns of the Resurrection | Romanos the Melodist | ~1,900 lines | 
+The Gospel in Twelve Books | Severus of Malaga | ~700 lines survive (the original was probably ~8,500 lines)
 Beowulf | Anonymous | ~3,200 lines | [Translation](https://books.google.com/books?id=Rndhg5W4RcwC)
 In Praise of the Virgins | St. Aldhelm | ~2,900 lines | 
