@@ -38,7 +38,7 @@ The Paraphrased Heptateuch | Cyprianus Gallus | ~5,500 lines | [Latin](https://a
 The Metrical Jonah | Anonymous | ~100 lines survive (the original probably covered the entire book) | 
 The Homeric Centos | Empress Eudocia | ~2,400 lines | [Greek](https://archive.org/details/eudociae-augustae-homerocentones-u-procli-lycii-claudiani-carminum-graecorum-by-a.-ludwich-1897/page/80/mode/1up)
 The Martyrdom of St. Cyprian of Antioch | Empress Eudocia | ~800 lines survive (the original was probably ~1,800 lines) | 
-Joseph the Beautiful | Pseudo Ephrem | ~800 lines | 
+Joseph the Beautiful | Pseudo Ephrem | ~800 lines | [Translation](https://web.archive.org/web/20031207003931if_/http://www.anastasis.org.uk:80/Joseph.pdf)
 The Song of Easter | Sedulius | ~1,700 lines | [Partial translation](https://archive.org/details/eastersong00seduuoft/page/82/mode/1up)
 The Tragedy of Orestes | Dracontius | ~1,000 lines | 
 The Abduction of Helen | Dracontius | ~700 lines | 
