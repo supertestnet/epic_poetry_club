@@ -48,8 +48,8 @@ The Praise of Emperor Avitus | Sidonius | ~600 lines |
 The Praise of Emperor Majorian | Sidonius | ~600 lines | 
 The Praise of Emperor Anthemius | Sidonius | ~500 lines | 
 The Praise of Emperor Consentius | Sidonius | ~500 lines | 
-The Metabole | Nonnus of Panopolis | ~3,600 lines | 
-The Dionysiaca | Nonnus of Panopolis | ~21,000 lines | 
+The Metabole | Nonnus of Panopolis | ~3,600 lines | [Greek](https://open.unive.it/hellenica/testo/testo/codice/NONNUS%7Cevan%7C001)
+The Dionysiaca | Nonnus of Panopolis | ~21,000 lines | [Greek](https://open.unive.it/hellenica/testo/testo/codice/NONNUS%7Cdion%7C000)
 The Alethia | Claudius Victor | ~2,000 lines | 
 The Natalicia | St. Paulinus of Nola | ~5,100 lines | 
 The Metrical Life of St. Martin | Paulinus of Perigueux | ~3,600 lines | 
