@@ -20,6 +20,7 @@ The Paraphrased Heptateuch | Cyprianus Gallus | ~5,500 lines
 The Metrical Jonah | Anonymous | ~100 lines survive (the original probably covered the entire book)
 The Homeric Centos | Empress Eudocia | ~2,400 lines
 The Martyrdom of St. Cyprian of Antioch | Empress Eudocia | ~800 lines survive (the original was probably ~1,800 lines)
+The Thanksgiving Book | Paulinus of Pella | ~600 lines
 Joseph the Beautiful | Pseudo Ephrem | ~800 lines
 The Repentance of Nineveh | Pseudo Ephrem | ~600 lines
 Abraham and Isaac | Pseudo Ephrem | ~500 lines
