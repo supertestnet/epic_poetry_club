@@ -4,7 +4,7 @@ type: recital_post
 title: "Chapter 17 of the Life of Robin Hood"
 ---
 
-Yesterday I released a recording of my recital of chapter 17 of my ongoing work, "The Life of Robin Hood." This chapter is "The Battle of Barnsdale." Listen to it here:
+Today I released a recording of my recital of chapter 17 of my ongoing work, "The Life of Robin Hood." This chapter is "The Battle of Barnsdale." Listen to it here:
 
 <div class="embed-container">
   <iframe src="https://www.youtube.com/embed/M_jMJUG3aS0" frameborder="0" allowfullscreen></iframe>
