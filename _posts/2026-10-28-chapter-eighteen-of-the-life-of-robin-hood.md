@@ -1,0 +1,17 @@
+---
+layout: post
+type: recital_post
+title: "Chapter 18 of the Life of Robin Hood"
+---
+
+Yesterday I released a recording of my recital of chapter 18 of my ongoing work, "The Life of Robin Hood." This chapter is "Much the Miller." Listen to it here:
+
+<div class="embed-container">
+  <iframe src="https://www.youtube.com/embed/pdCEuFQgxco" frameborder="0" allowfullscreen></iframe>
+</div>
+<style>
+  .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; }
+  .embed-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+</style>
+<!-- <p><a href="/2026/10/13/chapter-sixteen-of-the-life-of-robin-hood.html">Next chapter →</a></p>
+-->
