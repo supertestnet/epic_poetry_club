@@ -58,5 +58,5 @@ The Dionysiaca | Nonnus of Panopolis | ~21,000 lines | [Greek](https://open.univ
 The Alethia | Claudius Victor | ~2,000 lines | 
 The Natalicia | St. Paulinus of Nola | ~5,100 lines | 
 The Metrical Life of St. Martin | Paulinus of Perigueux | ~3,600 lines | 
-The Johannis | Flavius Corippus | ~4,700 lines | 
+The Johannis | Flavius Corippus | ~4,700 lines | [Prose translation](/2026/11/07/the-johannis.html)
 The Praise of Justin the Younger | Flavius Corippus| ~1,600 lines | 
