@@ -4,7 +4,7 @@ type: ancient_epic
 title: "The Johannis (prose translation)"
 ---
 
-The Johannis is a poem by Flavius Corippus, one of the most important poets of the Vandal Remaissance. It uses a style influenced by Vergil and Claudian to tell the story of the reconquest of Roman Africa by Emperor Justinian's General John Troglita.
+The Johannis is a poem by Flavius Corippus, one of the most important poets of the Vandal Renaissance. It uses a style influenced by Vergil and Claudian to tell the story of the reconquest of Roman Africa by Emperor Justinian's General John Troglita.
 
 Set around 535 ad, the poem details the battle preparations on both sides and dramatizes the twists and turns of war, with the Moorish enemies helped by demons and the Romans helped by God.
 
