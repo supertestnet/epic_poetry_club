@@ -5039,7 +5039,7 @@ Wheeled around the standards of his leadership through the midst of the enemy,
 Dragging many thousands with him. The magnanimous hero saw him  
 Coming. John himself snatched the auspicious weapons  
 From the hand of an armor-bearer, and, proud with his javelin,  
-Rushed forward, seeking the opposing chest through the wounds of battle,  
+Rushed forward, seeking the opposing chest over the damaged battlefield,  
 And struck intrepidly. Blood ran along the weapon,  
 Flowing copiously from the deep wound, and splattered the master's garments.  
 Straightaway, their tyrant perishing, the now chaotic battle lines  
