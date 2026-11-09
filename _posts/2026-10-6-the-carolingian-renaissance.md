@@ -50,6 +50,7 @@ The Great Canon of Repentance | St. Andrew of Crete | ~1,400 lines | [Translatio
 The Old Saxon Genesis | Anonymous | ~300 lines survive (the original was probably ~5,500 lines) | 
 Verses on Jacob and Joseph | Paulinus II of Aquileia | ~400 lines | 
 The Martyrology of Oengus | St. Oengus of Tallaght | ~2,400 lines | 
+Metrical Life of Saint Brigid | St. Donatus of Fiesole | ~2,000 lines | 
 The Heliand | Anonymous | ~6,000 lines | [Translation](https://joeclark.org/heliand/all/)
 The Gospel Book | St. Otfrid | ~7,100 lines | 
 Walter of Acquitaine | Gerald of Bavaria | ~1,500 lines | [Translation](https://web.archive.org/web/20141204080742/http://www.odinismo.es/paginas/Waltharius%20the%20Goth_old%20.htm)
