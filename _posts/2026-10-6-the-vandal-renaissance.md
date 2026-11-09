@@ -36,6 +36,7 @@ The Crowns of Martyrdom | Prudentius | ~3,700 lines |
 Psychomachia | Prudentius | ~1,000 lines | [Translation](http://web.archive.org/web/20020429135514/http://www.richmond.edu/~wstevens/grvaltexts/psychomachia.html)
 The Paraphrased Heptateuch | Cyprianus Gallus | ~5,500 lines | [Latin](https://archive.org/details/cyprianigallipoe23cypr/page/1/mode/1up)
 The Metrical Jonah | Anonymous | ~100 lines survive (the original probably covered the entire book) | 
+The Martyrdom of the Maccabees | Pseudo Hilary | ~400 lines | 
 The Homeric Centos | Empress Eudocia | ~2,400 lines | [Greek](https://archive.org/details/eudociae-augustae-homerocentones-u-procli-lycii-claudiani-carminum-graecorum-by-a.-ludwich-1897/page/80/mode/1up)
 The Martyrdom of St. Cyprian of Antioch | Empress Eudocia | ~800 lines survive (the original was probably ~1,800 lines) | 
 The Thanksgiving Book | Paulinus of Pella | ~600 lines | 
