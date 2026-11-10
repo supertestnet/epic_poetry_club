@@ -1460,7 +1460,7 @@ After all, the Franks were armed only with swords of the short kind,
 And could not close the distance to fight Walter hand-to-hand,  
 As he kept swinging such long, sweeping strokes with his spear-point.  
 Therefore, the king signaled with his eyes, urging his vassal to advance,  
-So that, with the king covering him, he might find a chance to fulfill his purpose.  
+So that, under his protection, the king might find a chance to fulfill his purpose.  
 Without delay, Hagano stepped forward and provoked the enemy,  
 While the king also sheathed his gem-encrusted sword in its scabbard,  
 Freeing up his right hand to carry out the theft immediately.  
