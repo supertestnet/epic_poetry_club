@@ -365,7 +365,7 @@ And each banqueter, tasting the diverse dainties, sweated from his exertion.
 Section 1.8.  
   
 Then, when the first dishes were removed, others were brought in to be eaten,  
-And an exquisite mixture foamed among the gold.  
+And an exquisite mixture foamed amidst the gold.  
 Each vessel of gold stood upon a fine linen cloth,  
 And spiced wine adorned the mixing-bowls.  
 The appearance and sweetness of the drink enticed each one to drain it.  
