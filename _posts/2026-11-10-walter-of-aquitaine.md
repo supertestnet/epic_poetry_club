@@ -654,7 +654,7 @@ From here, no returning Frank shall presume to tell his wife
 That he carried away any of this vast treasure with impunity."  
 He had not yet finished his speech when, behold,  
 He collapsed to the ground and begged forgiveness for speaking such things.  
-After he arose, scanning the men all more carefully, he said:  
+After he arose, scanning the men all the more carefully, he said:  
 "Of these men whom I see, with the exception of Hagano,  
 I fear none. For he has already learned my ways through battles,  
 And he, being quite shrewd, also possesses the art of war.  
