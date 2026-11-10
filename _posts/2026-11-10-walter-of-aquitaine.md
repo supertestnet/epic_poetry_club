@@ -837,7 +837,7 @@ Stood firm, opposing him with the curve of his seven-layered shield,
 Using his foresight to repeatedly dodge the oncoming blows.  
 For now he leaped aside, now he inclined his shield to the south  
 And deflected the missiles, so that not one touched him.  
-After the descendant of Pandarus saw that he had spent his arrows  
+Then the descendant of Pandarus saw that he had spent his arrows  
 In vain. In his anger, he soon drew his sword,  
 And, flying forward at last, he hurled these words from his mouth:  
 "Though you have dodged these wind-swift shots, you clever man,  
