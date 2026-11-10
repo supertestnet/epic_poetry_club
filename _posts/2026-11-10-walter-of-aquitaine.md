@@ -290,7 +290,7 @@ And pressed the maiden’s hand with his own. But she
 Stood by and silently watched her lord's face,  
 And Walter, drinking, offered the empty vessel to her,  
 For both knew that a betrothal had been made between them,  
-And teased his dear girl with this speech:  
+And he teased his dear girl with this speech:  
 "We have been exiled together now for so long a time,  
 Not ignorant of what our fated parents planned  
 Between themselves regarding our future.  
