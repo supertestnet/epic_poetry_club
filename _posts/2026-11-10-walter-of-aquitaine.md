@@ -367,7 +367,7 @@ Section 1.8.
 Then, when the first dishes were removed, others were brought in to be eaten,  
 And an exquisite mixture foamed amidst the gold.  
 Each vessel of gold stood upon a fine linen cloth,  
-And spiced wine adorned the mixing-bowls.  
+And spiced wine adorned the mixing bowls.  
 The appearance and sweetness of the drink enticed each one to drain it.  
 Walter exhorted them all to wine and food.  
 After hunger was banished by the feast and the table was cleared,  
