@@ -927,7 +927,7 @@ Through so vast a distance of travel from the high strongholds of the Avars!"
 The other then replied: "If you refuse to do it willingly, you shall do it unwillingly.  
 And not only the shield, but the horse with the maiden and the gold  
 You will surrender. Then at last you will pay for your crimes with torments."  
-Thus he spoke, and tore his well-known sword from its scabbard.  
+Thus he spoke, and tore his far-famed sword from its scabbard.  
 Born in different parts of the world, they clashed  
 Together. The Vosges marveled at their lightning flashes and blows.  
 They, sublime in spirit and grand in their armor,  
