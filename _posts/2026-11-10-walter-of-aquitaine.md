@@ -785,7 +785,7 @@ Then, drawing it out, he pulled the spear from the wound at the same time.
 The horse and its master then fell in the selfsame hour.  
 And when, by chance, Camalo's nephew caught sight of this,  
 The son of his very brother, Kimo by nickname,  
-Whom some report was called Scaramund by name,  
+Who, according to some, was called Scaramund by name,  
 He groaned, and in deep sorrow accosted them all with tears:  
 "Alas, this turn of events concerns me above all others.  
 Now I shall either die together with him or avenge my dear friend."  
