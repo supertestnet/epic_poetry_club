@@ -736,7 +736,7 @@ Having said this, he soon he sought a neighboring hill,
 And, dismounting from his horse, he sat down and watched from there.  
 After this, Gunther commanded Camalo, saying:  
 "Go, and command that the whole treasure be surrendered to me.  
-But if he hesitates, (I know you are a brave and bold man.  
+But if he hesitates, I know you are a brave and bold man.  
 Clash with him, and soon despoil him as one conquered in war!"  
 Camalo, the governor of Metz, went forward.  
 A yellow helmet gleamed on his head, and armor on his breast.  
