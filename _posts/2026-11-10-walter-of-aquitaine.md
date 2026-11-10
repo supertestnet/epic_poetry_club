@@ -596,17 +596,17 @@ Diligently scout the whole region all around!"
   
 Section 2.2.  
   
-Thus he spoke, and he closed his own shining eyes.  
-And now for a long time he enjoyed his well-desired rest.  
-But when Gunther saw the tracks in the dust,  
-He urged his swift steed on with cruel spurs,  
-And exulting in spirit, he spoke thus in vain to the winds:  
-"Hasten, men! Right now you will capture him as he goes.  
-Never today shall he escape. He will leave behind the stolen treasures!"  
-But the renowned Hagano soon returned these words in reply:  
-"One thing only I tell you, bravest of kings.  
-If you had seen Walter fight as many times,  
-And as many times raging with fresh slaughter as I have,  
+Thus he spoke, and he closed his own shining eyes.
+And now for a long time he enjoyed his greatly desired rest.
+But when Gunther saw the tracks in the dust,
+He urged his swift steed on with cruel spurs,
+And exulting in spirit, he spoke thus in vain to the winds:
+"Hasten, men! Right now you will capture him as he goes.
+Never today shall he escape. He will leave behind the stolen treasures!"
+But the renowned Hagano soon returned these words in reply:
+"One thing only I tell you, bravest of kings.
+If you had seen Walter fight as many times
+As I have, and as many times raging with fresh slaughter,
 Never, perhaps, would you think he could be despoiled so easily.  
 I have seen the Pannonian battle lines when they stirred up wars  
 Against the northern or the southern regions.  
