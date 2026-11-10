@@ -16,12 +16,12 @@ This translation was created in several stages. First, I divided the poem up int
 
 Section 0.0.  
   
-Almighty Father, lover of supreme virtue,  
-And the Son of equal right, and the nurturing Spirit of them both,  
-Three in persons, but one in true deity,  
-Who, living life, will hold all things without end,  
-Save now and forever the supreme pontiff,  
-Erckambald, worthy, gleaming with an illustrious name,  
+Almighty Father, lover of supreme virtue,
+And the Son of equal right, and the nurturing Spirit of them both,
+Three in persons, but one in true deity,
+Who, living life, will hold all things without end,
+Save now and forever the supreme pontiff,
+The worthy Erckambald, who gleams with an illustrious name,
 So that he may grow inwardly, filled with the holy breath,  
 Whereby he may be an unfeigned remedy to many for all time.  
 Holy prelate of God, receive now the gifts of your servant,  
@@ -200,7 +200,7 @@ Walter returned, to whom the prince revealed these things,
 Urging him to take a wife. Nevertheless, Walter,  
 Already planning in advance what he would later complete with deeds,  
 Spoke in opposition to these enticing suggestions:  
-"You are indeed too kindness, in that you notice the cause  
+"You are indeed too kind, in that you notice the cause  
 Of my modest service. But that you regard the sluggishness of my mind  
 With such favor, I could never have deserved.  
 I only ask that you receive the words of your faithful servant.  
