@@ -637,7 +637,7 @@ May never suffer the embrace of any other flesh."
 Section 2.3.  
   
 Then the youth said: "Shall innocent blood stain me?  
-"And how by any means is my sword able to lay low  
+And how by any means is my sword able to lay low  
 Enemies, if it does not now spare so faithful a friend?  
 Far be it from me to do what you ask. Lay aside your heart's terror!  
 He who has often rescued me from various dangers,  
