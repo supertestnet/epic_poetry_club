@@ -53,7 +53,7 @@ The Martyrology of Oengus | St. Oengus of Tallaght | ~2,400 lines |
 Metrical Life of Saint Brigid | St. Donatus of Fiesole | ~2,000 lines | 
 The Heliand | Anonymous | ~6,000 lines | [Translation](https://joeclark.org/heliand/all/)
 The Gospel Book | St. Otfrid | ~7,100 lines | 
-Walter of Acquitaine | Gerald of Bavaria | ~1,500 lines | [Translation](https://web.archive.org/web/20141204080742/http://www.odinismo.es/paginas/Waltharius%20the%20Goth_old%20.htm)
+Walter of Acquitaine | Gerald of Bavaria | ~1,500 lines | [Prose Translation](/2026/11/10/walter-of-aquitaine.html)
 The Life of St. Germain | Heiric of Auxerre | ~3,500 lines | 
 Metrical Passion of St. Denis | Hilduin of St. Denis | ~2,000 lines | 
 The Vision of Wetti | Walafrid Strabo | ~900 lines | 
