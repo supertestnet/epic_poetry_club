@@ -1314,7 +1314,7 @@ Profusely, relieved his body of its massive weight.
 Then comforting his sorrowful bride with cheerful speech,  
 He soon took food and refreshed his weary limbs,  
 For he was exceedingly tired, and, reclining upon his shield,  
-He commanded the maiden to keep watch during his first sleep.  
+He commanded the maiden to keep watch during the first hours of the night.  
 He intended to take up the morning watch himself,  
 Which was the more suspected hour. Then, at last, he found rest.  
 Sitting at his head, she kept watch as was her custom,  
