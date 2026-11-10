@@ -27,7 +27,7 @@ Whereby he may be an unfeigned remedy to many for all time.
 Holy prelate of God, receive now the gifts of your servant,  
 Which, with abundant care, a fragile sinner,  
 Vile in name, Gerald, has determined to bring forth for you,  
-Who is indeed a secure and faithful foster-child to you in his heart.  
+Who is indeed a secure and faithful foster child to you in his heart.  
 I continually beg this from the all-thundering Lord in prayers,  
 That you may achieve in deeds what I utter in words.  
 May the Father on high, who governs heaven and earth, grant it.  
@@ -146,7 +146,7 @@ Having taken the hostages Hagano, the maiden Hiltgunt,
 And also Walter, returned with joyful hearts.  
 Attila, entering Pannonia and being received in his city,  
 Showed great kindness to the exiled children,  
-And ordered them to be nurtured just like his own foster-children.  
+And ordered them to be nurtured just like his own foster children.  
   
 Section 1.3.  
   
@@ -448,7 +448,7 @@ This day confirms, a day we cannot overcome.
 Behold, today the pillar of your empire is known  
 To have fallen. Behold, our strength and renowned valor have gone far away.  
 Walter, the light of Pannonia, has departed from here,  
-And he has led away my dear foster-child Hiltgunt as well."  
+And he has led away my dear foster child Hiltgunt as well."  
 Now the prince was kindled with wild and exceeding anger,  
 And their grieving hearts exchanged their former joy for sorrow.  
 He tore his royal robe from his shoulders all the way to the bottom,  
