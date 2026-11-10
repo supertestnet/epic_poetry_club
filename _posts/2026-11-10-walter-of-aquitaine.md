@@ -1279,7 +1279,7 @@ Kiss the king gave him when they embraced.
   
 Section 3.2.  
   
-He had fully considered what intent might be in the mind  
+He fully considered what intent might be in the mind  
 Of the enemy, and whether they wished to return to the city they left,  
 So that, having perhaps gathered more allies through the night,  
 They might prepare at early dawn to renew the heinous battle,  
