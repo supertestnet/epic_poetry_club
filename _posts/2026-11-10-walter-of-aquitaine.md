@@ -824,7 +824,7 @@ When the arrogant Gunther saw that this man had perished,
 He exhorted his raging companions to renew the battle:  
 "Let us attack him, and not allow him to catch his breath  
 Until he grows weary and fails. After that, he will be bound,  
-And he shall return the treasures and pay the penalty for this bloodshed."  
+And he shall render us the treasures and pay the penalty for this bloodshed."  
 Behold, Werinhard was the third to go out and provoke a fight.  
 He was a descendant born from a long lineage,  
 O renowned Pandarus. He was your kinsman and a lover of the craft you mastered,  
