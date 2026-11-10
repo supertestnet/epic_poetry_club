@@ -1008,7 +1008,7 @@ She, struck with terror, uttered a womanly cry.
 But after the faint blood returned to her heart,  
 She looked up a little to watch and see whether the hero was still alive.  
 Then the brave man ordered the Frank to depart from the war again,  
-But he, raging, bared his sword and, rushed at him,  
+But he, raging, bared his sword and rushed at him,  
 Seeking him out and driving a blow down from above.  
 The son of Alphere at last shook his well-fitted shield,  
 And gnashing his teeth in the manner of a foaming boar, he kept silent.  
