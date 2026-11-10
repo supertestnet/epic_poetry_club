@@ -543,7 +543,7 @@ These, whenever the steed tossed its high neck
 And proudly sought to curve its bounding legs,  
 Made a clattering sound, as if one were striking gold with gems.  
 This man gave me the fish here as a payment."  
-When Hagen heard this, for he was sitting at the table,  
+When Hagano heard this, for he was sitting at the table,  
 He spoke out joyfully from the bottom of his heart:  
 "Rejoice with me, I beg you, for I recognize these traits!  
 My comrade Walter has returned from the Huns."  
@@ -559,7 +559,7 @@ Thus he spoke, and kicked the table away as he leapt up.
 Then he ordered his horse to be led out and equipped with a carved saddle,  
 And from all the people he chose twelve men  
 Remarkable for strength, and thoroughly proven in spirit.  
-Among these he commanded Hagen to go along with him.  
+Among these he commanded Hagano to go along with him.  
 He, mindful of ancient loyalty and of his former comrade,  
 Strove to turn his lord away from the enterprise he had begun.  
 The king, however, urged on regardless and spoke in reply:  
@@ -569,7 +569,7 @@ Shall this man carry away so much treasure from the shores of the Franks?"
 Equipped with weapons, for the king’s command urged them on,  
 They marched out of the gates, longing to see you, Walter,  
 And hoping to rob a defenseless man of his riches.  
-Hagen still strove by all means to stop them,  
+Hagano still strove by all means to stop them,  
 But the unhappy king refused to change his mind about what he had begun.  
 Meanwhile, the great-hearted man, continuing on from the river,  
 Had come into the forest even then called the Vosges.  
@@ -603,7 +603,7 @@ He urged his swift steed on with cruel spurs,
 And exulting in spirit, he spoke thus in vain to the winds:  
 "Hasten, men! Right now you will capture him as he goes.  
 Never today shall he escape. He will leave behind the stolen treasures!"  
-But the renowned Hagen soon returned these words in reply:  
+But the renowned Hagano soon returned these words in reply:  
 "One thing only I tell you, bravest of kings.  
 If you had seen Walter fight as many times,  
 And as many times raging with fresh slaughter as I have,  
@@ -645,8 +645,8 @@ He is able, I believe, to confound our enemies."
 Thus he spoke, and lifting his eyes, he said to her:  
 "No Avars are present here, but Frankish rascals,  
 Dwellers of this region, and"—lo, he caught sight  
-Of Hagen's helmet, and, recognizing it, he added with a laugh:  
-"And here is my old comrade and companion, Hagen."  
+Of Hagano's helmet, and, recognizing it, he added with a laugh:  
+"And here is my old comrade and companion, Hagano."  
 With this word spoken, the hero went to the entrance of his site,  
 And to the woman, who stood further back, he said this beforehand:  
 "Before this gate I now throw out a proud boast.  
@@ -655,12 +655,12 @@ That he carried away any of this vast treasure with impunity."
 He had not yet finished his speech when, behold,  
 He collapsed to the ground and begged forgiveness for speaking such things.  
 After he arose, scanning the men all more carefully, he said:  
-"Of these men whom I see, with the exception of Hagen,  
+"Of these men whom I see, with the exception of Hagano,  
 I fear none. For he has already learned my ways through battles,  
 And he, being quite shrewd, also possesses the art of war.  
 If, by God's will, I can disrupt his maneuvers alone,  
 Then I shall be saved from the battle for you, my bride Hiltgund," he said.  
-But when Hagen saw that Walter was entrenched  
+But when Hagano saw that Walter was entrenched  
 In such a stronghold, he soon advised the proud ruler with these words:  
 "O lord, desist from provoking this man in war!  
 First, let men go forward to ask him about everything,  
@@ -708,7 +708,7 @@ Then I will send him one hundred arm-rings made of true red metal,
 By which to honor the name and status of the king."  
 With this answer received, that man departed,  
 And, when received by the leaders, he related Walter’s offer.  
-Then Hagen said to the king: "Accept the offered treasure!  
+Then Hagano said to the king: "Accept the offered treasure!  
 With this, father, you are able to reward those accompanying you.  
 Recall now to restrain your hand from battle!  
 Walter is unknown to you, as is his supreme valor.  
@@ -955,7 +955,7 @@ He struck. The man fell. His huge shield crashed loudly upon him.
 Nor did the youth delay. He pressed his foot upon his neck, and, tearing  
 The shield away with his spear, he pinned him to the earth.  
 The man, rolling his eyes, exhaled his spirit into the air.  
-Patafrid was the sixth to fight. Hagen’s own sister  
+Patafrid was the sixth to fight. Hagano’s own sister  
 Had given him birth. When his uncle saw him step forward,  
 He tried to turn him back from there with shouts and prayers,  
 Crying out: "Where are you rushing? Behold how death  
@@ -964,7 +964,7 @@ Their final threads! O dear nephew, your own mind deceives you.
 Cease! You are clearly no match for Walter’s strength."  
 Yet the unhappy youth, continuing on, scorned all these words,  
 For he burned in his veins, desiring to capture glory.  
-Saddened, Hagen drew long sighs from his breast  
+Saddened, Hagano drew long sighs from his breast  
 And poured out these words from the bottom of his heart:  
 "O whirlpool of the world, insatiable hunger for possession,  
 Abyss of avarice, root of all evils!  
@@ -1132,7 +1132,7 @@ I shall now declare the remaining names of those who were pulling:
 The ninth was Eleuthir, called by the surname Helmnod.  
 The very city of Strasbourg gave Trogus as the tenth.  
 The mighty city of Speyer brought forth Tanastus as the eleventh.  
-In place of Hagen, the king filled the twelfth spot.  
+In place of Hagano, the king filled the twelfth spot.  
 These four against one with supreme effort  
 Contended equally with a great and varied tumult.  
 Meanwhile, the vain labor instilled anger into Walter,  
@@ -1195,7 +1195,7 @@ Section 3.0.
   
 The unhappy king sighed when he saw this, and abandoning  
 All his pride, he mounted the back of his caparisoned horse,  
-And flew swiftly to the sorrowful Hagen.  
+And flew swiftly to the sorrowful Hagano.  
 He strove with every kind of prayer to move him  
 To go with him and renew the battle. But he replied:  
 "My shameful ancestral lineage forbids me to fight,  
@@ -1220,12 +1220,12 @@ But France will never overcome so great a disgrace.
 Those who once feared us will now hiss and say,  
 'Oh, the shame of it! The entire army of the Franks  
 Was slaughtered with impunity by a single, nameless man!'"  
-Hagen still hesitated, and in his heart he kept turning over  
+Hagano still hesitated, and in his heart he kept turning over  
 The loyalty he had pledged to Walter, while recalling  
 The entire sequence of events in the unfolding tragedy.  
 Yet the unhappy king pressed him even more suppliantly.  
 Moved by the intensity of his humble pleading,  
-Hagen blushed before his lord's face, and reflected on the honor  
+Hagano blushed before his lord's face, and reflected on the honor  
 Of his own valor, which might perhaps be cheapened  
 If in any way he spared himself in this affair.  
 At last he broke his silence, and answered thus in a clear voice:  
@@ -1274,7 +1274,7 @@ Whether to stay in safety in the dense silence of the fortress,
 Or to commit himself to the vast fields of the wilderness.  
 He seethed with immense waves of cares, and, as to what  
 He should do now, he cleverly investigated that with sharp scrutiny.  
-For he was suspicious of Hagen alone, and of that  
+For he was suspicious of Hagano alone, and of that  
 Kiss the king gave him when they embraced.  
   
 Section 3.2.  
