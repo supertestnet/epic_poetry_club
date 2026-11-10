@@ -288,7 +288,7 @@ She straightaway filled a precious cup with pure wine
 And offered it to the man, who took it. He made the sign of the cross  
 And pressed the maiden’s hand with his own. But she  
 Stood by and silently watched her lord's face,  
-And Walter, drinking, offered the empty vessel to he,  
+And Walter, drinking, offered the empty vessel to her,  
 For both knew that a betrothal had been made between them,  
 And teased his dear girl with this speech:  
 "We have been exiled together now for so long a time,  
