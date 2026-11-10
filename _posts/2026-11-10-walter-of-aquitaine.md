@@ -26,7 +26,7 @@ So that he may grow inwardly, filled with the holy breath,
 Whereby he may be an unfeigned remedy to many for all time.  
 Holy prelate of God, receive now the gifts of your servant,  
 Which, with abundant care, a fragile sinner,  
-Vile in name, Geraldus, has determined to bring forth for you,  
+Vile in name, Gerald, has determined to bring forth for you,  
 Who is indeed a secure and faithful foster-child to you in his heart.  
 I continually beg this from the all-thundering Lord in prayers,  
 That you may achieve in deeds what I utter in words.  
@@ -37,7 +37,7 @@ Walter by name, hewn down through many battles.
 It is meant more for amusement than for petitioning the Lord,  
 But, once read, it shortens the tedious spans of a long day.  
 May you be a happy, holy priest, through many seasons,  
-And may Geraldus be a dear brother in your mind.  
+And may Gerald be a dear brother in your mind.  
 
 ## Book One.  
 
