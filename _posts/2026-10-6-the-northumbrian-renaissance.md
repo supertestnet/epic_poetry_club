@@ -24,7 +24,7 @@ Overall, the schools and libraries established in the 600s, like the School of C
 
 ## Literature from this era inspired by Greco-Roman classics
 
-The Metrical Life of St. Cuthbert | St. Bede the Venerable | ~1,000 lines | 
+The Metrical Life of St. Cuthbert | St. Bede the Venerable | ~1,000 lines | [Prose Translation](https://www.catholica.com/bede-the-venerable/the-metrical-life-of-saint-cuthbert-bishop-of-lindisfarne/)
 St. Guthlac A | Anonymous | ~800 lines | [Translation](https://oldenglishpoetry.camden.rutgers.edu/guthlac-a/)
 St. Guthlac B | Anonymous | ~500 lines | [Translation](https://oldenglishpoetry.camden.rutgers.edu/guthlac-b/)
 The Old English Genesis A | Anonymous | ~2,300 lines survive (the original was probably ~6,000 lines) | [Translation](https://oldenglishpoetry.camden.rutgers.edu/genesis-ab/)
