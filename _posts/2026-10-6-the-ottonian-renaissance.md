@@ -50,8 +50,9 @@ Overall, the Ottonian Renaissance saw a renewed focus on science and bilingualis
 
 The Birth and Victories of King Alexander the Great | Leo the Archpriest | ~20,000 words \[this one was not a poem so there is no line count\] | [Latin](https://archive.org/details/deralexanderrom00leoa/page/43/mode/1up)
 Digenes Akritas | Anonymous | ~1,900 lines | 
-The Triumphs of Christ | Flodoard of Rheims | ~20,000 lines
-The Life of St. Pantaleon | John Geometres | ~1,000 lines
+The Triumphs of Christ | Flodoard of Rheims | ~20,000 lines | 
+The Life of St. Pantaleon | John Geometres | ~1,000 lines | 
+The Occupatio | St. Odo of Cluny | ~5,800 lines | 
 Six Plays | Roswitha of Gandersheim | ~35,000 words \[this one was not a poem so there is no line count\] | [Translation](https://www.gutenberg.org/ebooks/59770)
 Maria | Roswitha of Gandersheim | ~1,000 lines | [Translation](https://archive.org/details/nondramaticworks00hrot/page/15/mode/1up)
 The Deeds of Otto | Roswitha of Gandersheim | ~800 lines (the original was ~1,500 lines) | [Translation](https://archive.org/details/hrosvithaelibert00hrot/page/39/mode/1up)
