@@ -113,6 +113,7 @@ The Triumphs of Christ | Flodoard of Rheims | ~20,000 lines
 The Old English Judith | Anonymous | ~350 lines survive (the original was probably ~1,200 lines)
 The Old English Metrical Psalter | Anonymous | ~5,000 lines survive (the original was probably ~8,200 lines)
 The Life of St. Pantaleon | John Geometres | ~1,000 lines
+The Occupatio | St. Odo of Cluny | ~5,800 lines
 Maria | Roswitha of Gandersheim | ~1,000 lines
 The Deeds of Otto | Roswitha of Gandersheim | ~800 lines (the original was ~1,500 lines)
 The Martyrdom of Blessed Gongolf | Roswitha of Gandersheim | ~600 lines
