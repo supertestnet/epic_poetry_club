@@ -86,6 +86,7 @@ St. Juliana | Cynewulf | ~700 lines
 The Exeter Christ Book | Cynewulf and others | ~1,700 lines
 The Lays of Boethius | St. Alfred | ~1,700 lines
 The Abbots | Ethelwulf of Lindisfarne | ~800 lines
+The Old English Phoenix | Anonymous | ~700 lines
 Metrical Life of Saint Brigid | St. Donatus of Fiesole | ~2,000 lines
 The Arabic Psalter | Hafs ibn Albar al Quti | ~5,500 lines
 The Heliand | Anonymous | ~6,000 lines
