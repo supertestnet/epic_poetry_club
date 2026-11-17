@@ -1687,9 +1687,9 @@ What Victorinus wrote, and Boethius; and
 The ancient historians, Pompeius, Plinius, and  
 Keen Aristotle himself, and huge Tullius  the rhetorician.  
 What also Sedulius, or what Juvencus himself sings,  
-Alcuinus and Clemens, Prosper, Paulinus, Arator,  
+Alcimus and Clemens, Prosper, Paulinus, Arator,  
 What Fortunatus, or what Lactantius bring forth.  
-What Maro Virgil, Statius, Lucan, and the Author ;  
+What Maro Virgil, Statius, Lucan, and the Author;  
 Or what the masters of the grammatical art wrote:  
 What Probus and Phocas, Donatus, or Priscian,  
 Servius, Eutychius, Pompeius, Cominianus.  
