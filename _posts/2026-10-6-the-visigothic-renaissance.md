@@ -1,4 +1,4 @@
----
+o---
 layout: post
 type: history_post
 title: "The Visigothic Renaissance | 589-711 ad"
@@ -93,7 +93,7 @@ Poems tended to be shorter, and almost always could fit in a single codex. The l
 The Heraclian Trilogy | George of Pisidia | ~2,200 lines | [Part 1](https://catholiclibrary.org/library/view?docId=Fathers-Synchronized-OR/Georges_Pisides__De_expeditione_Persica.gr.html;query=;brand=default&surl=aHR0cHMlM0ElMkYlMkZjYXRob2xpY2xpYnJhcnkub3JnJTJGbGlicmFyeSUyRmJyb3dzZSUyRmNlbnR1cnklMkY2MDA=) \| [Part 2](https://catholiclibrary.org/library/view?docId=Fathers-Synchronized-OR/Georges_Pisides__Bellum_Avaricum.gr.html;query=;brand=default&surl=aHR0cHMlM0ElMkYlMkZjYXRob2xpY2xpYnJhcnkub3JnJTJGbGlicmFyeSUyRmJyb3dzZSUyRmNlbnR1cnklMkY2MDA=) \| [Part 3](https://catholiclibrary.org/library/view?docId=Fathers-Synchronized-OR/Georges_Pisides__Heraclias.gr.html;query=;brand=default&surl=aHR0cHMlM0ElMkYlMkZjYXRob2xpY2xpYnJhcnkub3JnJTJGbGlicmFyeSUyRmJyb3dzZSUyRmNlbnR1cnklMkY2MDA=)
 The Hexaemeron | George of Pisidia | ~1,800 lines | [Greek](https://books.google.com.pr/books?id=0EQOAAAAYAAJ&pg=PA603#v=onepage&q&f=false)
 The Hexaemeron (this was mostly an adaptation of book 1 of Dracontius's poem The Praise of God, with revisions and expansions) | Eugenius II of Toledo | ~600 lines | [Latin](https://www.mqdq.it/texts/EVG_TOLE%7Chexa%7C001)
-Synonyma | Isidore of Seville | ~1,700 lines | 
+Synonyma | Isidore of Seville | ~1,700 lines | [Latin](https://la.wikisource.org/wiki/Synonyma_de_lamentatione_animae_peccatricis)
 Song about the Moon | King Sisebut | ~60 lines | [Latin](https://www.mqdq.it/testo/testo/codice/SISEB%7Ccarm%7C001)
 The Praise of Saint Mary | Pseudo Fortunatus | ~400 lines | [Latin](https://www.mqdq.it/testo/testo?codice=VEN_FORT%7Cspur%7C001)
 History of King Wamba | Julian of Toledo | ~10,000 words \[this one was not a poem so there is no line count\] | [Translation](/2026/10/13/history-of-king-wamba-prose-translation.html)
