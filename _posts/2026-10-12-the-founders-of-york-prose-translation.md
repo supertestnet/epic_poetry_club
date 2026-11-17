@@ -13,7 +13,7 @@ The Founders of York is a poem by Blessed Alcuin of York composed in the 700s ad
 
 I have decided to call these divisions books, and to put smaller sections within each one, but note that this is my own doing, for ease of citation. It would be very surprising if Alcuin had such divisions in mind when he originally wrote this poem, because I made them up, both the large ones and the smaller ones.
 
-This translation was created in several stages. First, I divided the poem up into about sections of roughly equal line counts. Then, I fed each section into Google Search's AI (based on Gemini), and asked it to translate each section literally. Then I combined all the sections and read through the poem. I inserted books to further break up the text, messed around with the placement of the smaller sections, and below is the result. I hope you enjoy it.
+This translation was created in several stages. First, I divided the poem up into sections of roughly equal line counts. Then, I fed each section into Google Search's AI (based on Gemini), and asked it to translate each section literally. Then I combined all the sections and read through the poem. I inserted books to further break up the text, messed around with the placement of the smaller sections, and below is the result. I hope you enjoy it.
 
 # Book 1. Prechristian History of York.
 
