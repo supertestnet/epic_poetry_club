@@ -13,7 +13,9 @@ The Founders of York is a poem by Blessed Alcuin of York composed in the 700s ad
 
 This translation was created in several stages. First, I divided the poem up into about 43 sections of roughly equal line counts. Then, I fed each section into Google Search's AI (based on Gemini), and asked it to translate each section literally. Then I combined all the sections, read through the poem, and asked the AI to identify the "principal divisions" of the poem, which are outlined above. Then I inserted those divisions to break up the text, and below is the result. I hope you enjoy it.
 
-# Section 1. Prechristian History of York.
+# Book 1. Prechristian History of York.
+
+Section 1.0.
 
 Christ God, the power and wisdom of the Father Most High,  
 Life, salvation, creator of humankind, renewer, lover,  
@@ -32,7 +34,10 @@ And lead you with him into the court of God the Father;
 Bring your steps with me, compose this song with your prayers:  
 Since my mind hastens to speak the praises of my homeland,  
 And to bring forth for a little while its ancient cradle,  
-In free verses for the glorious city of York.  
+In free verses for the glorious city of York.
+
+Section 1.1.
+
 The Roman hand first founded this city high with walls and towers,  
 Employing only the native British peoples as companions  
 And partners in their labors.  
@@ -88,7 +93,10 @@ And a more fortunate people should enter their cities;
 One that would keep the commandments of the Lord.  
 Which was fully done, by the gift of the Thunderer.  
 Now, while new scepters flourished with frequent triumphs,  
-The future people of God already began to have powerful kings from among themselves.  
+The future people of God already began to have powerful kings from among themselves.
+
+Section 1.2.
+
 At that time, the holy Bishop Gregory, venerable to the whole world,  
 Ruled the seat of the Roman Church, and as the greatest  
 Cultivator of Christ's fields, devoted everywhere,  
@@ -101,7 +109,9 @@ Pouring honey-flowing streams upon the arid fields:
 From which the ocean-dwelling Britons drank the drafts  
 Of everlasting salvation, already granted to them by Christ.  
 
-# Section 2. Christian Kings of York.
+# Book 2. Christian Kings of York.
+
+Section 2.0.
 
 Meanwhile Edwin, from the lineage of ancient kings,  
 Born in York, destined to be lord over all things,  
@@ -146,7 +156,10 @@ Unless they observed with their whole heart the far-seeing decrees
 Which the ruler set down to be kept by the subdued peoples.  
 He takes a faithful wife from the southern region,  
 Outstanding in morals, and illustrious by the lineage of her fathers,  
-And bountiful in all the virtues of the holy faith.  
+And bountiful in all the virtues of the holy faith.
+
+Section 2.1.
+
 To her is given a bishop, a keeper of an honorable life,  
 Paulinus by name, a most illustrious citizen of the city  
 Of Rome, relying on the great honor of his merits,  
@@ -184,13 +197,16 @@ Behold, Coifi at that time was the chief of the priests
 And the head of errors, to whom the king said: "Come,  
 Seize weapons previously unaccustomed to you, priest,  
 And you first, profane the high temple with a javelin;  
-You who had been a teacher of crimes, be now a teacher of salvation."  
+You who had been a teacher of crimes, be now a teacher of salvation."
+
+Section 2.2.
+
 The elder assented to these words, and answered in a few words:  
 "Up to this point my life has hung by an uncertain thread,  
 And a mist has overwhelmed my mind with doubtful darkness;  
 From now on I will follow certain things, desiring to know the truth,  
 And the eternal God; whether a future life awaits us,  
-Or whether torments remain for the wicked, or rewards for the just."  
+Or whether torments remain for the wicked, or rewards for the just.". 
 With these words, he seized a spear with a threatening right hand,  
 And mounted a male horse, not according to his usual custom,  
 Whose mane flies along its neck, and its steep crest swells;  
@@ -222,7 +238,10 @@ Thus also Bishop Gregory had decreed long ago,
 When he sent the seeds of life from the Roman citadel  
 To the nations of the Angles—he immediately commanded that this city  
 Be held as the head for the churches and the summit of honor,  
-And that consecrated bishops be clothed in the palliums within it.  
+And that consecrated bishops be clothed in the palliums within it.
+
+Section 2.3.
+
 Thus the pious bishop Paulinus first held it,  
 Who, meditating on the law of the Lord day and night,  
 Assidulously scattered the precepts of salvation among the peoples.  
@@ -262,7 +281,10 @@ And seek the help of God, more outstanding than all arms,
 With a pious heart; with prayers, lower your  
 Faces before the cross, which on this summit of the mountain  
 I have raised, which shines bright with the trophy of Christ,  
-Which also will now grant us a triumph over the enemy."  
+Which also will now grant us a triumph over the enemy."
+
+Section 2.4.
+
 Then the shout of the praying people is carried above the stars.  
 And so before the cross, the powerful Lord and God,  
 On bent knees, the whole army adores.  
@@ -296,7 +318,10 @@ Beautifully adorned with golden borders and crowns,
 And he hung various lamps throughout the holy roofs,  
 So that there might be in the temples an image of the starry heaven,  
 And devoutly he led Christ-worshipping flocks into them,  
-So that there might be praises to the Lord from those singing without end.  
+So that there might be praises to the Lord from those singing without end.
+
+Section 2.5.
+
 O piety, o lofty faith! For whatever treasures he had,  
 Lavishly he scattered them for the honor of the Lord:  
 Wherefore he shone with titles of virtues, and  
@@ -334,7 +359,10 @@ And gnashing, to foam from its bloody mouth,
 And collapsing on the plain, it rolled about there on the verge of death;  
 And turning, it came into the place where the pious King Oswald  
 Had once fallen, and then immediately rising up with a healthy body,  
-It greedily began to crop the pleasant green grass.  
+It greedily began to crop the pleasant green grass.
+
+Section 2.6.
+
 The rider understood that there was something more outstanding  
 About that place, and marking the spot, he rode away from there  
 Coming to the lodging where he had been heading; behold, a girl,  
@@ -368,7 +396,10 @@ But it remained completely untouched by the flames.
 Indeed, when this miracle was seen, a huge amazement  
 Fell upon everyone immediately; then they recognized that that  
 Dust was mixed with the sacred blood of King  
-Oswald, which had been the cause of health for many.  
+Oswald, which had been the cause of health for many.
+
+Section 2.7.
+
 After that place became illustrious through these performed signs,  
 And with pleasant peace restored to the churches of Christ,  
 The faithful Queen Osthryth, wife of King Æthelred,  
@@ -406,7 +437,10 @@ He being destined to receive great rewards for a modest labor.
 Moreover, the renowned earth shines with heavenly signs,  
 Which, as I said, was washed by the washing of the holy body,  
 And it took up the effect of conquering the weapons of the malignant  
-Demon, and of restoring healthy senses to the vexed.  
+Demon, and of restoring healthy senses to the vexed.
+
+Section 2.8.
+
 Indeed, a certain abbess came to see the holy places,  
 And to commit herself to the merits of the saint.  
 And now, returning home, she had carried away some dust of the earth  
@@ -443,7 +477,10 @@ Now again through you, victory yields to King Oswald,
 As a few muses  once sang.  
 From that time, your glory shone with wonderful signs;  
 Famous Britain runs to you with all faith,  
-To seek medicines for themselves for various diseases.  
+To seek medicines for themselves for various diseases.
+
+Section 2.9.
+
 And even when coming to you in hope, you know not how to deceive them;  
 For, returning, they often carry back the riches of health.  
 I, with a rustic plectrum, am not able to run through  
@@ -481,7 +518,10 @@ To the dire tartarus of hell; with a groaning voice
 He addresses his companion: "Brother, the moment of bitter death  
 Hastens for me, and I shall quickly be led to tartarus  
 Of perpetual death, because for no small time already  
-I was accustomed to serve entirely so greatly my offenses.  
+I was accustomed to serve entirely so greatly my offenses.
+
+Section 2.10.
+
 Oh, what grief! On account of these things I know that a deadly tartarus,  
 With flames, has been prepared for me. Hence it is with all my thoughts,  
 If the Almighty should wish to grant life to a wretched man,  
@@ -518,7 +558,10 @@ Leaving the earthly kingdoms to his brother Oswiu.
 Meanwhile, the new ruler Oswiu obtained the scepters with much labor  
 In the beginning, as the leader of his own nation;  
 For he had been attacked on this side and that in turn,  
-Quite often by foreigners plundering the borders everywhere.  
+Quite often by foreigners plundering the borders everywhere.
+
+Section 2.11.
+
 Moreover, he endured wars from his own kinsmen,  
 Who with cruel hand were tearing the vitals of the kingdom,  
 Filling their wicked right hands with kindred blood;  
@@ -553,7 +596,10 @@ And there was no delay, but bold he cast himself into the midst of the enemies,
 Overthrowing their battle-lines, relying on the shield-wall of Christ.  
 Soon fear scattered the hard-pressed wings of the peoples,  
 Who, unmindful of the fight, with their arms and weapons abandoned,  
-Sought safe places of flight, and tore up their own standards.  
+Sought safe places of flight, and tore up their own standards.
+
+Section 2.12.
+
 The victorious king cuts down the wedges of the fleeing everywhere,  
 Chiding the retreating phalanxes with a horrific voice.  
 Weapons swim in gore, the springs are changed with blood;  
@@ -586,7 +632,9 @@ With affairs settled, he rested happy in peace,
 Handing over the diadems to his own son Ecgfrith,  
 Dying, leaving the royal scepters to Ecgfrith.  
 
-# Section 3. Bishops of York.
+# Book 3. Bishops of York.
+
+Section 3.0.
 
 For at that time, Bishop Wilfrid shone forth,  
 Whom almighty God infused with heavenly light,  
@@ -631,7 +679,10 @@ He came to the very end with a worn-out body,
 And for twice two days he lay almost lifeless,  
 Without any sense of the body, and deprived of breath,  
 Lacking a voice, and paralyzed in his limbs, and in his chest alone  
-He scarcely drew cold sighs with a thin breath.  
+He scarcely drew cold sighs with a thin breath.
+
+Section 3.1.
+
 His disciples and companions stood on this side and that, groaning,  
 And mourning the lamentable death of their Father.  
 Behold! On the fifth day, the Father himself suddenly sat up,  
@@ -666,7 +717,10 @@ And filling uncultivated places with fruitful green fields,
 He irrigated the thirsting meadows with eternal fountains;  
 And shaping all his followers with divine virtue,  
 He was scattering the rays of heavenly doctrine everywhere,  
-Dispersing the darkness of errors with a serene light.  
+Dispersing the darkness of errors with a serene light.
+
+Section 3.2.
+
 There is a place in the Ocean called by the name of Farne,  
 An island destitute of a spring, and devoid of grain and tree;  
 This place the rich warrior of Christ seeks intrepidly,  
@@ -703,7 +757,10 @@ While a burning tumor grew up in his tender body.
 Or how he himself as a boy, by his prayers, recalled from the sea  
 Five ships tossed by the winds through the blue waves.  
 Or how he saw the soul of Bishop Aidan being carried  
-Above the stars, while he was pasturing tender lambs.  
+Above the stars, while he was pasturing tender lambs.
+
+Section 3.3.
+
 How, while he desired to cherish a heaven-dweller with earthly bread,  
 He deserved to receive heavenly loaves from him.  
 How wild beasts cherished his cold body with their fur and breath,  
@@ -740,7 +797,10 @@ Being carried into heaven by angelic companies;
 And how, while sick himself, he cured his own minister,  
 Who had been weighed down by the wasting of a flux of the belly.  
 How in the eleventh year after his death, his body  
-Was found whole, together with his entire clothing.  
+Was found whole, together with his entire clothing.
+
+Section 3.4.
+
 A demon-possessed man, over whom water is poured  
 Which had washed the sacred limbs of the Father, is healed.  
 How a certain man, drawing sick sighs, while praying  
@@ -777,7 +837,10 @@ They remained together chaste, spouse with spouse.
 And how whole the virgin was while living in her body,  
 The Lord revealed through manifest signs after her death;  
 For her flesh, even though buried through six times ten years,  
-Was indeed found incorrupt together with her entire clothing.  
+Was indeed found incorrupt together with her entire clothing.
+
+Section 3.5.
+
 The body was completely vigorous and flexible in its tendons,  
 And her holy face was gleaming with reddish beauty.  
 And what by right is much more wondrous to relate,  
@@ -815,7 +878,10 @@ And I was living bound by marital law."
 Receiving him, the count at first bestirred himself to cure him;  
 Yet lest he should flee, he ordered him to be bound; but he  
 Was never able to be bound, for all the chains  
-Were accustomed to be loosed of their own accord in a wondrous manner.  
+Were accustomed to be loosed of their own accord in a wondrous manner.
+
+Section 3.6.
+
 While the enemies were discerning these things with astonished minds,  
 Thinking it to be from magic arts or written spells,  
 Quite often they added new chains to the old chains.  
@@ -856,7 +922,10 @@ Fell, conquered with a wretched slaughter of his own men,
 Leaving the rulers of the empire to his brother Aldfrith,  
 Who had been imbued with sacred studies from the years  
 Of his earliest age, a sophist  of powerful speech,  
-And keen in intellect: the same man at once king and master.  
+And keen in intellect: the same man at once king and master.
+
+Section 3.7.
+
 The venerable priest Bosa was in charge of the Church,  
 At that time with merits fully worthy of his high rank,  
 A man who was a monk, a bishop, a moderate and honest teacher,  
@@ -888,7 +957,10 @@ With great virtues, he passed joyful and happily into the heavenly court.
 A memorable vision took place during these same times,  
 Which, as I think, if it is written down thus in our song,  
 Will benefit many who are to be called back from eternal death,  
-So that it might therefore be able to heal souls destroyed by vices.  
+So that it might therefore be able to heal souls destroyed by vices.
+
+Section 3.8.
+
 Behold, a certain man having been dead for a long time arose in his body,  
 And he reported many things which he saw that are worthy of mention,  
 Of which we shall add a few things here to our muses .  
@@ -925,7 +997,10 @@ This was filled with the souls of men on this side and that,
 Who, when excessively scorched and unable to bear the flames,  
 Soon leapt forward into the midst of the cold,  
 And when they could not find rest there either, in turn,  
-Weeping, they were carried back again into the flame-vomiting fire.  
+Weeping, they were carried back again into the flame-vomiting fire.
+
+Section 3.9.
+
 Perceiving these things, I meditated within myself that by chance this might be  
 The infernal punishment, which I was often accustomed to hear about.  
 And that guide said to me as I was meditating on such things:  
@@ -961,7 +1036,10 @@ And they threaten to seize me with pincers;
 Yet they were not yet able to touch me so much, though they had power to terrify me greatly.  
 Then I, enclosed by darkness and hard-pressed by the enemy,  
 Looked around with my eyes, if by chance any help might come  
-By which I might now be saved from the bloody enemy.  
+By which I might now be saved from the bloody enemy.
+
+Section 3.10.
+
 Then behind my back it shone through the shadows just like a star,  
 Which, growing larger and hastening, had put the enemies to flight;  
 It was my guide arriving suddenly with light,  
@@ -998,7 +1076,10 @@ He inquires if by chance I knew all that I saw:
 I said to him, "I know not," and immediately he added these things:  
 "You saw the valley filled with flames and frost,  
 In which souls are now purged by sharp punishments,  
-And they return again, having been cleansed, to the rewards of life.  
+And they return again, having been cleansed, to the rewards of life.
+
+Section 3.11.
+
 But indeed, the pit which belches out foul fire  
 Is the mouth of hell; for whoever by chance casts himself  
 Into it shall never after this be saved from there.  
@@ -1017,7 +1098,9 @@ So that your holy dwelling may be accounted among these crowds."
 When he was saying these things—though how, I was unable to know—  
 I suddenly saw myself clothed in my own body."  
 
-# Section 4. Golden Age of York.
+# Book 4. Golden Age of York.
+
+Section 4.0.
 
 Nor did this nation, our mother of illustrious men,  
 Then keep those whom she begot for herself alone,  
@@ -1053,7 +1136,10 @@ By his heavenly admonitions, and
 Adorned the pontifical glory over many years,  
 And constructed many churches for God in that same place,  
 Appointing priests in them, and ministers of the word;  
-Completing all things, he rested happy in peace.  
+Completing all things, he rested happy in peace.
+
+Section 4.1.
+
 Behold, two priests had followed his examples,  
 Kindled by an excessive fervor of faith;  
 Each called by one and the same name, Hewald.  
@@ -1093,7 +1179,10 @@ Bishops; and to leave behind the succession of kings
 Who after Aldfrith varied the times of the kingdom—  
 He having discharged his empire for ten and nine  
 Orbits of years alike, who afterward under a time of peace,  
-Appeared to his fathers, resting by his ultimate lot.  
+Appeared to his fathers, resting by his ultimate lot.
+
+Section 4.2.
+
 Meanwhile, as Bosa was seeking the happy kingdoms,  
 That most illustrious man John takes up the governance of the Church—  
 A man in piety, faith, merits, and mind,  
@@ -1128,7 +1217,10 @@ Rejoicing, he did not cease to bring forth various speech,
 And to lay open the secret thoughts of his mind;  
 And together with his voice, his skin now returned healthy as well;  
 And new hairs are restored with curled hair;  
-And the youth was made beautiful, and prompt in speech.  
+And the youth was made beautiful, and prompt in speech.
+
+Section 4.3.
+
 And thus, healed, he was going to his own home rejoicing.  
 Nor does it weary  to remember another praiseworthy sign:  
 While the shepherd was surveying the sheepfolds with watchful protection,  
@@ -1163,7 +1255,10 @@ And the granted power of desired health came,
 And the woman then immediately rises safe from her couch,  
 And with renewed strengths, she carries cups  
 To the holy priest, and active, ministers to all.  
-And she returned thanks to God together with her own husband.  
+And she returned thanks to God together with her own husband.
+
+Section 4.4.
+
 But another count, at a different time, caused him to be summoned  
 To dedicate a church of the Lord according to custom,  
 Whose boy, by chance subdued by a deadly plague,  
@@ -1204,7 +1299,10 @@ Nor was any other stone found in that field;
 Against this he struck his head and hand by a bitter accident,  
 And loosed the joints of his skull, and with his brain  
 Shattered, he lay now devoid of all his senses:  
-And he was moribund, without any movement of his body.  
+And he was moribund, without any movement of his body.
+
+Section 4.5.
+
 Indeed, it was then around the seventh hour of the day,  
 And half-dead he is carried away to a house by those companions.  
 But the watchful priest was persisting in prayers through the night;  
@@ -1242,7 +1340,10 @@ The pious bishop, while performing these things in the city of York,
 Adorned other churches with rich gifts,  
 Nor did he manage with less care from a pious heart  
 To multiply his flocks, having followed the commandments of the Lord,  
-By the warnings of his doctrine and by his gleaming examples.  
+By the warnings of his doctrine and by his gleaming examples.
+
+Section 4.6.
+
 These he was nourishing with feasts of the mind, but those with feasts of the flesh:  
 These he cherishes with heavenly things, those he enriches with fleshly ones,  
 With mouth and hand alike, generous with gifts to both,  
@@ -1276,7 +1377,10 @@ Fierce against the wicked, at once gentle and severe.
 He divided both the nights and the days into sacred turns,  
 Active, praying assiduously through the spacious nights,  
 Celebrating the holy solemnities of Masses by day,  
-And he provided many ornaments in the houses of God.  
+And he provided many ornaments in the houses of God.
+
+Section 4.7.
+
 Those  he clothed in silver, gems, and gold,  
 Hanging silken veils with foreign figures.  
 And he himself consecrated honest ministers for the altars,  
@@ -1310,9 +1414,12 @@ Who, seeking foreign shores, led by the love of Christ,
 Died as an exile within the borders of the city of Langres (Linguana),  
 And there, fortunate, was buried with fully worthy honor.  
 Whose body, after a long time, was found  
-Entirely incorrupt, and was brought back thence to his homeland.  
+Entirely incorrupt, and was brought back thence to his homeland.
+
+Section 4.8.
+
 Therefore, Bede, nurtured in that monastery,  
-Adorned his tender years with illustrious morals.  
+Adorned his tender years with illustrious morals.
 For, wise to learn or always to write, the youth  
 Fervently pressed on, laboring with no sluggish mind:  
 And progressing thus, he became a master by right.  
@@ -1346,7 +1453,10 @@ With the blessed arms of the cross, the helmet, and the shield of faith.
 Indeed, while that pious man at a certain time alone  
 Bent over his prayers, meditating only upon heavenly things:  
 Suddenly he heard a horrible noise and a crash at the same time,  
-Just like that of a crowd bursting forth against enemies.  
+Just like that of a crowd bursting forth against enemies.
+
+Section 4.9.
+
 Then the soul of a certain man fell before his feet  
 From the clouds above, trembling with too great a fear;  
 Which a threatening crowd soon followed with immense horror,  
@@ -1387,7 +1497,10 @@ While he falls, the wave flows, lest the fall should injure him.
 The fields remain for his steps, lest the sea should submerge him.  
 Therefore, he walks upon a solid deep, just as on a path of land,  
 Until he himself had arrived at a wave-wandering bark:  
-Which as a pedestrian, along a secure path, he soon mounts.  
+Which as a pedestrian, along a secure path, he soon mounts.
+
+Section 4.10.
+
 No moisture had clung to his clothing, no wetness to his slippers.  
 What nature denies, your right hand grants, O Christ;  
 By your command, the wave of the sea becomes passable to the just:  
@@ -1424,7 +1537,10 @@ Because he often drenched your senses with nectar,
 Belching forth sweet juices from a honey-flowing breast—  
 Whom, soon from his first cradle, a most beautiful reason  
 Seized, and was carrying him into the highest citadel of things,  
-Laying open to him the secrets of the doctrine of wisdom.  
+Laying open to him the secrets of the doctrine of wisdom.
+
+Section 4.11.
+
 Therefore, he was born of sufficiently illustrious parents,  
 By whose care he is soon delivered to bountiful studies,  
 And is placed into a monastery in his boyish years,  
@@ -1459,7 +1575,10 @@ The natures of men, of cattle, of birds, and of wild beasts,
 The diverse species of number, and various geometric figures.  
 And he gave certain calculation for the solemnity of the recurring Easter,  
 Most of all laying open the mysteries of Holy Scripture.  
-For he revealed the abyss of the new and the old law.  
+For he revealed the abyss of the new and the old law.
+
+Section 4.12.
+
 Whatever youths of extraordinary talent he saw,  
 These he joined to himself, taught, nourished, and loved;  
 Wherefore, through the sacred volumes, the teacher had  
@@ -1497,7 +1616,10 @@ Enriching these in their understanding, and adorning those in their morals.
 Nor had the Father, arriving into so great a summit of honor,  
 Changed his ancient custom in clothing and food:  
 Fleeing excessive delicacies, nor yet had he pursued  
-Exceedingly cheap things, rejoicing in a middle moderation.  
+Exceedingly cheap things, rejoicing in a middle moderation.
+
+Section 4.13.
+
 Nor less meanwhile did he add ornaments with varied beauty  
 To the churches, filled with the fervor of faith.  
 For where the warrior King Edwin took the wave of baptism,  
@@ -1535,7 +1657,10 @@ Therefore, the most illustrious administrator in the sacred order,
 A perfect bishop, and full of days in merits,  
 Joyfully handed over the pontifical glory to Eanbald, his beloved pupil;  
 For himself, he sought out a secret enclosure,  
-Where he might now be free to serve God alone.  
+Where he might now be free to serve God alone.
+
+Section 4.14.
+
 But he handed over his treasures, dear above all things,  
 His books, to another son, who always attached himself to his father,  
 Accustomed, thirsting, to drink the streams of doctrine:  
@@ -1572,7 +1697,10 @@ You will find very many other masters there, reader,
 Extraordinary in studies, in art, and in speech,  
 Who wrote a great many volumes with clear meaning:  
 But to write their names in the present poem  
-Seemed too long for what the use of the plectrum demands.  
+Seemed too long for what the use of the plectrum demands.
+
+Section 4.15.
+
 With these things thus arranged, the highest bishop, completing his times,  
 Wholly mature in merits and in years,  
 After two years and months  just as many years  
@@ -1608,7 +1736,10 @@ Is divided into four seasons, as long as buds grow in the earth;
 As long as the stars shine, as long as the wind drives the clouds;  
 Always your honor, your name, and your praises will remain.  
 Here, although I wished to close you, Thalia, with a fixed end,  
-A matter carried out in our own days occurs to me.  
+A matter carried out in our own days occurs to me.
+
+Section 4.16.
+
 Therefore, although weary, sing yet a few verses,  
 And gird up the case of my boy for a little while,  
 To which matter it also happened that I myself was a present witness.  
@@ -1644,7 +1775,10 @@ You shall now be about to feel better; but another of the brothers
 Shall be about to die today, whose prepared seat  
 You saw." Nor did the speech deceive the youth.  
 For he quickly recovered, while the sun was glowing at its rising;  
-Before midday, however, the other  was dead.  
+Before midday, however, the other  was dead.
+
+Section 4.17.
+
 Yet after a short time, that same youth, within the same  
 Year, is struck by the plague of a devastating sorrow,  
 And immediately he predicted to me during that illness:  
