@@ -1,4 +1,4 @@
-o---
+---
 layout: post
 type: history_post
 title: "The Visigothic Renaissance | 589-711 ad"
