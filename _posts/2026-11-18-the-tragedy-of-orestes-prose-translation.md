@@ -6,7 +6,7 @@ title: "The Tragedy of Orestes (prose translation)"
 
 The Tragedy of Orestes is a poem by Dracontius, an African poet of the Vandal Renaissance. It uses a style influenced by Vergil, with strong evidence of Dracontius's legal training. The poem is also mostly a rewrite of three plays of Aeschylus, converted into a single epic, narrative poem.
 
-The poem is notable as one of the last surviving examples of a major mythological epic poem in Latin in for hundreds of years. Until the Waltharius arrived in the 800s, Latin epics tended to be about relatively recent events starring real people, rather than embellished stories from ancient mythology.
+The poem is notable as one of the last surviving examples of a major mythological epic poem in Latin for hundreds of years. Until the Waltharius arrived in the 800s, Latin epics tended to be about relatively recent events starring real people, rather than embellished stories from ancient mythology.
 
 This translation was created in several stages. First, I divided the poem up into sections of roughly 40 lines apiece, which I call sections. Then, I fed each section into Google Search's AI (based on Gemini), and asked it to translate each section idiomatically. Then I read through each section, modified them for readability, combined them, and decided it was good enough to post. Below is the result, and I hope you enjoy it.
 
@@ -914,7 +914,7 @@ She spoke, and threw his heart into turmoil with a hissing snake from the pyre.
 But fate would not let him outrun his swift mother,  
 His hand went to his hilt, yet, despite repeated blows, he only sliced  
 The air, and drew back an empty right hand without inflicting a wound.  
-Then in his misery cried out: "Mine is the blood stained blade.  
+Then, in his misery, he cried out: "Mine is the blood stained blade.  
 You, harlot, who lie struck down by it, shall be struck a second time."
 
 Section 21.
