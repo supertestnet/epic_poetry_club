@@ -772,13 +772,13 @@ Then the enraged queen spoke angrily to the servants:
 "I will avenge this, as surely as I live and Aegisthus grows old with me!"  
 While still speaking these words and making fierce threats of vengeance,  
 One of the maidservants ran up, badly shaken and panting.  
-"Orestes has come," she said, yet they didn't immediately believed her.  
+"Orestes has come," she said, yet they didn't immediately believe her.  
 While they hesitated, think she imagined it and that she spoke empty words,  
 Pylades appeared in the hall, fierce and relentless.  
 Just as Ajax, savage and implacable, faced his enemy  
 When he attacked Hector, and, covered by his sevenfold shield,  
 He roared with his mouth and threatened with his brow, even so Pylades flourished his sword,  
-And thunderes at the committers of the crimes: "By your cruel audacity  
+And thundered at the committers of the crimes: "By your cruel audacity  
 You have reigned savagely until now! Did you hope to escape  
 The hands of justice? Now you shall pay the brutal  
 Penalty for your crimes, destroyed and destroyed again!"  
@@ -798,7 +798,7 @@ They hacked him to pieces. They shattered his bones with a thousand axes,
 And yet his limbs twitched, though cruelly severed by every slice.  
 Meanwhile, the mother, spared for the moment, thought her son would show her mercy.  
 Thus, believing herself safe, began to mourn the shepherd,  
-When suddenly Orestes appeares, savage and more ruthless than an enemy.  
+When suddenly Orestes appeared, savage and more ruthless than an enemy.  
 Bent on his mother's destruction and supported by a terrifying band  
 Of servants, he seized her by the hair and dragged her along,  
 Reproaching her thusly: "Did you hope that after my father's death your wicked crime  
@@ -921,7 +921,7 @@ Section 21.
 
 Thus he spoke, and the oppressive shade, recognizing the sword, was put to flight  
 Through the yielding air. But, alas, the madness of Orestes remained,  
-And the Argive avenger, the heir or Agamemnon raged violently.  
+And the Argive avenger, the heir of Agamemnon raged violently.  
 Just as that barely sober Lycurgus went away raging from Bacchus,  
 Just as Hercules raged when fierce Megaera terrified him,  
 Just as Ajax, the bravest of Greeks, once raged,  
@@ -929,7 +929,7 @@ Even so he roared uncontrollably and rushed throughout the palace.
 He thought the servants were his mother, he thought his friends were his mother,  
 Whoever was there was his mother, and everywhere nearby  
 Were the viper and the fire. He fled from these, while attacking those,  
-And only the face of his comerade Pylades did not terrify him.  
+And only the face of his comrade Pylades did not terrify him.  
 Amidst delicacies fit for royal banquets  
 He went hungry, for the candles on the tables dissuaded him from approaching.  
 Even so men go starving in hell, tormented by the phantom of emptiness,  
@@ -946,7 +946,7 @@ Spirited him away, and sent him off to a foreign shore.
 He had reached the coast where the temple of Diana stood.  
 There, a savage custom prevailed. The wretched stranger was led as a victim  
 For the blade, and soon stood upright at the altar, bound with silk fasteners.  
-As soon as he saw that the priestess weilded the customary iron blade,  
+As soon as he saw that the priestess wielded the customary iron blade,  
 His madness was driven out by terror. Imminent death restored  
 His mind, and adversity granted him a share of health.  
 For the poor wretch, repeating the name of Agamemnon, cried out again and again.  
@@ -1029,7 +1029,7 @@ Was divided, and the count was equal for each color.
 But Minerva’s right hand held a pebble which was white,  
 Added one to the count for life. "Orestes must be acquitted!"  
 Was declared, and the verdict of the elders was pronounced thusly:  
-"If mortal#/s were allowed to judge the decrees of the gods,  
+"If mortals were allowed to judge the decrees of the gods,  
 Orestes's deed could be investigated by legal process.  
 However, we are bound by the divine command to the mercy of heaven.  
 Thus we are not permitted to hear this case, and the judgment of the law must rest.  
