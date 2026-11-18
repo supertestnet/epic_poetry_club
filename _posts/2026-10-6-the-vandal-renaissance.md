@@ -46,7 +46,7 @@ Abraham and Isaac | Pseudo Ephrem | ~500 lines | [Translation](https://www.johns
 The Coming of the Lord and the End of the World | Pseudo Ephrem | ~500 lines | 
 The Second Coming | Pseudo Ephrem | ~400 lines | 
 The Song of Easter | Sedulius | ~1,700 lines | [Partial translation](https://archive.org/details/eastersong00seduuoft/page/82/mode/1up)
-The Tragedy of Orestes | Dracontius | ~1,000 lines | 
+The Tragedy of Orestes | Dracontius | ~1,000 lines | [Prose translation](/2026/11/18/the-tragedy-of-orestes-prose-translation.html)
 The Abduction of Helen | Dracontius | ~700 lines | 
 Medea | Dracontius | ~600 lines | 
 The Praise of God | Dracontius | ~2,300 lines | 
