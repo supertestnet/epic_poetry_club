@@ -625,7 +625,7 @@ And when fate saw fit for me to be born, and I came forth,
 She, with a stream from her breast, gave her milky teats to my lips,  
 Pouring forth sweet honey with the taste of nectar.  
 She who was mother became nurse to me. The queen became a servant,  
-Showing familial care, and turning a stranger to sleep.  
+Showing familial care, and becoming a stranger to sleep.  
 She was both mother and father to me while my father fought at war,  
 Until age carried me past my eleventh year.  
 Shall I prove unmindful of such great kindnesses from my mother?  
