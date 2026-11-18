@@ -4,7 +4,7 @@ title: Venato Verba
 ---
 <div class="Home">
   <p class="Home-about">
-      I am a poet who loves to write english language epic poetry.
+      I am a poet who loves to write epic poetry.
   </p>
 
   <div class="Home-posts">
