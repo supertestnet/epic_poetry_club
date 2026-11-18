@@ -13,4 +13,4 @@ Today I released a recording of my recital of chapter 20 of my ongoing work, "Th
   .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; }
   .embed-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 </style>
-<!-- <p><a href="/2026/11/03/chapter-nineteen-of-the-life-of-robin-hood.html">Next chapter →</a></p> -->
+<p><a href="/2026/11/18/chapter-twenty-one-of-the-life-of-robin-hood.html">Next chapter →</a></p>
