@@ -93,7 +93,8 @@ The Heliand | Anonymous | ~6,000 lines
 The Gospel Book | St. Otfrid | ~7,100 lines
 Walter of Acquitaine | Gerald of Bavaria | ~1,500 lines
 The Life of St. Germain | Heiric of Auxerre | ~3,500 lines
-Metrical Passion of St. Denis | Hilduin of St. Denis | ~2,000 lines
+The Metrical Passion of St. Denis | Hilduin of St. Denis | ~2,000 lines
+The Metrical Life of St. Leodegar | Walafrid Strabo | ~1,200 lines
 The Vision of Wetti | Walafrid Strabo | ~900 lines
 Life of St. Amandus | Milo of Saint-Amand | ~1,800 lines
 The Paderborn Epic | St. Angilbert (probably) | ~500 lines survive (the original was probably ~2,500 lines)
