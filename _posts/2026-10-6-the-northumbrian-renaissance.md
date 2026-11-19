@@ -30,4 +30,4 @@ St. Guthlac B | Anonymous | ~500 lines | [Translation](https://oldenglishpoetry.
 The Old English Genesis A | Anonymous | ~2,300 lines survive (the original was probably ~6,000 lines) | [Translation](https://oldenglishpoetry.camden.rutgers.edu/genesis-ab/)
 The Old English Exodus | Anonymous | ~600 lines survive (the original was probably ~800 lines) | [Translation](https://oldenglishpoetry.camden.rutgers.edu/exodus/)
 Beowulf | Anonymous | ~3,200 lines | [Translation](https://books.google.com/books?id=Rndhg5W4RcwC)
-In Praise of the Virgins | St. Aldhelm | ~2,900 lines | 
+In Praise of the Virgins | St. Aldhelm | ~2,900 lines | [Translation](https://clasp.ell.ox.ac.uk/db-latest/poem/ALDHELM.CarmVirg) -- note that, to read the English translation on the linked page, there is a button to toggle it on, otherwise it just shows the Latin text of the poem
