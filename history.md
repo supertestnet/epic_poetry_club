@@ -15,5 +15,5 @@ title: History
 
 ## Miscellaneous
 400-1100 ad » [Medieval Catholic epic poems](/2026/08/16/list-of-catholic-epic-poems-til-1100-ad.html)  
-600s ad » [The Ghosts of Vergil](/2026/11/19/the-ghosts-of-vergil.html)  
+600-700 ad » [The Ghosts of Vergil](/2026/11/19/the-ghosts-of-vergil.html)  
 1300-2000 ad » [Timeline of great english epics](/2026/07/05/timeline-of-great-english-epics.html)  
