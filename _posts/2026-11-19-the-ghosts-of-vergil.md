@@ -10,7 +10,7 @@ From the 300s onward, the tradition of writing secular epic poetry was alive and
 
 In the 600s, things seem to change. There are four places in that century where you might expect a secular epic poem in Latin to be written: France, Italy, England, and Spain. But, apparently, no such poem survives. In this essay, I want to explore each country separately, because on a first perusal, it seems unlikely that any single one of these regions produced a secular epic poem in this century, but, if you take them together, I think it’s probable that at least one of them did.
 
-Note that I define the term “epic poems” in this essay to include epyllions or “mini epics.” Namely, epic secular poems are poems of 500 lines or more about war, folklore, or civic history, without being primarily intended as devotional texts or aids to prayer.
+Note that I define the term “epic poems” in this essay to include some of the longer epyllions or “mini epics.” Namely, epic secular poems are poems of 500 lines or more about war, folklore, or civic history, without being primarily intended as devotional texts or aids to prayer.
 
 ## France
 
