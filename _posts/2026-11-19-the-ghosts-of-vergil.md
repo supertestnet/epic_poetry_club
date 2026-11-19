@@ -77,7 +77,7 @@ Love unto us he bore, despising the claims of his kindred,
 Deeming Ravenna his own fatherland, dear to his heart.  
 First of his valiant deeds was the glory of captured Brexillus.  
 There for a time he remained, dreadful to all his foes.  
-Later when here his power brought aid to the Roman standards. 
+Later when here his power brought aid to the Roman standards  
 First within his hands rested the banner of Christ.  
 Afterwards when Faroald withheld by treachery Classis,  
 “Fleet-town” in hope to avenge, arms for the fleet he prepares,  
