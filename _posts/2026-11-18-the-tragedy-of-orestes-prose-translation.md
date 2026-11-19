@@ -14,13 +14,13 @@ This translation was created in several stages. First, I divided the poem up int
 
 Section 0.
 
-I sing of mournful joys and of triumphs to be loathed,  
+I sing of mournful joys and of loathsome triumphs,  
 Of slaughter instead of praise for the victor, of bloody festivities,  
 Of the sorrow of a funeral, and of the lamentable vow  
 Of the Trojan mistress, not the wife who cut the throat of the son of Atreus.  
 I sing of laurel wreaths, gleaming with royal blood,  
 And of the leader's crown defiled by brains and gore.  
-Of Orestes, forgetful of his father, but mindful of the murder his mother committed,  
+Of Orestes, forgetful of his father, but mindful of his mother's murderous act,  
 Devout in his impiety, a man whose very righteousness was wicked.  
 I sing of gods who were unjust, yet, by a fierce logic, justly so.  
 Of an innocent culprit, of the cleansing temples of the sisters in Thrace,  
