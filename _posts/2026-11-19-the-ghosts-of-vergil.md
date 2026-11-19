@@ -67,7 +67,7 @@ I think this theory is possible, but I also think it is unlikely, for the follow
 
 Drocton lies buried within this tomb, but only in body,  
 For in his merits he lives, over the orb of the world.  
-First with the Langobards he dwelt, for by race and by nature. 
+First with the Langobards he dwelt, for by race and by nature  
 Sprung from Suavian stock, suave to all people was he.  
 Terrible to be seen was his face, though in heart he was kindly,  
 Long was the beard that grew down on his vigorous breast.  
