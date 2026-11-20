@@ -12,6 +12,8 @@ The History of King Wamba is a unique text of the Visigothic Renaissance in whic
 
 This translation was created in several stages. First, I divided the poem up into about 10 sections of roughly equal length. Then, I fed each section into Google Search's AI (based on Gemini), and asked it to translate each section literally. Then I combined all the sections, read through the text, and decided it was good enough to post. Below is the result, and I hope you enjoy it.
 
+[Here is my source text.](https://la.wikisource.org/wiki/Historia_Wambae_regis)
+
 # The Text
 
 0\. In the name of the Lord begins the book of the history of Gaul, which was published by Lord Julian, bishop of the see of Toledo, in the time of the prince of divine memory, Wamba. In the name of the Holy Trinity begins the history of the most excellent King Wamba, concerning the expedition and victory by which he subdued the rebelling province of Gaul in a famous triumph.
