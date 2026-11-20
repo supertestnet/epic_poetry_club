@@ -10,6 +10,8 @@ One of the things I find interesting about the story is the appearance of a bear
 
 This translation was created in several stages. First, I divided the poem up into sections of roughly 40 lines apiece, which I call sections. Then, I fed each section into Google Search's AI (based on Gemini), and asked it to translate each section idiomatically. Then I combined all the sections, read through the text, modified a few lines for readability, and decided it was good enough to post. Below is the result, and I hope you enjoy it.
 
+[Here is my source text.](https://ancientlibrary.net/anonymous-waltharius/)
+
 # Text
 
 ## Preface.
