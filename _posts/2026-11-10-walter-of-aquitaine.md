@@ -18,12 +18,12 @@ This translation was created in several stages. First, I divided the poem up int
 
 Section 0.0.  
   
-Almighty Father, lover of supreme virtue,
-And the Son of equal right, and the nurturing Spirit of them both,
-Three in persons, but one in true deity,
-Who, living life, will hold all things without end,
-Save now and forever the supreme pontiff,
-The worthy Erckambald, who gleams with an illustrious name,
+Almighty Father, lover of supreme virtue,  
+And the Son of equal right, and the nurturing Spirit of them both,  
+Three in persons, but one in true deity,  
+Who, living life, will hold all things without end,  
+Save now and forever the supreme pontiff,  
+The worthy Erckambald, who gleams with an illustrious name,  
 So that he may grow inwardly, filled with the holy breath,  
 Whereby he may be an unfeigned remedy to many for all time.  
 Holy prelate of God, receive now the gifts of your servant,  
