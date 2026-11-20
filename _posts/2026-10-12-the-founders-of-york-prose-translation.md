@@ -15,6 +15,8 @@ I have decided to call these divisions books, and to put smaller sections within
 
 This translation was created in several stages. First, I divided the poem up into sections of roughly equal line counts. Then, I fed each section into Google Search's AI (based on Gemini), and asked it to translate each section literally. Then I combined all the sections and read through the poem. I inserted books to further break up the text, messed around with the placement of the smaller sections, and below is the result. I hope you enjoy it.
 
+[Here is my source text.](https://la.wikisource.org/wiki/Carmina_(Alcuinus))
+
 # Book 1. Prechristian History of York.
 
 Section 1.0.
