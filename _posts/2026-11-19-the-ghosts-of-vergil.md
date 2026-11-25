@@ -89,7 +89,7 @@ Vanquishes also in lands of the East the impetuous Avar,
 Seeking to win for his lords victory’s sovereign palm.  
 Often to them as a conq’ror, sustained by the aid of Vitalis,  
 Martyr and holy saint, honored with triumphs he came.  
-And in the fane of Vitalis he sought the repose his body,  
+And in the fane of Vitalis he sought the repose of his body,  
 Pleased that this place should hold, after his death, his remains.  
 When he died, he implored these things of the priest Joannes,  
 By whose pious love he had returned to these lands.
